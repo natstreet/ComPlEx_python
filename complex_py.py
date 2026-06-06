@@ -12,7 +12,8 @@ Algorithm (mirrors ComPlEx.R exactly):
        - neighbourhood = genes above threshold
        - map S2 neighbourhood back to S1 via orthologs
        - hypergeometric p-value on overlap
-  7. BH FDR correction, max p-value per pair
+  7. BH FDR correction (denominator selectable via --fdr-denominator),
+     max p-value per pair
   8. Filter to FDR < 0.05 and save as TSV
 
 Speed vs R:
@@ -27,7 +28,8 @@ Usage:
     --orthologs doc/genes_ortholog_categories.tsv \
     --s1-name  spruce --s2-name pine \
     --out-dir  /path/to/output \
-    [--density 0.03] [--workers 8] [--cor-method pearson]
+    [--density 0.03] [--cor-method pearson] \
+    [--fdr-denominator candidates|both-overlap|all-pairs]
 """
 
 import argparse
@@ -58,6 +60,18 @@ def parse_args():
                    help="VST threshold for featureSelect filter")
     p.add_argument("--min-samples",type=int,   default=2,
                    help="Min samples >= min-expr for featureSelect")
+    p.add_argument("--fdr-denominator", default="candidates",
+                   choices=["candidates", "both-overlap", "all-pairs"],
+                   help="Set of tests entered into the BH FDR denominator. "
+                        "'candidates' (default): pairs with overlap > 1 in at "
+                        "least one direction (original Python behaviour). "
+                        "'both-overlap': pairs with overlap > 0 in both "
+                        "directions (matches validate_complex.R). "
+                        "'all-pairs': every tested ortholog pair, p=1 where "
+                        "overlap <= 1 (matches the original ComPlEx paper, "
+                        "Netotea et al. 2014). Only the denominator changes; "
+                        "the set of pairs that can reach FDR < 0.05 is identical "
+                        "across modes.")
     return p.parse_args()
 
 
@@ -143,6 +157,27 @@ def density_threshold(MR, density):
     print(f"  density threshold = {thr:.3f} "
           f"(top {density*100:.1f}% of {len(upper_sorted):,} edges)", flush=True)
     return thr
+
+
+# ── BH FDR with an explicit denominator ───────────────────────────────────────
+def bh_with_denominator(pvals, m):
+    """Benjamini-Hochberg FDR where the number of tests is `m` (>= len(pvals)).
+
+    The (m - len(pvals)) omitted tests all have raw p = 1 (overlap <= 1 in the
+    relevant direction) and therefore cannot become significant. Padding the
+    p-value vector with ones, correcting, and discarding the padded tail is
+    exactly equivalent to including those tests explicitly: ones sort to the end
+    of the BH ranking, so they only inflate the denominator and never lower the
+    adjusted p-value of a real test. This lets us match a large FDR denominator
+    (e.g. all ortholog pairs) without materialising a row per pair.
+    """
+    pvals = np.asarray(pvals, dtype=float)
+    k = len(pvals)
+    m = max(m, k)
+    if m == k:
+        return multipletests(pvals, method="fdr_bh")[1]
+    padded = np.concatenate([pvals, np.ones(m - k)])
+    return multipletests(padded, method="fdr_bh")[1][:k]
 
 
 # ── Hypergeometric test for one direction ────────────────────────────────────
@@ -299,6 +334,7 @@ def main():
     s1_arr = ortho["Species1"].values
     s2_arr = ortho["Species2"].values
     res_rows = []
+    n_both_overlap = 0   # pairs with overlap > 0 in both directions (for FDR denom)
 
     for start in range(0, n_pairs, CHUNK):
         end = min(start + CHUNK, n_pairs)
@@ -313,6 +349,10 @@ def main():
         x2 = (n2c & n1m).sum(axis=1).astype(np.int32)
         k2 = n1m.astype(bool).sum(axis=1).astype(np.int32)
         m1c = m1_arr[i1c]; m2c = m2_arr[i2c]
+
+        # Count pairs with overlap in both directions (BH denominator for the
+        # 'both-overlap' mode, which mirrors validate_complex.R).
+        n_both_overlap += int(((x1 > 0) & (x2 > 0)).sum())
 
         # Pre-filter: skip pairs with zero overlap in both directions.
         # Note: x > 1 by random chance for most pairs at 3% density; final
@@ -348,12 +388,35 @@ def main():
         print("WARNING: no ortholog pairs with neighbourhood overlap found.")
         return
 
-    _, p1_fdr, _, _ = multipletests(ct["Species1.p.val"], method="fdr_bh")
-    _, p2_fdr, _, _ = multipletests(ct["Species2.p.val"], method="fdr_bh")
-    ct["Species1.p.val"] = p1_fdr
-    ct["Species2.p.val"] = p2_fdr
+    # Choose the BH denominator (number of tests) per --fdr-denominator.
+    # A pair can only reach FDR < 0.05 if it has overlap > 1 in BOTH directions
+    # (the filter uses the max of the two adjusted p-values), and such pairs are
+    # present in the candidate table under every mode. The modes therefore only
+    # change the denominator m, which scales the adjusted p-values:
+    #   candidates   — m = candidate rows (overlap > 1 in >= 1 direction)
+    #   both-overlap — m = pairs with overlap > 0 in both directions  (R reference)
+    #   all-pairs    — m = every tested ortholog pair                 (2014 paper)
+    mode = args.fdr_denominator
+    if mode == "both-overlap":
+        # Restrict the table to the R reference's row set (overlap > 0 both ways);
+        # the remaining both-overlap pairs all have p = 1 and enter only via m.
+        ct = ct[(ct["Species1.neigh.overlap"] > 0) &
+                (ct["Species2.neigh.overlap"] > 0)].reset_index(drop=True)
+        m_denom = n_both_overlap
+    elif mode == "all-pairs":
+        m_denom = n_pairs
+    else:  # "candidates"
+        m_denom = len(ct)
+
+    if len(ct) == 0:
+        print("WARNING: no pairs remain after the both-overlap filter.")
+        return
+
+    ct["Species1.p.val"] = bh_with_denominator(ct["Species1.p.val"].values, m_denom)
+    ct["Species2.p.val"] = bh_with_denominator(ct["Species2.p.val"].values, m_denom)
     ct["Max.p.val"]      = ct[["Species1.p.val","Species2.p.val"]].max(axis=1)
     ct = ct.sort_values("Max.p.val").reset_index(drop=True)
+    print(f"  FDR denominator ({mode}): {m_denom:,} tests", flush=True)
 
     n_candidates = len(ct)
     # Keep only significant co-expressologs — the full candidate table would
