@@ -1,0 +1,11 @@
+# Python dependencies for the ComPlEx port (complex_py.py) and the broader Python
+# analyses under AbioticStressConifers/src/ComPlEx/. Version floors are given; for the
+# published run, record exact versions with `pip freeze` (see README).
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+statsmodels>=0.14
+matplotlib>=3.7
+# Yang-Nielsen YN00 dN/dS (src/ComPlEx/kaks_yn00.py): Bio.codonalign.cal_dn_ds is
+# version-sensitive, so pin biopython to the version used for the published run.
+biopython>=1.80

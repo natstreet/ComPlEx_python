@@ -1,0 +1,9 @@
+# Python build artifacts
+__pycache__/
+*.pyc
+
+# Regenerable analysis run outputs
+out_*/
+
+# Editor/assistant local settings
+.claude/

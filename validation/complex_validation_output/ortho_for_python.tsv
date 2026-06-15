@@ -1,0 +1,3245 @@
+gene	species	Ortholog_Group
+PA_cUP0115_G000022	Picea_abies	No orthogroup
+PA_cUP0122_G000005	Picea_abies	OG0000031
+PA_cUP0126_G000001	Picea_abies	No orthogroup
+PA_cUP0126_G000004	Picea_abies	No orthogroup
+PA_cUP0127_G000008	Picea_abies	No orthogroup
+PA_cUP0137_G000001	Picea_abies	No orthogroup
+PA_cUP0137_G000007	Picea_abies	No orthogroup
+PA_cUP0146_G000001	Picea_abies	No orthogroup
+PA_chr01_G000137	Picea_abies	No orthogroup
+PA_chr01_G000173	Picea_abies	OG0000000
+PA_chr01_G000174	Picea_abies	No orthogroup
+PA_chr01_G000323	Picea_abies	No orthogroup
+PA_chr01_G000348	Picea_abies	No orthogroup
+PA_chr01_G000364	Picea_abies	No orthogroup
+PA_chr01_G000367	Picea_abies	No orthogroup
+PA_chr01_G000418	Picea_abies	No orthogroup
+PA_chr01_G000437	Picea_abies	No orthogroup
+PA_chr01_G000599	Picea_abies	No orthogroup
+PA_chr01_G000618	Picea_abies	No orthogroup
+PA_chr01_G000670	Picea_abies	No orthogroup
+PA_chr01_G000673	Picea_abies	No orthogroup
+PA_chr01_G000680	Picea_abies	No orthogroup
+PA_chr01_G000690	Picea_abies	OG0000032
+PA_chr01_G000719	Picea_abies	OG0008606
+PA_chr01_G000727	Picea_abies	No orthogroup
+PA_chr01_G000732	Picea_abies	OG0000000
+PA_chr01_G000733	Picea_abies	OG0000000
+PA_chr01_G000734	Picea_abies	OG0000000
+PA_chr01_G000763	Picea_abies	No orthogroup
+PA_chr01_G000766	Picea_abies	No orthogroup
+PA_chr01_G000914	Picea_abies	No orthogroup
+PA_chr01_G000947	Picea_abies	No orthogroup
+PA_chr01_G000948	Picea_abies	OG0000097
+PA_chr01_G000966	Picea_abies	No orthogroup
+PA_chr01_G001006	Picea_abies	OG0000008
+PA_chr01_G001038	Picea_abies	No orthogroup
+PA_chr01_G001051	Picea_abies	No orthogroup
+PA_chr01_G001072	Picea_abies	No orthogroup
+PA_chr01_G001212	Picea_abies	No orthogroup
+PA_chr01_G001213	Picea_abies	OG0001375
+PA_chr01_G001245	Picea_abies	No orthogroup
+PA_chr01_G001276	Picea_abies	OG0000078
+PA_chr01_G001307	Picea_abies	No orthogroup
+PA_chr01_G001331	Picea_abies	No orthogroup
+PA_chr01_G001348	Picea_abies	No orthogroup
+PA_chr01_G001370	Picea_abies	No orthogroup
+PA_chr01_G001457	Picea_abies	No orthogroup
+PA_chr01_G001469	Picea_abies	OG0000562
+PA_chr01_G001491	Picea_abies	OG0000277
+PA_chr01_G001508	Picea_abies	OG0000006
+PA_chr01_G001539	Picea_abies	OG0000000
+PA_chr01_G001603	Picea_abies	No orthogroup
+PA_chr01_G001636	Picea_abies	OG0001149
+PA_chr01_G001651	Picea_abies	No orthogroup
+PA_chr01_G001657	Picea_abies	No orthogroup
+PA_chr01_G001719	Picea_abies	No orthogroup
+PA_chr01_G001752	Picea_abies	OG0005523
+PA_chr01_G001780	Picea_abies	No orthogroup
+PA_chr01_G001783	Picea_abies	No orthogroup
+PA_chr01_G001866	Picea_abies	No orthogroup
+PA_chr01_G002348	Picea_abies	No orthogroup
+PA_chr01_G002361	Picea_abies	No orthogroup
+PA_chr01_G002379	Picea_abies	No orthogroup
+PA_chr01_G002383	Picea_abies	No orthogroup
+PA_chr01_G002384	Picea_abies	No orthogroup
+PA_chr01_G002443	Picea_abies	No orthogroup
+PA_chr01_G002505	Picea_abies	No orthogroup
+PA_chr01_G002533	Picea_abies	OG0000729
+PA_chr01_G002536	Picea_abies	OG0000729
+PA_chr01_G002551	Picea_abies	No orthogroup
+PA_chr01_G002594	Picea_abies	No orthogroup
+PA_chr01_G002596	Picea_abies	No orthogroup
+PA_chr01_G002627	Picea_abies	No orthogroup
+PA_chr01_G002689	Picea_abies	No orthogroup
+PA_chr01_G002699	Picea_abies	No orthogroup
+PA_chr01_G002722	Picea_abies	No orthogroup
+PA_chr01_G002723	Picea_abies	No orthogroup
+PA_chr01_G002751	Picea_abies	No orthogroup
+PA_chr01_G002786	Picea_abies	OG0000001
+PA_chr01_G002827	Picea_abies	No orthogroup
+PA_chr01_G002830	Picea_abies	No orthogroup
+PA_chr01_G002835	Picea_abies	No orthogroup
+PA_chr01_G002841	Picea_abies	No orthogroup
+PA_chr01_G002842	Picea_abies	No orthogroup
+PA_chr01_G002843	Picea_abies	No orthogroup
+PA_chr01_G002962	Picea_abies	OG0000882
+PA_chr01_G002969	Picea_abies	No orthogroup
+PA_chr01_G003006	Picea_abies	No orthogroup
+PA_chr01_G003137	Picea_abies	No orthogroup
+PA_chr01_G003143	Picea_abies	OG0000079
+PA_chr01_G003146	Picea_abies	No orthogroup
+PA_chr01_G003190	Picea_abies	OG0000000
+PA_chr01_G003288	Picea_abies	No orthogroup
+PA_chr01_G003385	Picea_abies	OG0001157
+PA_chr01_G003410	Picea_abies	No orthogroup
+PA_chr01_G003511	Picea_abies	No orthogroup
+PA_chr01_G003566	Picea_abies	No orthogroup
+PA_chr01_G003648	Picea_abies	No orthogroup
+PA_chr01_G003844	Picea_abies	No orthogroup
+PA_chr01_G003997	Picea_abies	OG0001461
+PA_chr01_G004002	Picea_abies	No orthogroup
+PA_chr01_G004087	Picea_abies	No orthogroup
+PA_chr01_G004108	Picea_abies	No orthogroup
+PA_chr01_G004152	Picea_abies	No orthogroup
+PA_chr01_G004173	Picea_abies	No orthogroup
+PA_chr01_G004266	Picea_abies	No orthogroup
+PA_chr01_G004281	Picea_abies	No orthogroup
+PA_chr01_G004331	Picea_abies	No orthogroup
+PA_chr01_G004361	Picea_abies	No orthogroup
+PA_chr01_G004593	Picea_abies	No orthogroup
+PA_chr01_G004644	Picea_abies	OG0000000
+PA_chr01_G004645	Picea_abies	OG0000000
+PA_chr01_G004767	Picea_abies	No orthogroup
+PA_chr01_G004787	Picea_abies	No orthogroup
+PA_chr01_G004797	Picea_abies	No orthogroup
+PA_chr01_G004816	Picea_abies	No orthogroup
+PA_chr01_G004820	Picea_abies	No orthogroup
+PA_chr01_G004859	Picea_abies	No orthogroup
+PA_chr01_G004886	Picea_abies	No orthogroup
+PA_chr01_G004926	Picea_abies	No orthogroup
+PA_chr01_G004986	Picea_abies	OG0008847
+PA_chr01_G005085	Picea_abies	No orthogroup
+PA_chr01_G005106	Picea_abies	No orthogroup
+PA_chr01_G005136	Picea_abies	No orthogroup
+PA_chr01_G005155	Picea_abies	OG0000276
+PA_chr01_G005184	Picea_abies	No orthogroup
+PA_chr01_G005186	Picea_abies	No orthogroup
+PA_chr01_G005190	Picea_abies	No orthogroup
+PA_chr01_G005221	Picea_abies	OG0000686
+PA_chr01_G005240	Picea_abies	No orthogroup
+PA_chr01_G005241	Picea_abies	No orthogroup
+PA_chr01_G005355	Picea_abies	No orthogroup
+PA_chr01_G005402	Picea_abies	No orthogroup
+PA_chr01_G005409	Picea_abies	No orthogroup
+PA_chr01_G005422	Picea_abies	OG0005324
+PA_chr01_G005471	Picea_abies	No orthogroup
+PA_chr01_G005472	Picea_abies	No orthogroup
+PA_chr01_G005574	Picea_abies	No orthogroup
+PA_chr01_G005585	Picea_abies	No orthogroup
+PA_chr01_G005663	Picea_abies	OG0000129
+PA_chr01_G005668	Picea_abies	OG0000129
+PA_chr01_G005741	Picea_abies	No orthogroup
+PA_chr01_G005836	Picea_abies	No orthogroup
+PA_chr01_G005844	Picea_abies	No orthogroup
+PA_chr01_G005878	Picea_abies	No orthogroup
+PA_chr01_G005904	Picea_abies	No orthogroup
+PA_chr01_G005975	Picea_abies	No orthogroup
+PA_chr01_G005998	Picea_abies	No orthogroup
+PA_chr01_G006025	Picea_abies	No orthogroup
+PA_chr01_G006157	Picea_abies	OG0000214
+PA_chr01_G006200	Picea_abies	OG0000386
+PA_chr01_G006250	Picea_abies	OG0000033
+PA_chr01_G006264	Picea_abies	No orthogroup
+PA_chr01_G006392	Picea_abies	No orthogroup
+PA_chr01_G006396	Picea_abies	OG0000010
+PA_chr01_G006471	Picea_abies	No orthogroup
+PA_chr01_G006483	Picea_abies	No orthogroup
+PA_chr01_G006526	Picea_abies	No orthogroup
+PA_chr01_G006649	Picea_abies	No orthogroup
+PA_chr01_G006800	Picea_abies	OG0000000
+PA_chr01_G006809	Picea_abies	OG0003121
+PA_chr01_G006867	Picea_abies	OG0000172
+PA_chr01_G006944	Picea_abies	No orthogroup
+PA_chr01_G007031	Picea_abies	No orthogroup
+PA_chr01_G007032	Picea_abies	No orthogroup
+PA_chr01_G007040	Picea_abies	No orthogroup
+PA_chr01_G007116	Picea_abies	OG0001545
+PA_chr01_G007137	Picea_abies	OG0000000
+PA_chr01_G007140	Picea_abies	No orthogroup
+PA_chr01_G007153	Picea_abies	No orthogroup
+PA_chr01_G007157	Picea_abies	No orthogroup
+PA_chr01_G007163	Picea_abies	No orthogroup
+PA_chr01_G007209	Picea_abies	No orthogroup
+PA_chr01_G007238	Picea_abies	No orthogroup
+PA_chr01_cUL0040_G000035	Picea_abies	No orthogroup
+PA_chr01_cUL0046_G000019	Picea_abies	No orthogroup
+PA_chr01_cUL0050_G000002	Picea_abies	No orthogroup
+PA_chr01_cUL0050_G000015	Picea_abies	No orthogroup
+PA_chr01_cUL0053_G000007	Picea_abies	No orthogroup
+PA_chr01_cUL0056_G000002	Picea_abies	No orthogroup
+PA_chr01_cUL0059_G000005	Picea_abies	OG0000053
+PA_chr01_cUL0068_G000003	Picea_abies	OG0000129
+PA_chr01_cUL0080_G000003	Picea_abies	OG0005579
+PA_chr01_sUL001_G000076	Picea_abies	No orthogroup
+PA_chr01_sUL004_G000003	Picea_abies	No orthogroup
+PA_chr01_sUL004_G000010	Picea_abies	No orthogroup
+PA_chr01_sUL007_G000008	Picea_abies	No orthogroup
+PA_chr02_G000339	Picea_abies	No orthogroup
+PA_chr02_G000516	Picea_abies	No orthogroup
+PA_chr02_G000551	Picea_abies	No orthogroup
+PA_chr02_G000559	Picea_abies	No orthogroup
+PA_chr02_G000576	Picea_abies	No orthogroup
+PA_chr02_G000594	Picea_abies	OG0001916
+PA_chr02_G000672	Picea_abies	No orthogroup
+PA_chr02_G000673	Picea_abies	No orthogroup
+PA_chr02_G000691	Picea_abies	No orthogroup
+PA_chr02_G000723	Picea_abies	No orthogroup
+PA_chr02_G000728	Picea_abies	No orthogroup
+PA_chr02_G000975	Picea_abies	No orthogroup
+PA_chr02_G000992	Picea_abies	OG0000000
+PA_chr02_G000995	Picea_abies	OG0000000
+PA_chr02_G001019	Picea_abies	OG0000000
+PA_chr02_G001035	Picea_abies	No orthogroup
+PA_chr02_G001074	Picea_abies	No orthogroup
+PA_chr02_G001091	Picea_abies	No orthogroup
+PA_chr02_G001186	Picea_abies	OG0000182
+PA_chr02_G001340	Picea_abies	OG0002648
+PA_chr02_G001355	Picea_abies	OG0000063
+PA_chr02_G001358	Picea_abies	No orthogroup
+PA_chr02_G001360	Picea_abies	No orthogroup
+PA_chr02_G001381	Picea_abies	No orthogroup
+PA_chr02_G001543	Picea_abies	No orthogroup
+PA_chr02_G001556	Picea_abies	No orthogroup
+PA_chr02_G001654	Picea_abies	No orthogroup
+PA_chr02_G001686	Picea_abies	OG0000242
+PA_chr02_G001733	Picea_abies	No orthogroup
+PA_chr02_G001850	Picea_abies	No orthogroup
+PA_chr02_G001900	Picea_abies	No orthogroup
+PA_chr02_G002047	Picea_abies	No orthogroup
+PA_chr02_G002188	Picea_abies	No orthogroup
+PA_chr02_G002213	Picea_abies	No orthogroup
+PA_chr02_G002346	Picea_abies	OG0001025
+PA_chr02_G002350	Picea_abies	OG0001025
+PA_chr02_G002483	Picea_abies	OG0000064
+PA_chr02_G002525	Picea_abies	No orthogroup
+PA_chr02_G002557	Picea_abies	No orthogroup
+PA_chr02_G002636	Picea_abies	No orthogroup
+PA_chr02_G002701	Picea_abies	No orthogroup
+PA_chr02_G002736	Picea_abies	No orthogroup
+PA_chr02_G002737	Picea_abies	No orthogroup
+PA_chr02_G002768	Picea_abies	No orthogroup
+PA_chr02_G002813	Picea_abies	No orthogroup
+PA_chr02_G002926	Picea_abies	No orthogroup
+PA_chr02_G002972	Picea_abies	No orthogroup
+PA_chr02_G002973	Picea_abies	No orthogroup
+PA_chr02_G003025	Picea_abies	OG0003786
+PA_chr02_G003175	Picea_abies	OG0000344
+PA_chr02_G003214	Picea_abies	No orthogroup
+PA_chr02_G003221	Picea_abies	No orthogroup
+PA_chr02_G003269	Picea_abies	No orthogroup
+PA_chr02_G003307	Picea_abies	No orthogroup
+PA_chr02_G003342	Picea_abies	No orthogroup
+PA_chr02_G003384	Picea_abies	No orthogroup
+PA_chr02_G003404	Picea_abies	No orthogroup
+PA_chr02_G003461	Picea_abies	No orthogroup
+PA_chr02_G003490	Picea_abies	No orthogroup
+PA_chr02_G003499	Picea_abies	No orthogroup
+PA_chr02_G003548	Picea_abies	No orthogroup
+PA_chr02_G003582	Picea_abies	No orthogroup
+PA_chr02_G003663	Picea_abies	No orthogroup
+PA_chr02_G003772	Picea_abies	No orthogroup
+PA_chr02_G003854	Picea_abies	No orthogroup
+PA_chr02_G003902	Picea_abies	OG0000112
+PA_chr02_G003920	Picea_abies	OG0000000
+PA_chr02_G003946	Picea_abies	No orthogroup
+PA_chr02_G003963	Picea_abies	OG0002165
+PA_chr02_G004030	Picea_abies	No orthogroup
+PA_chr02_G004085	Picea_abies	No orthogroup
+PA_chr02_G004341	Picea_abies	No orthogroup
+PA_chr02_G004378	Picea_abies	No orthogroup
+PA_chr02_G004429	Picea_abies	OG0004342
+PA_chr02_G004631	Picea_abies	OG0000000
+PA_chr02_G004632	Picea_abies	No orthogroup
+PA_chr02_G004700	Picea_abies	No orthogroup
+PA_chr02_G004827	Picea_abies	No orthogroup
+PA_chr02_G004867	Picea_abies	OG0004000
+PA_chr02_G004901	Picea_abies	No orthogroup
+PA_chr02_G004950	Picea_abies	No orthogroup
+PA_chr02_G005013	Picea_abies	No orthogroup
+PA_chr02_G005015	Picea_abies	No orthogroup
+PA_chr02_G005019	Picea_abies	No orthogroup
+PA_chr02_G005021	Picea_abies	No orthogroup
+PA_chr02_G005026	Picea_abies	OG0000048
+PA_chr02_G005027	Picea_abies	No orthogroup
+PA_chr02_G005048	Picea_abies	No orthogroup
+PA_chr02_G005110	Picea_abies	OG0000048
+PA_chr02_G005114	Picea_abies	No orthogroup
+PA_chr02_G005273	Picea_abies	No orthogroup
+PA_chr02_G005396	Picea_abies	No orthogroup
+PA_chr02_G005420	Picea_abies	No orthogroup
+PA_chr02_G005430	Picea_abies	No orthogroup
+PA_chr02_G005444	Picea_abies	No orthogroup
+PA_chr02_G005446	Picea_abies	No orthogroup
+PA_chr02_G005478	Picea_abies	No orthogroup
+PA_chr02_G005554	Picea_abies	No orthogroup
+PA_chr02_G005583	Picea_abies	No orthogroup
+PA_chr02_G005668	Picea_abies	No orthogroup
+PA_chr02_G005685	Picea_abies	OG0000214
+PA_chr02_G005688	Picea_abies	No orthogroup
+PA_chr02_G005696	Picea_abies	No orthogroup
+PA_chr02_G005709	Picea_abies	No orthogroup
+PA_chr02_G005715	Picea_abies	No orthogroup
+PA_chr02_G005725	Picea_abies	No orthogroup
+PA_chr02_G005728	Picea_abies	No orthogroup
+PA_chr02_cUL0066_G000003	Picea_abies	No orthogroup
+PA_chr02_cUL0073_G000005	Picea_abies	No orthogroup
+PA_chr02_sUL001_G000004	Picea_abies	No orthogroup
+PA_chr02_sUL001_G000006	Picea_abies	No orthogroup
+PA_chr02_sUL006_G000011	Picea_abies	No orthogroup
+PA_chr02_sUL006_G000025	Picea_abies	No orthogroup
+PA_chr02_sUL007_G000008	Picea_abies	No orthogroup
+PA_chr03_G000078	Picea_abies	No orthogroup
+PA_chr03_G000156	Picea_abies	No orthogroup
+PA_chr03_G000175	Picea_abies	OG0000000
+PA_chr03_G000264	Picea_abies	No orthogroup
+PA_chr03_G000409	Picea_abies	No orthogroup
+PA_chr03_G000483	Picea_abies	No orthogroup
+PA_chr03_G000537	Picea_abies	No orthogroup
+PA_chr03_G000552	Picea_abies	No orthogroup
+PA_chr03_G000577	Picea_abies	OG0000052
+PA_chr03_G000651	Picea_abies	No orthogroup
+PA_chr03_G000750	Picea_abies	No orthogroup
+PA_chr03_G000768	Picea_abies	OG0000297
+PA_chr03_G000772	Picea_abies	No orthogroup
+PA_chr03_G000886	Picea_abies	No orthogroup
+PA_chr03_G000942	Picea_abies	No orthogroup
+PA_chr03_G000954	Picea_abies	OG0000024
+PA_chr03_G000957	Picea_abies	No orthogroup
+PA_chr03_G001016	Picea_abies	No orthogroup
+PA_chr03_G001057	Picea_abies	No orthogroup
+PA_chr03_G001118	Picea_abies	No orthogroup
+PA_chr03_G001194	Picea_abies	No orthogroup
+PA_chr03_G001215	Picea_abies	No orthogroup
+PA_chr03_G001340	Picea_abies	No orthogroup
+PA_chr03_G001344	Picea_abies	No orthogroup
+PA_chr03_G001413	Picea_abies	OG0000024
+PA_chr03_G001421	Picea_abies	OG0000024
+PA_chr03_G001478	Picea_abies	OG0000000
+PA_chr03_G001505	Picea_abies	No orthogroup
+PA_chr03_G001536	Picea_abies	No orthogroup
+PA_chr03_G001538	Picea_abies	No orthogroup
+PA_chr03_G001553	Picea_abies	No orthogroup
+PA_chr03_G001556	Picea_abies	No orthogroup
+PA_chr03_G001630	Picea_abies	No orthogroup
+PA_chr03_G001677	Picea_abies	OG0003480
+PA_chr03_G001694	Picea_abies	No orthogroup
+PA_chr03_G001711	Picea_abies	No orthogroup
+PA_chr03_G001790	Picea_abies	No orthogroup
+PA_chr03_G001814	Picea_abies	No orthogroup
+PA_chr03_G001817	Picea_abies	No orthogroup
+PA_chr03_G001821	Picea_abies	No orthogroup
+PA_chr03_G001904	Picea_abies	OG0000000
+PA_chr03_G001908	Picea_abies	No orthogroup
+PA_chr03_G001921	Picea_abies	OG0000208
+PA_chr03_G001947	Picea_abies	No orthogroup
+PA_chr03_G001977	Picea_abies	No orthogroup
+PA_chr03_G001986	Picea_abies	OG0003044
+PA_chr03_G002064	Picea_abies	No orthogroup
+PA_chr03_G002068	Picea_abies	No orthogroup
+PA_chr03_G002085	Picea_abies	No orthogroup
+PA_chr03_G002149	Picea_abies	No orthogroup
+PA_chr03_G002194	Picea_abies	No orthogroup
+PA_chr03_G002210	Picea_abies	OG0000625
+PA_chr03_G002226	Picea_abies	No orthogroup
+PA_chr03_G002273	Picea_abies	No orthogroup
+PA_chr03_G002280	Picea_abies	No orthogroup
+PA_chr03_G002347	Picea_abies	No orthogroup
+PA_chr03_G002354	Picea_abies	OG0000000
+PA_chr03_G002397	Picea_abies	OG0000000
+PA_chr03_G002454	Picea_abies	No orthogroup
+PA_chr03_G002474	Picea_abies	No orthogroup
+PA_chr03_G002610	Picea_abies	No orthogroup
+PA_chr03_G002683	Picea_abies	No orthogroup
+PA_chr03_G004062	Picea_abies	No orthogroup
+PA_chr03_G004282	Picea_abies	No orthogroup
+PA_chr03_G005773	Picea_abies	No orthogroup
+PA_chr03_G005889	Picea_abies	No orthogroup
+PA_chr03_G005899	Picea_abies	No orthogroup
+PA_chr03_G005995	Picea_abies	No orthogroup
+PA_chr03_G006050	Picea_abies	No orthogroup
+PA_chr03_G006051	Picea_abies	No orthogroup
+PA_chr03_G006053	Picea_abies	No orthogroup
+PA_chr03_G006054	Picea_abies	No orthogroup
+PA_chr03_G006080	Picea_abies	No orthogroup
+PA_chr03_G006109	Picea_abies	No orthogroup
+PA_chr03_G006113	Picea_abies	No orthogroup
+PA_chr03_G006164	Picea_abies	No orthogroup
+PA_chr03_G006285	Picea_abies	No orthogroup
+PA_chr03_G006297	Picea_abies	No orthogroup
+PA_chr03_G006326	Picea_abies	OG0000825
+PA_chr03_G006376	Picea_abies	No orthogroup
+PA_chr03_G006447	Picea_abies	No orthogroup
+PA_chr03_G006467	Picea_abies	No orthogroup
+PA_chr03_G006469	Picea_abies	No orthogroup
+PA_chr03_G006500	Picea_abies	No orthogroup
+PA_chr03_G006536	Picea_abies	No orthogroup
+PA_chr03_G006558	Picea_abies	No orthogroup
+PA_chr03_G006662	Picea_abies	OG0000135
+PA_chr03_G006676	Picea_abies	OG0000001
+PA_chr03_G006755	Picea_abies	No orthogroup
+PA_chr03_G006776	Picea_abies	OG0000000
+PA_chr03_G006847	Picea_abies	OG0000316
+PA_chr03_G006862	Picea_abies	No orthogroup
+PA_chr03_G006913	Picea_abies	OG0000000
+PA_chr03_G006970	Picea_abies	No orthogroup
+PA_chr03_G006973	Picea_abies	No orthogroup
+PA_chr03_G006974	Picea_abies	No orthogroup
+PA_chr03_G007090	Picea_abies	OG0000000
+PA_chr03_G007099	Picea_abies	No orthogroup
+PA_chr03_G007156	Picea_abies	No orthogroup
+PA_chr03_G007320	Picea_abies	No orthogroup
+PA_chr03_G007427	Picea_abies	OG0000333
+PA_chr03_G007494	Picea_abies	OG0000000
+PA_chr03_G007503	Picea_abies	OG0000647
+PA_chr03_G007541	Picea_abies	No orthogroup
+PA_chr03_G007592	Picea_abies	No orthogroup
+PA_chr03_G007602	Picea_abies	No orthogroup
+PA_chr03_G007603	Picea_abies	No orthogroup
+PA_chr03_G007710	Picea_abies	No orthogroup
+PA_chr03_G007738	Picea_abies	No orthogroup
+PA_chr03_G007843	Picea_abies	No orthogroup
+PA_chr03_G007877	Picea_abies	No orthogroup
+PA_chr03_G008010	Picea_abies	No orthogroup
+PA_chr03_G008075	Picea_abies	No orthogroup
+PA_chr03_cUL0020_G000010	Picea_abies	No orthogroup
+PA_chr03_cUL0020_G000014	Picea_abies	No orthogroup
+PA_chr03_cUL0020_G000021	Picea_abies	OG0000191
+PA_chr03_cUL0022_G000021	Picea_abies	No orthogroup
+PA_chr03_cUL0023_G000001	Picea_abies	No orthogroup
+PA_chr03_cUL0024_G000013	Picea_abies	No orthogroup
+PA_chr03_cUL0024_G000025	Picea_abies	No orthogroup
+PA_chr03_sUL001_G000048	Picea_abies	No orthogroup
+PA_chr03_sUL001_G000051	Picea_abies	No orthogroup
+PA_chr03_sUL002_G000001	Picea_abies	OG0000004
+PA_chr03_sUL002_G000037	Picea_abies	OG0000000
+PA_chr04_G000014	Picea_abies	No orthogroup
+PA_chr04_G000029	Picea_abies	OG0000067
+PA_chr04_G000049	Picea_abies	No orthogroup
+PA_chr04_G000096	Picea_abies	No orthogroup
+PA_chr04_G000102	Picea_abies	No orthogroup
+PA_chr04_G000127	Picea_abies	OG0000647
+PA_chr04_G000172	Picea_abies	No orthogroup
+PA_chr04_G000190	Picea_abies	No orthogroup
+PA_chr04_G000250	Picea_abies	No orthogroup
+PA_chr04_G000296	Picea_abies	OG0000113
+PA_chr04_G000381	Picea_abies	No orthogroup
+PA_chr04_G000466	Picea_abies	No orthogroup
+PA_chr04_G000472	Picea_abies	No orthogroup
+PA_chr04_G000473	Picea_abies	No orthogroup
+PA_chr04_G000492	Picea_abies	No orthogroup
+PA_chr04_G000510	Picea_abies	No orthogroup
+PA_chr04_G000702	Picea_abies	No orthogroup
+PA_chr04_G000743	Picea_abies	No orthogroup
+PA_chr04_G000757	Picea_abies	OG0002721
+PA_chr04_G000868	Picea_abies	No orthogroup
+PA_chr04_G000874	Picea_abies	No orthogroup
+PA_chr04_G000924	Picea_abies	No orthogroup
+PA_chr04_G001049	Picea_abies	No orthogroup
+PA_chr04_G001089	Picea_abies	No orthogroup
+PA_chr04_G001103	Picea_abies	No orthogroup
+PA_chr04_G001147	Picea_abies	No orthogroup
+PA_chr04_G001254	Picea_abies	No orthogroup
+PA_chr04_G001317	Picea_abies	OG0000000
+PA_chr04_G001321	Picea_abies	OG0000063
+PA_chr04_G001334	Picea_abies	OG0000063
+PA_chr04_G001340	Picea_abies	OG0000063
+PA_chr04_G001345	Picea_abies	No orthogroup
+PA_chr04_G001359	Picea_abies	No orthogroup
+PA_chr04_G001365	Picea_abies	No orthogroup
+PA_chr04_G001374	Picea_abies	No orthogroup
+PA_chr04_G001476	Picea_abies	No orthogroup
+PA_chr04_G001484	Picea_abies	No orthogroup
+PA_chr04_G001487	Picea_abies	No orthogroup
+PA_chr04_G001655	Picea_abies	No orthogroup
+PA_chr04_G001687	Picea_abies	OG0000000
+PA_chr04_G001712	Picea_abies	OG0000000
+PA_chr04_G001723	Picea_abies	No orthogroup
+PA_chr04_G001725	Picea_abies	No orthogroup
+PA_chr04_G001750	Picea_abies	No orthogroup
+PA_chr04_G001819	Picea_abies	No orthogroup
+PA_chr04_G001834	Picea_abies	No orthogroup
+PA_chr04_G002042	Picea_abies	No orthogroup
+PA_chr04_G002070	Picea_abies	OG0001299
+PA_chr04_G002108	Picea_abies	No orthogroup
+PA_chr04_G002164	Picea_abies	No orthogroup
+PA_chr04_G002192	Picea_abies	No orthogroup
+PA_chr04_G002206	Picea_abies	No orthogroup
+PA_chr04_G002254	Picea_abies	No orthogroup
+PA_chr04_G002358	Picea_abies	No orthogroup
+PA_chr04_G002375	Picea_abies	No orthogroup
+PA_chr04_G002390	Picea_abies	No orthogroup
+PA_chr04_G002400	Picea_abies	No orthogroup
+PA_chr04_G002515	Picea_abies	OG0000490
+PA_chr04_G002521	Picea_abies	OG0000066
+PA_chr04_G002532	Picea_abies	No orthogroup
+PA_chr04_G002537	Picea_abies	No orthogroup
+PA_chr04_G002572	Picea_abies	No orthogroup
+PA_chr04_G002687	Picea_abies	No orthogroup
+PA_chr04_G002743	Picea_abies	No orthogroup
+PA_chr04_G002756	Picea_abies	No orthogroup
+PA_chr04_G002783	Picea_abies	No orthogroup
+PA_chr04_G002879	Picea_abies	No orthogroup
+PA_chr04_G002882	Picea_abies	No orthogroup
+PA_chr04_G002910	Picea_abies	OG0000208
+PA_chr04_G002912	Picea_abies	OG0000208
+PA_chr04_G002919	Picea_abies	No orthogroup
+PA_chr04_G002934	Picea_abies	OG0000208
+PA_chr04_G002968	Picea_abies	No orthogroup
+PA_chr04_G003253	Picea_abies	No orthogroup
+PA_chr04_G003287	Picea_abies	OG0002595
+PA_chr04_G003367	Picea_abies	No orthogroup
+PA_chr04_G003465	Picea_abies	No orthogroup
+PA_chr04_G003475	Picea_abies	No orthogroup
+PA_chr04_G003610	Picea_abies	No orthogroup
+PA_chr04_G003791	Picea_abies	No orthogroup
+PA_chr04_G003846	Picea_abies	No orthogroup
+PA_chr04_G003888	Picea_abies	OG0000329
+PA_chr04_G003908	Picea_abies	No orthogroup
+PA_chr04_G003989	Picea_abies	No orthogroup
+PA_chr04_G004037	Picea_abies	No orthogroup
+PA_chr04_G004068	Picea_abies	OG0000647
+PA_chr04_G004086	Picea_abies	No orthogroup
+PA_chr04_G004127	Picea_abies	OG0000000
+PA_chr04_G004128	Picea_abies	No orthogroup
+PA_chr04_G004185	Picea_abies	No orthogroup
+PA_chr04_G004235	Picea_abies	No orthogroup
+PA_chr04_G004238	Picea_abies	No orthogroup
+PA_chr04_G004271	Picea_abies	OG0000119
+PA_chr04_G004372	Picea_abies	No orthogroup
+PA_chr04_G004385	Picea_abies	No orthogroup
+PA_chr04_G004387	Picea_abies	No orthogroup
+PA_chr04_G004415	Picea_abies	No orthogroup
+PA_chr04_G004426	Picea_abies	OG0000647
+PA_chr04_G004523	Picea_abies	No orthogroup
+PA_chr04_G004545	Picea_abies	No orthogroup
+PA_chr04_G004606	Picea_abies	OG0000048
+PA_chr04_G004646	Picea_abies	No orthogroup
+PA_chr04_G004655	Picea_abies	OG0000048
+PA_chr04_G004675	Picea_abies	No orthogroup
+PA_chr04_G004685	Picea_abies	No orthogroup
+PA_chr04_G004757	Picea_abies	No orthogroup
+PA_chr04_G004769	Picea_abies	No orthogroup
+PA_chr04_G004886	Picea_abies	No orthogroup
+PA_chr04_G005015	Picea_abies	No orthogroup
+PA_chr04_G005056	Picea_abies	No orthogroup
+PA_chr04_G005123	Picea_abies	No orthogroup
+PA_chr04_G005137	Picea_abies	No orthogroup
+PA_chr04_G005142	Picea_abies	No orthogroup
+PA_chr04_G005167	Picea_abies	No orthogroup
+PA_chr04_cUL0041_G000012	Picea_abies	No orthogroup
+PA_chr04_cUL0042_G000007	Picea_abies	No orthogroup
+PA_chr04_cUL0043_G000001	Picea_abies	No orthogroup
+PA_chr04_cUL0063_G000001	Picea_abies	No orthogroup
+PA_chr04_sUL001_G000097	Picea_abies	No orthogroup
+PA_chr04_sUL001_G000109	Picea_abies	No orthogroup
+PA_chr04_sUL001_G000113	Picea_abies	No orthogroup
+PA_chr04_sUL002_G000022	Picea_abies	No orthogroup
+PA_chr04_sUL003_G000002	Picea_abies	No orthogroup
+PA_chr04_sUL004_G000003	Picea_abies	No orthogroup
+PA_chr04_sUL006_G000002	Picea_abies	OG0000102
+PA_chr05_G000043	Picea_abies	No orthogroup
+PA_chr05_G000062	Picea_abies	OG0000089
+PA_chr05_G000122	Picea_abies	No orthogroup
+PA_chr05_G000147	Picea_abies	OG0011700
+PA_chr05_G000200	Picea_abies	No orthogroup
+PA_chr05_G000312	Picea_abies	No orthogroup
+PA_chr05_G000398	Picea_abies	OG0001045
+PA_chr05_G000422	Picea_abies	No orthogroup
+PA_chr05_G000437	Picea_abies	No orthogroup
+PA_chr05_G000495	Picea_abies	No orthogroup
+PA_chr05_G000506	Picea_abies	No orthogroup
+PA_chr05_G000508	Picea_abies	No orthogroup
+PA_chr05_G000516	Picea_abies	No orthogroup
+PA_chr05_G000541	Picea_abies	OG0001375
+PA_chr05_G000542	Picea_abies	No orthogroup
+PA_chr05_G000552	Picea_abies	No orthogroup
+PA_chr05_G000558	Picea_abies	No orthogroup
+PA_chr05_G000574	Picea_abies	No orthogroup
+PA_chr05_G000578	Picea_abies	No orthogroup
+PA_chr05_G000582	Picea_abies	No orthogroup
+PA_chr05_G000587	Picea_abies	No orthogroup
+PA_chr05_G000590	Picea_abies	No orthogroup
+PA_chr05_G000747	Picea_abies	No orthogroup
+PA_chr05_G000759	Picea_abies	OG0000208
+PA_chr05_G000763	Picea_abies	OG0000208
+PA_chr05_G000895	Picea_abies	No orthogroup
+PA_chr05_G001091	Picea_abies	OG0000141
+PA_chr05_G001111	Picea_abies	No orthogroup
+PA_chr05_G001119	Picea_abies	No orthogroup
+PA_chr05_G001144	Picea_abies	OG0000069
+PA_chr05_G001302	Picea_abies	OG0001609
+PA_chr05_G001340	Picea_abies	OG0000519
+PA_chr05_G001379	Picea_abies	OG0000163
+PA_chr05_G001429	Picea_abies	No orthogroup
+PA_chr05_G001441	Picea_abies	No orthogroup
+PA_chr05_G001451	Picea_abies	No orthogroup
+PA_chr05_G001485	Picea_abies	No orthogroup
+PA_chr05_G001549	Picea_abies	OG0001025
+PA_chr05_G001582	Picea_abies	No orthogroup
+PA_chr05_G001595	Picea_abies	OG0000208
+PA_chr05_G001656	Picea_abies	No orthogroup
+PA_chr05_G001658	Picea_abies	No orthogroup
+PA_chr05_G001676	Picea_abies	OG0000208
+PA_chr05_G001693	Picea_abies	No orthogroup
+PA_chr05_G001749	Picea_abies	No orthogroup
+PA_chr05_G001796	Picea_abies	OG0000208
+PA_chr05_G001842	Picea_abies	OG0000515
+PA_chr05_G001887	Picea_abies	OG0004046
+PA_chr05_G001912	Picea_abies	No orthogroup
+PA_chr05_G001913	Picea_abies	No orthogroup
+PA_chr05_G001978	Picea_abies	OG0001165
+PA_chr05_G001980	Picea_abies	No orthogroup
+PA_chr05_G002032	Picea_abies	No orthogroup
+PA_chr05_G002096	Picea_abies	No orthogroup
+PA_chr05_G002112	Picea_abies	No orthogroup
+PA_chr05_G002120	Picea_abies	No orthogroup
+PA_chr05_G002121	Picea_abies	No orthogroup
+PA_chr05_G002129	Picea_abies	No orthogroup
+PA_chr05_G002135	Picea_abies	OG0000208
+PA_chr05_G002164	Picea_abies	No orthogroup
+PA_chr05_G002174	Picea_abies	OG0000000
+PA_chr05_G002302	Picea_abies	No orthogroup
+PA_chr05_G002443	Picea_abies	No orthogroup
+PA_chr05_G002562	Picea_abies	No orthogroup
+PA_chr05_G002592	Picea_abies	No orthogroup
+PA_chr05_G002794	Picea_abies	OG0000000
+PA_chr05_G002856	Picea_abies	No orthogroup
+PA_chr05_G002860	Picea_abies	No orthogroup
+PA_chr05_G002946	Picea_abies	No orthogroup
+PA_chr05_G002952	Picea_abies	No orthogroup
+PA_chr05_G003258	Picea_abies	No orthogroup
+PA_chr05_G003499	Picea_abies	No orthogroup
+PA_chr05_G003608	Picea_abies	No orthogroup
+PA_chr05_G003618	Picea_abies	OG0000000
+PA_chr05_G003636	Picea_abies	OG0000000
+PA_chr05_G003698	Picea_abies	OG0000000
+PA_chr05_G003705	Picea_abies	No orthogroup
+PA_chr05_G003786	Picea_abies	No orthogroup
+PA_chr05_G003892	Picea_abies	No orthogroup
+PA_chr05_G004017	Picea_abies	No orthogroup
+PA_chr05_G004020	Picea_abies	No orthogroup
+PA_chr05_G004085	Picea_abies	No orthogroup
+PA_chr05_G004218	Picea_abies	No orthogroup
+PA_chr05_G004330	Picea_abies	No orthogroup
+PA_chr05_G004335	Picea_abies	No orthogroup
+PA_chr05_G004337	Picea_abies	OG0003838
+PA_chr05_G004367	Picea_abies	No orthogroup
+PA_chr05_G004374	Picea_abies	No orthogroup
+PA_chr05_G004381	Picea_abies	No orthogroup
+PA_chr05_G004392	Picea_abies	No orthogroup
+PA_chr05_G004402	Picea_abies	No orthogroup
+PA_chr05_G004406	Picea_abies	No orthogroup
+PA_chr05_G004473	Picea_abies	No orthogroup
+PA_chr05_G004490	Picea_abies	No orthogroup
+PA_chr05_G004530	Picea_abies	No orthogroup
+PA_chr05_G004533	Picea_abies	No orthogroup
+PA_chr05_G004608	Picea_abies	No orthogroup
+PA_chr05_G004728	Picea_abies	OG0000157
+PA_chr05_G004770	Picea_abies	No orthogroup
+PA_chr05_G004774	Picea_abies	No orthogroup
+PA_chr05_G004776	Picea_abies	No orthogroup
+PA_chr05_G004778	Picea_abies	OG0000944
+PA_chr05_G004786	Picea_abies	OG0000944
+PA_chr05_G004876	Picea_abies	No orthogroup
+PA_chr05_G004900	Picea_abies	No orthogroup
+PA_chr05_G004910	Picea_abies	OG0000055
+PA_chr05_G004959	Picea_abies	No orthogroup
+PA_chr05_G004985	Picea_abies	No orthogroup
+PA_chr05_G004993	Picea_abies	No orthogroup
+PA_chr05_G004994	Picea_abies	No orthogroup
+PA_chr05_G004995	Picea_abies	No orthogroup
+PA_chr05_G005011	Picea_abies	OG0000258
+PA_chr05_G005022	Picea_abies	OG0000140
+PA_chr05_G005033	Picea_abies	No orthogroup
+PA_chr05_G005104	Picea_abies	OG0000208
+PA_chr05_G005115	Picea_abies	No orthogroup
+PA_chr05_G005210	Picea_abies	No orthogroup
+PA_chr05_G005285	Picea_abies	No orthogroup
+PA_chr05_G005306	Picea_abies	No orthogroup
+PA_chr05_G005311	Picea_abies	No orthogroup
+PA_chr05_G005315	Picea_abies	No orthogroup
+PA_chr05_G005396	Picea_abies	OG0000014
+PA_chr05_G005439	Picea_abies	No orthogroup
+PA_chr05_G005480	Picea_abies	No orthogroup
+PA_chr05_G005487	Picea_abies	No orthogroup
+PA_chr05_cUL0025_G000036	Picea_abies	No orthogroup
+PA_chr05_cUL0026_G000027	Picea_abies	No orthogroup
+PA_chr05_cUL0027_G000003	Picea_abies	No orthogroup
+PA_chr05_cUL0032_G000002	Picea_abies	No orthogroup
+PA_chr05_cUL0056_G000002	Picea_abies	No orthogroup
+PA_chr05_cUL0057_G000002	Picea_abies	No orthogroup
+PA_chr05_sUL001_G000006	Picea_abies	OG0000619
+PA_chr05_sUL002_G000005	Picea_abies	No orthogroup
+PA_chr05_sUL002_G000015	Picea_abies	No orthogroup
+PA_chr05_sUL002_G000039	Picea_abies	No orthogroup
+PA_chr05_sUL002_G000040	Picea_abies	No orthogroup
+PA_chr06_G000002	Picea_abies	No orthogroup
+PA_chr06_G000074	Picea_abies	OG0000116
+PA_chr06_G000099	Picea_abies	OG0007996
+PA_chr06_G000131	Picea_abies	No orthogroup
+PA_chr06_G000203	Picea_abies	No orthogroup
+PA_chr06_G000207	Picea_abies	No orthogroup
+PA_chr06_G000211	Picea_abies	No orthogroup
+PA_chr06_G000217	Picea_abies	No orthogroup
+PA_chr06_G000324	Picea_abies	No orthogroup
+PA_chr06_G000414	Picea_abies	No orthogroup
+PA_chr06_G000459	Picea_abies	No orthogroup
+PA_chr06_G000520	Picea_abies	No orthogroup
+PA_chr06_G000623	Picea_abies	OG0000176
+PA_chr06_G000636	Picea_abies	OG0000176
+PA_chr06_G000661	Picea_abies	No orthogroup
+PA_chr06_G000725	Picea_abies	No orthogroup
+PA_chr06_G000727	Picea_abies	No orthogroup
+PA_chr06_G000824	Picea_abies	No orthogroup
+PA_chr06_G000897	Picea_abies	No orthogroup
+PA_chr06_G000907	Picea_abies	No orthogroup
+PA_chr06_G000930	Picea_abies	No orthogroup
+PA_chr06_G000941	Picea_abies	No orthogroup
+PA_chr06_G000960	Picea_abies	No orthogroup
+PA_chr06_G000991	Picea_abies	No orthogroup
+PA_chr06_G001056	Picea_abies	No orthogroup
+PA_chr06_G001111	Picea_abies	No orthogroup
+PA_chr06_G001144	Picea_abies	No orthogroup
+PA_chr06_G001367	Picea_abies	No orthogroup
+PA_chr06_G001373	Picea_abies	No orthogroup
+PA_chr06_G001472	Picea_abies	No orthogroup
+PA_chr06_G001497	Picea_abies	OG0013374
+PA_chr06_G001586	Picea_abies	No orthogroup
+PA_chr06_G001609	Picea_abies	OG0000004
+PA_chr06_G001682	Picea_abies	OG0000004
+PA_chr06_G001711	Picea_abies	No orthogroup
+PA_chr06_G001794	Picea_abies	No orthogroup
+PA_chr06_G001813	Picea_abies	No orthogroup
+PA_chr06_G001866	Picea_abies	No orthogroup
+PA_chr06_G001868	Picea_abies	No orthogroup
+PA_chr06_G001924	Picea_abies	OG0000220
+PA_chr06_G001932	Picea_abies	No orthogroup
+PA_chr06_G001952	Picea_abies	No orthogroup
+PA_chr06_G001960	Picea_abies	No orthogroup
+PA_chr06_G001985	Picea_abies	No orthogroup
+PA_chr06_G002102	Picea_abies	No orthogroup
+PA_chr06_G002129	Picea_abies	No orthogroup
+PA_chr06_G002145	Picea_abies	No orthogroup
+PA_chr06_G002151	Picea_abies	No orthogroup
+PA_chr06_G002209	Picea_abies	No orthogroup
+PA_chr06_G002228	Picea_abies	No orthogroup
+PA_chr06_G002261	Picea_abies	OG0000398
+PA_chr06_G002279	Picea_abies	No orthogroup
+PA_chr06_G002337	Picea_abies	No orthogroup
+PA_chr06_G002397	Picea_abies	No orthogroup
+PA_chr06_G002429	Picea_abies	No orthogroup
+PA_chr06_G002445	Picea_abies	No orthogroup
+PA_chr06_G002503	Picea_abies	No orthogroup
+PA_chr06_G002584	Picea_abies	No orthogroup
+PA_chr06_G002660	Picea_abies	No orthogroup
+PA_chr06_G002682	Picea_abies	No orthogroup
+PA_chr06_G002719	Picea_abies	No orthogroup
+PA_chr06_G002752	Picea_abies	OG0010169
+PA_chr06_G002793	Picea_abies	No orthogroup
+PA_chr06_G002830	Picea_abies	No orthogroup
+PA_chr06_G002924	Picea_abies	No orthogroup
+PA_chr06_G003049	Picea_abies	No orthogroup
+PA_chr06_G003088	Picea_abies	No orthogroup
+PA_chr06_G003137	Picea_abies	No orthogroup
+PA_chr06_G003150	Picea_abies	No orthogroup
+PA_chr06_G003167	Picea_abies	No orthogroup
+PA_chr06_G003213	Picea_abies	No orthogroup
+PA_chr06_G003241	Picea_abies	No orthogroup
+PA_chr06_G003244	Picea_abies	No orthogroup
+PA_chr06_G003318	Picea_abies	No orthogroup
+PA_chr06_G003343	Picea_abies	No orthogroup
+PA_chr06_G003407	Picea_abies	OG0000036
+PA_chr06_G003419	Picea_abies	OG0000036
+PA_chr06_G003531	Picea_abies	OG0001299
+PA_chr06_G003546	Picea_abies	OG0003830
+PA_chr06_G003562	Picea_abies	No orthogroup
+PA_chr06_G003581	Picea_abies	No orthogroup
+PA_chr06_G003585	Picea_abies	No orthogroup
+PA_chr06_G003590	Picea_abies	No orthogroup
+PA_chr06_G003598	Picea_abies	No orthogroup
+PA_chr06_G003622	Picea_abies	No orthogroup
+PA_chr06_G003631	Picea_abies	No orthogroup
+PA_chr06_G003650	Picea_abies	OG0002852
+PA_chr06_G003702	Picea_abies	No orthogroup
+PA_chr06_G003825	Picea_abies	No orthogroup
+PA_chr06_G003871	Picea_abies	No orthogroup
+PA_chr06_G003956	Picea_abies	OG0000000
+PA_chr06_G003957	Picea_abies	OG0000000
+PA_chr06_G004044	Picea_abies	No orthogroup
+PA_chr06_G004125	Picea_abies	No orthogroup
+PA_chr06_G004128	Picea_abies	OG0002633
+PA_chr06_cUL0032_G000025	Picea_abies	No orthogroup
+PA_chr06_cUL0036_G000002	Picea_abies	No orthogroup
+PA_chr07_G000024	Picea_abies	No orthogroup
+PA_chr07_G000040	Picea_abies	No orthogroup
+PA_chr07_G000086	Picea_abies	No orthogroup
+PA_chr07_G000137	Picea_abies	No orthogroup
+PA_chr07_G000164	Picea_abies	No orthogroup
+PA_chr07_G000252	Picea_abies	OG0000000
+PA_chr07_G000283	Picea_abies	No orthogroup
+PA_chr07_G000286	Picea_abies	No orthogroup
+PA_chr07_G000287	Picea_abies	No orthogroup
+PA_chr07_G000301	Picea_abies	No orthogroup
+PA_chr07_G000835	Picea_abies	No orthogroup
+PA_chr07_G000836	Picea_abies	No orthogroup
+PA_chr07_G000910	Picea_abies	No orthogroup
+PA_chr07_G000965	Picea_abies	No orthogroup
+PA_chr07_G000976	Picea_abies	No orthogroup
+PA_chr07_G001014	Picea_abies	No orthogroup
+PA_chr07_G001095	Picea_abies	No orthogroup
+PA_chr07_G001098	Picea_abies	No orthogroup
+PA_chr07_G001099	Picea_abies	No orthogroup
+PA_chr07_G001105	Picea_abies	No orthogroup
+PA_chr07_G001125	Picea_abies	No orthogroup
+PA_chr07_G001128	Picea_abies	No orthogroup
+PA_chr07_G001366	Picea_abies	No orthogroup
+PA_chr07_G001373	Picea_abies	No orthogroup
+PA_chr07_G001378	Picea_abies	No orthogroup
+PA_chr07_G001506	Picea_abies	No orthogroup
+PA_chr07_G001680	Picea_abies	No orthogroup
+PA_chr07_G001683	Picea_abies	No orthogroup
+PA_chr07_G001691	Picea_abies	No orthogroup
+PA_chr07_G001694	Picea_abies	No orthogroup
+PA_chr07_G001749	Picea_abies	No orthogroup
+PA_chr07_G001751	Picea_abies	No orthogroup
+PA_chr07_G001796	Picea_abies	No orthogroup
+PA_chr07_G001873	Picea_abies	No orthogroup
+PA_chr07_G001877	Picea_abies	No orthogroup
+PA_chr07_G001906	Picea_abies	No orthogroup
+PA_chr07_G002156	Picea_abies	No orthogroup
+PA_chr07_G002233	Picea_abies	No orthogroup
+PA_chr07_G002253	Picea_abies	OG0002074
+PA_chr07_G002311	Picea_abies	No orthogroup
+PA_chr07_G002382	Picea_abies	OG0013648
+PA_chr07_G002386	Picea_abies	OG0000765
+PA_chr07_G002435	Picea_abies	No orthogroup
+PA_chr07_G002436	Picea_abies	No orthogroup
+PA_chr07_G002557	Picea_abies	No orthogroup
+PA_chr07_G002574	Picea_abies	No orthogroup
+PA_chr07_G002710	Picea_abies	No orthogroup
+PA_chr07_G002711	Picea_abies	No orthogroup
+PA_chr07_G002798	Picea_abies	No orthogroup
+PA_chr07_G002802	Picea_abies	No orthogroup
+PA_chr07_G002884	Picea_abies	No orthogroup
+PA_chr07_G003044	Picea_abies	No orthogroup
+PA_chr07_G003063	Picea_abies	No orthogroup
+PA_chr07_G003129	Picea_abies	No orthogroup
+PA_chr07_G003131	Picea_abies	No orthogroup
+PA_chr07_G003146	Picea_abies	OG0000000
+PA_chr07_G003351	Picea_abies	No orthogroup
+PA_chr07_G003366	Picea_abies	No orthogroup
+PA_chr07_G003431	Picea_abies	No orthogroup
+PA_chr07_G003444	Picea_abies	No orthogroup
+PA_chr07_G003470	Picea_abies	No orthogroup
+PA_chr07_G003498	Picea_abies	No orthogroup
+PA_chr07_G003524	Picea_abies	OG0000005
+PA_chr07_G003612	Picea_abies	No orthogroup
+PA_chr07_G003615	Picea_abies	No orthogroup
+PA_chr07_G003638	Picea_abies	No orthogroup
+PA_chr07_G003644	Picea_abies	No orthogroup
+PA_chr07_G003650	Picea_abies	No orthogroup
+PA_chr07_G003740	Picea_abies	No orthogroup
+PA_chr07_G003853	Picea_abies	OG0000023
+PA_chr07_G003858	Picea_abies	OG0000023
+PA_chr07_G004085	Picea_abies	No orthogroup
+PA_chr07_G004089	Picea_abies	No orthogroup
+PA_chr07_G004194	Picea_abies	OG0003948
+PA_chr07_G004298	Picea_abies	No orthogroup
+PA_chr07_G004356	Picea_abies	No orthogroup
+PA_chr07_G004381	Picea_abies	No orthogroup
+PA_chr07_G004390	Picea_abies	No orthogroup
+PA_chr07_G004397	Picea_abies	No orthogroup
+PA_chr07_G004417	Picea_abies	No orthogroup
+PA_chr07_G004469	Picea_abies	No orthogroup
+PA_chr07_G004473	Picea_abies	OG0000001
+PA_chr07_G004638	Picea_abies	No orthogroup
+PA_chr07_G005173	Picea_abies	No orthogroup
+PA_chr07_G005178	Picea_abies	No orthogroup
+PA_chr07_G005240	Picea_abies	No orthogroup
+PA_chr07_G005470	Picea_abies	No orthogroup
+PA_chr07_G005502	Picea_abies	OG0000013
+PA_chr07_G005632	Picea_abies	OG0000135
+PA_chr07_G005712	Picea_abies	No orthogroup
+PA_chr07_G005721	Picea_abies	No orthogroup
+PA_chr07_G005757	Picea_abies	OG0004546
+PA_chr07_G005758	Picea_abies	OG0004546
+PA_chr07_G005771	Picea_abies	No orthogroup
+PA_chr07_G005844	Picea_abies	No orthogroup
+PA_chr07_G005881	Picea_abies	OG0003739
+PA_chr07_G006057	Picea_abies	OG0007586
+PA_chr07_G006059	Picea_abies	No orthogroup
+PA_chr07_G006091	Picea_abies	OG0000182
+PA_chr07_G006196	Picea_abies	OG0001333
+PA_chr07_G006219	Picea_abies	No orthogroup
+PA_chr07_G006222	Picea_abies	No orthogroup
+PA_chr07_cUL0049_G000027	Picea_abies	OG0000000
+PA_chr07_cUL0058_G000003	Picea_abies	OG0000315
+PA_chr07_sUL001_G000009	Picea_abies	No orthogroup
+PA_chr07_sUL002_G000003	Picea_abies	No orthogroup
+PA_chr07_sUL002_G000006	Picea_abies	No orthogroup
+PA_chr07_sUL003_G000017	Picea_abies	No orthogroup
+PA_chr07_sUL003_G000032	Picea_abies	No orthogroup
+PA_chr07_sUL004_G000015	Picea_abies	No orthogroup
+PA_chr07_sUL004_G000017	Picea_abies	No orthogroup
+PA_chr07_sUL005_G000008	Picea_abies	No orthogroup
+PA_chr07_sUL006_G000027	Picea_abies	No orthogroup
+PA_chr08_G000583	Picea_abies	No orthogroup
+PA_chr08_G001170	Picea_abies	No orthogroup
+PA_chr08_G001209	Picea_abies	No orthogroup
+PA_chr08_G001213	Picea_abies	OG0000067
+PA_chr08_G001271	Picea_abies	No orthogroup
+PA_chr08_G001311	Picea_abies	No orthogroup
+PA_chr08_G001318	Picea_abies	No orthogroup
+PA_chr08_G001861	Picea_abies	No orthogroup
+PA_chr08_G001865	Picea_abies	OG0000014
+PA_chr08_G001885	Picea_abies	No orthogroup
+PA_chr08_G001895	Picea_abies	No orthogroup
+PA_chr08_G001899	Picea_abies	No orthogroup
+PA_chr08_G001949	Picea_abies	No orthogroup
+PA_chr08_G002076	Picea_abies	No orthogroup
+PA_chr08_G002077	Picea_abies	OG0000133
+PA_chr08_G002148	Picea_abies	No orthogroup
+PA_chr08_G002217	Picea_abies	No orthogroup
+PA_chr08_G002221	Picea_abies	No orthogroup
+PA_chr08_G002248	Picea_abies	No orthogroup
+PA_chr08_G002319	Picea_abies	No orthogroup
+PA_chr08_G002345	Picea_abies	No orthogroup
+PA_chr08_G002350	Picea_abies	No orthogroup
+PA_chr08_G002390	Picea_abies	No orthogroup
+PA_chr08_G002405	Picea_abies	No orthogroup
+PA_chr08_G002418	Picea_abies	No orthogroup
+PA_chr08_G002494	Picea_abies	No orthogroup
+PA_chr08_G002691	Picea_abies	No orthogroup
+PA_chr08_G002724	Picea_abies	No orthogroup
+PA_chr08_G002732	Picea_abies	No orthogroup
+PA_chr08_G002836	Picea_abies	OG0000238
+PA_chr08_G002931	Picea_abies	No orthogroup
+PA_chr08_G002943	Picea_abies	No orthogroup
+PA_chr08_G003044	Picea_abies	No orthogroup
+PA_chr08_G003061	Picea_abies	No orthogroup
+PA_chr08_G003069	Picea_abies	No orthogroup
+PA_chr08_G003108	Picea_abies	No orthogroup
+PA_chr08_G003144	Picea_abies	No orthogroup
+PA_chr08_G003199	Picea_abies	No orthogroup
+PA_chr08_G003221	Picea_abies	No orthogroup
+PA_chr08_G003232	Picea_abies	OG0001148
+PA_chr08_G003279	Picea_abies	No orthogroup
+PA_chr08_G003309	Picea_abies	No orthogroup
+PA_chr08_G003331	Picea_abies	OG0000000
+PA_chr08_G003342	Picea_abies	No orthogroup
+PA_chr08_G003374	Picea_abies	OG0000041
+PA_chr08_G003406	Picea_abies	No orthogroup
+PA_chr08_G003434	Picea_abies	No orthogroup
+PA_chr08_G003478	Picea_abies	No orthogroup
+PA_chr08_G003493	Picea_abies	OG0000168
+PA_chr08_G003552	Picea_abies	OG0000000
+PA_chr08_G003594	Picea_abies	OG0000000
+PA_chr08_G003781	Picea_abies	OG0000941
+PA_chr08_G003828	Picea_abies	No orthogroup
+PA_chr08_G003955	Picea_abies	No orthogroup
+PA_chr08_G004093	Picea_abies	No orthogroup
+PA_chr08_G004135	Picea_abies	No orthogroup
+PA_chr08_G004246	Picea_abies	No orthogroup
+PA_chr08_G004260	Picea_abies	No orthogroup
+PA_chr08_G004327	Picea_abies	OG0000006
+PA_chr08_G004335	Picea_abies	No orthogroup
+PA_chr08_G004369	Picea_abies	No orthogroup
+PA_chr08_G004392	Picea_abies	No orthogroup
+PA_chr08_G004439	Picea_abies	OG0000006
+PA_chr08_G004486	Picea_abies	No orthogroup
+PA_chr08_G004528	Picea_abies	No orthogroup
+PA_chr08_G004536	Picea_abies	OG0000021
+PA_chr08_G004628	Picea_abies	No orthogroup
+PA_chr08_G004785	Picea_abies	OG0000129
+PA_chr08_G004789	Picea_abies	OG0000129
+PA_chr08_G004791	Picea_abies	OG0000129
+PA_chr08_G004828	Picea_abies	No orthogroup
+PA_chr08_G004874	Picea_abies	OG0000146
+PA_chr08_G005544	Picea_abies	No orthogroup
+PA_chr08_G006387	Picea_abies	No orthogroup
+PA_chr08_G006460	Picea_abies	OG0000601
+PA_chr08_G006518	Picea_abies	No orthogroup
+PA_chr08_G006548	Picea_abies	OG0000813
+PA_chr08_G006603	Picea_abies	OG0000023
+PA_chr08_G006744	Picea_abies	No orthogroup
+PA_chr08_G006780	Picea_abies	No orthogroup
+PA_chr08_G006792	Picea_abies	No orthogroup
+PA_chr08_G006863	Picea_abies	No orthogroup
+PA_chr08_G006882	Picea_abies	No orthogroup
+PA_chr08_G006961	Picea_abies	No orthogroup
+PA_chr08_G006970	Picea_abies	No orthogroup
+PA_chr08_G006997	Picea_abies	No orthogroup
+PA_chr08_G007007	Picea_abies	No orthogroup
+PA_chr08_G007062	Picea_abies	OG0000902
+PA_chr08_G007104	Picea_abies	No orthogroup
+PA_chr08_G007113	Picea_abies	No orthogroup
+PA_chr08_G007114	Picea_abies	No orthogroup
+PA_chr08_G007133	Picea_abies	No orthogroup
+PA_chr08_G007157	Picea_abies	OG0000004
+PA_chr08_G007268	Picea_abies	No orthogroup
+PA_chr08_G007314	Picea_abies	No orthogroup
+PA_chr08_G007332	Picea_abies	No orthogroup
+PA_chr08_G007343	Picea_abies	No orthogroup
+PA_chr08_G007378	Picea_abies	No orthogroup
+PA_chr08_G007419	Picea_abies	OG0000812
+PA_chr08_G007561	Picea_abies	No orthogroup
+PA_chr08_G007586	Picea_abies	No orthogroup
+PA_chr08_G007647	Picea_abies	No orthogroup
+PA_chr08_G007648	Picea_abies	No orthogroup
+PA_chr08_G007663	Picea_abies	No orthogroup
+PA_chr08_cUL0032_G000016	Picea_abies	OG0000129
+PA_chr08_cUL0033_G000026	Picea_abies	No orthogroup
+PA_chr08_cUL0033_G000031	Picea_abies	No orthogroup
+PA_chr08_cUL0037_G000004	Picea_abies	No orthogroup
+PA_chr08_cUL0038_G000001	Picea_abies	No orthogroup
+PA_chr08_cUL0069_G000001	Picea_abies	No orthogroup
+PA_chr08_sUL001_G000004	Picea_abies	No orthogroup
+PA_chr08_sUL003_G000003	Picea_abies	No orthogroup
+PA_chr08_sUL003_G000009	Picea_abies	No orthogroup
+PA_chr08_sUL003_G000011	Picea_abies	No orthogroup
+PA_chr08_sUL005_G000013	Picea_abies	No orthogroup
+PA_chr08_sUL005_G000019	Picea_abies	No orthogroup
+PA_chr08_sUL006_G000005	Picea_abies	No orthogroup
+PA_chr09_G000017	Picea_abies	No orthogroup
+PA_chr09_G000037	Picea_abies	OG0000084
+PA_chr09_G000041	Picea_abies	OG0000000
+PA_chr09_G000058	Picea_abies	No orthogroup
+PA_chr09_G000132	Picea_abies	No orthogroup
+PA_chr09_G000148	Picea_abies	OG0000000
+PA_chr09_G000216	Picea_abies	No orthogroup
+PA_chr09_G000238	Picea_abies	No orthogroup
+PA_chr09_G000349	Picea_abies	No orthogroup
+PA_chr09_G000350	Picea_abies	No orthogroup
+PA_chr09_G000368	Picea_abies	No orthogroup
+PA_chr09_G000466	Picea_abies	OG0000180
+PA_chr09_G000547	Picea_abies	No orthogroup
+PA_chr09_G000550	Picea_abies	No orthogroup
+PA_chr09_G000556	Picea_abies	No orthogroup
+PA_chr09_G000566	Picea_abies	No orthogroup
+PA_chr09_G000578	Picea_abies	No orthogroup
+PA_chr09_G000585	Picea_abies	No orthogroup
+PA_chr09_G000639	Picea_abies	OG0003386
+PA_chr09_G000648	Picea_abies	OG0001157
+PA_chr09_G000676	Picea_abies	No orthogroup
+PA_chr09_G000795	Picea_abies	No orthogroup
+PA_chr09_G000980	Picea_abies	No orthogroup
+PA_chr09_G000990	Picea_abies	No orthogroup
+PA_chr09_G001001	Picea_abies	No orthogroup
+PA_chr09_G001208	Picea_abies	No orthogroup
+PA_chr09_G001227	Picea_abies	No orthogroup
+PA_chr09_G001228	Picea_abies	No orthogroup
+PA_chr09_G001330	Picea_abies	No orthogroup
+PA_chr09_G001459	Picea_abies	OG0000052
+PA_chr09_G001476	Picea_abies	OG0000000
+PA_chr09_G001487	Picea_abies	OG0000052
+PA_chr09_G001558	Picea_abies	No orthogroup
+PA_chr09_G001562	Picea_abies	No orthogroup
+PA_chr09_G001573	Picea_abies	No orthogroup
+PA_chr09_G001587	Picea_abies	No orthogroup
+PA_chr09_G001604	Picea_abies	OG0000013
+PA_chr09_G001627	Picea_abies	No orthogroup
+PA_chr09_G001656	Picea_abies	No orthogroup
+PA_chr09_G001672	Picea_abies	No orthogroup
+PA_chr09_G001676	Picea_abies	No orthogroup
+PA_chr09_G001681	Picea_abies	No orthogroup
+PA_chr09_G001708	Picea_abies	OG0000479
+PA_chr09_G001710	Picea_abies	OG0000479
+PA_chr09_G001734	Picea_abies	No orthogroup
+PA_chr09_G001853	Picea_abies	No orthogroup
+PA_chr09_G001940	Picea_abies	No orthogroup
+PA_chr09_G001981	Picea_abies	OG0000027
+PA_chr09_G002017	Picea_abies	OG0000141
+PA_chr09_G002061	Picea_abies	No orthogroup
+PA_chr09_G002101	Picea_abies	No orthogroup
+PA_chr09_G002109	Picea_abies	OG0000198
+PA_chr09_G002195	Picea_abies	No orthogroup
+PA_chr09_G002223	Picea_abies	No orthogroup
+PA_chr09_G002233	Picea_abies	OG0000000
+PA_chr09_G002235	Picea_abies	No orthogroup
+PA_chr09_G002368	Picea_abies	OG0000092
+PA_chr09_G002425	Picea_abies	No orthogroup
+PA_chr09_G002521	Picea_abies	No orthogroup
+PA_chr09_G002545	Picea_abies	No orthogroup
+PA_chr09_G002568	Picea_abies	No orthogroup
+PA_chr09_G002571	Picea_abies	No orthogroup
+PA_chr09_G002725	Picea_abies	No orthogroup
+PA_chr09_G002726	Picea_abies	No orthogroup
+PA_chr09_G002732	Picea_abies	No orthogroup
+PA_chr09_G002734	Picea_abies	OG0000014
+PA_chr09_G002737	Picea_abies	No orthogroup
+PA_chr09_G002782	Picea_abies	No orthogroup
+PA_chr09_G002824	Picea_abies	No orthogroup
+PA_chr09_G002830	Picea_abies	No orthogroup
+PA_chr09_G002835	Picea_abies	OG0000000
+PA_chr09_G002899	Picea_abies	OG0001157
+PA_chr09_G002906	Picea_abies	No orthogroup
+PA_chr09_G002954	Picea_abies	OG0000000
+PA_chr09_G002977	Picea_abies	No orthogroup
+PA_chr09_G003019	Picea_abies	No orthogroup
+PA_chr09_G003110	Picea_abies	No orthogroup
+PA_chr09_G003181	Picea_abies	OG0000000
+PA_chr09_G003320	Picea_abies	No orthogroup
+PA_chr09_G003386	Picea_abies	No orthogroup
+PA_chr09_G003400	Picea_abies	No orthogroup
+PA_chr09_G003402	Picea_abies	No orthogroup
+PA_chr09_G003410	Picea_abies	No orthogroup
+PA_chr09_G003446	Picea_abies	No orthogroup
+PA_chr09_G003469	Picea_abies	OG0000000
+PA_chr09_G003496	Picea_abies	No orthogroup
+PA_chr09_G003506	Picea_abies	OG0000258
+PA_chr09_G003546	Picea_abies	OG0001157
+PA_chr09_G003587	Picea_abies	No orthogroup
+PA_chr09_G003622	Picea_abies	OG0000230
+PA_chr09_G003705	Picea_abies	No orthogroup
+PA_chr09_G003706	Picea_abies	No orthogroup
+PA_chr09_G003716	Picea_abies	No orthogroup
+PA_chr09_G003721	Picea_abies	No orthogroup
+PA_chr09_G003729	Picea_abies	No orthogroup
+PA_chr09_G003734	Picea_abies	No orthogroup
+PA_chr09_G003765	Picea_abies	No orthogroup
+PA_chr09_G003768	Picea_abies	No orthogroup
+PA_chr09_G003787	Picea_abies	No orthogroup
+PA_chr09_G003861	Picea_abies	No orthogroup
+PA_chr09_G003891	Picea_abies	No orthogroup
+PA_chr09_G003923	Picea_abies	No orthogroup
+PA_chr09_G003949	Picea_abies	No orthogroup
+PA_chr09_G003977	Picea_abies	No orthogroup
+PA_chr09_G003989	Picea_abies	No orthogroup
+PA_chr09_G004181	Picea_abies	No orthogroup
+PA_chr09_G004190	Picea_abies	No orthogroup
+PA_chr09_G004208	Picea_abies	No orthogroup
+PA_chr09_G004212	Picea_abies	No orthogroup
+PA_chr09_G004223	Picea_abies	No orthogroup
+PA_chr09_G004358	Picea_abies	No orthogroup
+PA_chr09_G004548	Picea_abies	No orthogroup
+PA_chr09_G004710	Picea_abies	OG0001154
+PA_chr09_G004729	Picea_abies	No orthogroup
+PA_chr09_G004737	Picea_abies	No orthogroup
+PA_chr09_cUL0024_G000017	Picea_abies	No orthogroup
+PA_chr09_cUL0024_G000029	Picea_abies	No orthogroup
+PA_chr09_cUL0025_G000014	Picea_abies	OG0000052
+PA_chr09_cUL0028_G000006	Picea_abies	No orthogroup
+PA_chr09_cUL0038_G000004	Picea_abies	No orthogroup
+PA_chr09_sUL003_G000001	Picea_abies	No orthogroup
+PA_chr09_sUL003_G000013	Picea_abies	No orthogroup
+PA_chr10_G000035	Picea_abies	OG0000000
+PA_chr10_G000108	Picea_abies	No orthogroup
+PA_chr10_G000172	Picea_abies	OG0000000
+PA_chr10_G000240	Picea_abies	OG0000003
+PA_chr10_G000313	Picea_abies	No orthogroup
+PA_chr10_G000315	Picea_abies	No orthogroup
+PA_chr10_G000316	Picea_abies	No orthogroup
+PA_chr10_G000393	Picea_abies	No orthogroup
+PA_chr10_G000407	Picea_abies	No orthogroup
+PA_chr10_G000426	Picea_abies	No orthogroup
+PA_chr10_G000465	Picea_abies	OG0000090
+PA_chr10_G000510	Picea_abies	No orthogroup
+PA_chr10_G000593	Picea_abies	No orthogroup
+PA_chr10_G000595	Picea_abies	No orthogroup
+PA_chr10_G000599	Picea_abies	OG0003489
+PA_chr10_G000653	Picea_abies	No orthogroup
+PA_chr10_G000760	Picea_abies	No orthogroup
+PA_chr10_G000787	Picea_abies	OG0000718
+PA_chr10_G000887	Picea_abies	No orthogroup
+PA_chr10_G000893	Picea_abies	No orthogroup
+PA_chr10_G000908	Picea_abies	No orthogroup
+PA_chr10_G000988	Picea_abies	No orthogroup
+PA_chr10_G001003	Picea_abies	No orthogroup
+PA_chr10_G001117	Picea_abies	OG0000000
+PA_chr10_G001132	Picea_abies	OG0000000
+PA_chr10_G001135	Picea_abies	OG0000000
+PA_chr10_G001152	Picea_abies	OG0000000
+PA_chr10_G001202	Picea_abies	OG0000000
+PA_chr10_G001254	Picea_abies	OG0000000
+PA_chr10_G001335	Picea_abies	No orthogroup
+PA_chr10_G001417	Picea_abies	No orthogroup
+PA_chr10_G001454	Picea_abies	OG0000000
+PA_chr10_G001460	Picea_abies	OG0000323
+PA_chr10_G001600	Picea_abies	No orthogroup
+PA_chr10_G001620	Picea_abies	OG0000000
+PA_chr10_G001634	Picea_abies	No orthogroup
+PA_chr10_G001707	Picea_abies	OG0000169
+PA_chr10_G001736	Picea_abies	No orthogroup
+PA_chr10_G001768	Picea_abies	No orthogroup
+PA_chr10_G001824	Picea_abies	OG0000000
+PA_chr10_G001998	Picea_abies	No orthogroup
+PA_chr10_G002059	Picea_abies	No orthogroup
+PA_chr10_G002061	Picea_abies	No orthogroup
+PA_chr10_G002133	Picea_abies	No orthogroup
+PA_chr10_G002151	Picea_abies	OG0000190
+PA_chr10_G002169	Picea_abies	OG0000090
+PA_chr10_G002189	Picea_abies	No orthogroup
+PA_chr10_G002227	Picea_abies	OG0014792
+PA_chr10_G002326	Picea_abies	No orthogroup
+PA_chr10_G002342	Picea_abies	OG0000042
+PA_chr10_G002413	Picea_abies	No orthogroup
+PA_chr10_G002506	Picea_abies	No orthogroup
+PA_chr10_G002510	Picea_abies	No orthogroup
+PA_chr10_G002523	Picea_abies	No orthogroup
+PA_chr10_G002545	Picea_abies	No orthogroup
+PA_chr10_G002551	Picea_abies	No orthogroup
+PA_chr10_G002599	Picea_abies	No orthogroup
+PA_chr10_G002709	Picea_abies	No orthogroup
+PA_chr10_G002742	Picea_abies	No orthogroup
+PA_chr10_G002775	Picea_abies	No orthogroup
+PA_chr10_G002791	Picea_abies	No orthogroup
+PA_chr10_G002825	Picea_abies	No orthogroup
+PA_chr10_G002893	Picea_abies	No orthogroup
+PA_chr10_G002912	Picea_abies	No orthogroup
+PA_chr10_G002916	Picea_abies	No orthogroup
+PA_chr10_G002923	Picea_abies	No orthogroup
+PA_chr10_G002924	Picea_abies	No orthogroup
+PA_chr10_G002930	Picea_abies	No orthogroup
+PA_chr10_G002951	Picea_abies	No orthogroup
+PA_chr10_G002952	Picea_abies	OG0012919
+PA_chr10_G003005	Picea_abies	No orthogroup
+PA_chr10_G003095	Picea_abies	No orthogroup
+PA_chr10_G003241	Picea_abies	OG0000000
+PA_chr10_G003260	Picea_abies	No orthogroup
+PA_chr10_G003308	Picea_abies	No orthogroup
+PA_chr10_G003312	Picea_abies	No orthogroup
+PA_chr10_G003339	Picea_abies	No orthogroup
+PA_chr10_G003391	Picea_abies	OG0000029
+PA_chr10_G003406	Picea_abies	No orthogroup
+PA_chr10_G003409	Picea_abies	No orthogroup
+PA_chr10_G003462	Picea_abies	OG0000006
+PA_chr10_G003475	Picea_abies	OG0000083
+PA_chr10_G003481	Picea_abies	No orthogroup
+PA_chr10_G003550	Picea_abies	No orthogroup
+PA_chr10_G003726	Picea_abies	No orthogroup
+PA_chr10_G003745	Picea_abies	OG0000006
+PA_chr10_G003783	Picea_abies	No orthogroup
+PA_chr10_G003859	Picea_abies	OG0004413
+PA_chr10_G003945	Picea_abies	No orthogroup
+PA_chr10_G004048	Picea_abies	No orthogroup
+PA_chr10_G004049	Picea_abies	OG0000006
+PA_chr10_G004068	Picea_abies	No orthogroup
+PA_chr10_G004072	Picea_abies	No orthogroup
+PA_chr10_G004141	Picea_abies	No orthogroup
+PA_chr10_G004210	Picea_abies	No orthogroup
+PA_chr10_G004245	Picea_abies	No orthogroup
+PA_chr10_G004277	Picea_abies	No orthogroup
+PA_chr10_cUL0040_G000014	Picea_abies	No orthogroup
+PA_chr10_cUL0040_G000015	Picea_abies	No orthogroup
+PA_chr10_cUL0040_G000018	Picea_abies	No orthogroup
+PA_chr10_cUL0040_G000030	Picea_abies	OG0000109
+PA_chr10_cUL0042_G000003	Picea_abies	No orthogroup
+PA_chr10_cUL0061_G000001	Picea_abies	OG0000096
+PA_chr10_sUL001_G000024	Picea_abies	No orthogroup
+PA_chr10_sUL001_G000064	Picea_abies	OG0000045
+PA_chr10_sUL004_G000031	Picea_abies	No orthogroup
+PA_chr11_G000015	Picea_abies	No orthogroup
+PA_chr11_G000030	Picea_abies	OG0000000
+PA_chr11_G000035	Picea_abies	No orthogroup
+PA_chr11_G000117	Picea_abies	OG0000000
+PA_chr11_G000127	Picea_abies	OG0000000
+PA_chr11_G000190	Picea_abies	No orthogroup
+PA_chr11_G000230	Picea_abies	No orthogroup
+PA_chr11_G000299	Picea_abies	No orthogroup
+PA_chr11_G000326	Picea_abies	No orthogroup
+PA_chr11_G000443	Picea_abies	OG0000520
+PA_chr11_G000456	Picea_abies	No orthogroup
+PA_chr11_G000463	Picea_abies	No orthogroup
+PA_chr11_G000464	Picea_abies	No orthogroup
+PA_chr11_G000495	Picea_abies	No orthogroup
+PA_chr11_G000582	Picea_abies	No orthogroup
+PA_chr11_G000698	Picea_abies	No orthogroup
+PA_chr11_G000702	Picea_abies	OG0000363
+PA_chr11_G000707	Picea_abies	No orthogroup
+PA_chr11_G000815	Picea_abies	No orthogroup
+PA_chr11_G000880	Picea_abies	No orthogroup
+PA_chr11_G000923	Picea_abies	No orthogroup
+PA_chr11_G000958	Picea_abies	No orthogroup
+PA_chr11_G000980	Picea_abies	No orthogroup
+PA_chr11_G001015	Picea_abies	No orthogroup
+PA_chr11_G001035	Picea_abies	OG0000014
+PA_chr11_G001052	Picea_abies	No orthogroup
+PA_chr11_G001071	Picea_abies	OG0000014
+PA_chr11_G001086	Picea_abies	No orthogroup
+PA_chr11_G001109	Picea_abies	No orthogroup
+PA_chr11_G001183	Picea_abies	No orthogroup
+PA_chr11_G001215	Picea_abies	No orthogroup
+PA_chr11_G001279	Picea_abies	No orthogroup
+PA_chr11_G001314	Picea_abies	No orthogroup
+PA_chr11_G001361	Picea_abies	No orthogroup
+PA_chr11_G001387	Picea_abies	No orthogroup
+PA_chr11_G001390	Picea_abies	No orthogroup
+PA_chr11_G001464	Picea_abies	No orthogroup
+PA_chr11_G001475	Picea_abies	No orthogroup
+PA_chr11_G001480	Picea_abies	No orthogroup
+PA_chr11_G001555	Picea_abies	No orthogroup
+PA_chr11_G001622	Picea_abies	OG0000000
+PA_chr11_G001655	Picea_abies	No orthogroup
+PA_chr11_G001708	Picea_abies	OG0000000
+PA_chr11_G001826	Picea_abies	No orthogroup
+PA_chr11_G001832	Picea_abies	No orthogroup
+PA_chr11_G001855	Picea_abies	OG0000253
+PA_chr11_G001902	Picea_abies	No orthogroup
+PA_chr11_G001995	Picea_abies	No orthogroup
+PA_chr11_G002016	Picea_abies	No orthogroup
+PA_chr11_G002040	Picea_abies	No orthogroup
+PA_chr11_G002266	Picea_abies	No orthogroup
+PA_chr11_G002395	Picea_abies	No orthogroup
+PA_chr11_G002417	Picea_abies	No orthogroup
+PA_chr11_G002453	Picea_abies	OG0000000
+PA_chr11_G002492	Picea_abies	No orthogroup
+PA_chr11_G002493	Picea_abies	No orthogroup
+PA_chr11_G002508	Picea_abies	No orthogroup
+PA_chr11_G002540	Picea_abies	OG0000000
+PA_chr11_G002547	Picea_abies	No orthogroup
+PA_chr11_G002580	Picea_abies	OG0000017
+PA_chr11_G002798	Picea_abies	No orthogroup
+PA_chr11_G002826	Picea_abies	OG0000000
+PA_chr11_G002908	Picea_abies	No orthogroup
+PA_chr11_G002950	Picea_abies	No orthogroup
+PA_chr11_G002988	Picea_abies	No orthogroup
+PA_chr11_G003177	Picea_abies	OG0000206
+PA_chr11_G003237	Picea_abies	OG0000000
+PA_chr11_G003291	Picea_abies	No orthogroup
+PA_chr11_G003347	Picea_abies	No orthogroup
+PA_chr11_G003380	Picea_abies	OG0000396
+PA_chr11_G003410	Picea_abies	No orthogroup
+PA_chr11_G003449	Picea_abies	No orthogroup
+PA_chr11_G003457	Picea_abies	No orthogroup
+PA_chr11_cUL0019_G000012	Picea_abies	No orthogroup
+PA_chr11_cUL0020_G000020	Picea_abies	No orthogroup
+PA_chr11_cUL0021_G000010	Picea_abies	No orthogroup
+PA_chr11_cUL0026_G000010	Picea_abies	No orthogroup
+PA_chr11_cUL0029_G000003	Picea_abies	No orthogroup
+PA_chr11_cUL0034_G000002	Picea_abies	No orthogroup
+PA_chr12_G000016	Picea_abies	No orthogroup
+PA_chr12_G000024	Picea_abies	OG0000000
+PA_chr12_G000028	Picea_abies	No orthogroup
+PA_chr12_G000054	Picea_abies	No orthogroup
+PA_chr12_G000096	Picea_abies	No orthogroup
+PA_chr12_G000119	Picea_abies	No orthogroup
+PA_chr12_G000147	Picea_abies	OG0000005
+PA_chr12_G000269	Picea_abies	OG0000031
+PA_chr12_G000271	Picea_abies	No orthogroup
+PA_chr12_G000288	Picea_abies	No orthogroup
+PA_chr12_G000310	Picea_abies	No orthogroup
+PA_chr12_G000405	Picea_abies	No orthogroup
+PA_chr12_G000433	Picea_abies	No orthogroup
+PA_chr12_G000444	Picea_abies	No orthogroup
+PA_chr12_G000452	Picea_abies	No orthogroup
+PA_chr12_G000467	Picea_abies	OG0000270
+PA_chr12_G000482	Picea_abies	OG0000270
+PA_chr12_G000559	Picea_abies	OG0000012
+PA_chr12_G000615	Picea_abies	No orthogroup
+PA_chr12_G000697	Picea_abies	No orthogroup
+PA_chr12_G000810	Picea_abies	No orthogroup
+PA_chr12_G000827	Picea_abies	No orthogroup
+PA_chr12_G000878	Picea_abies	No orthogroup
+PA_chr12_G000887	Picea_abies	No orthogroup
+PA_chr12_G000899	Picea_abies	OG0000000
+PA_chr12_G000937	Picea_abies	No orthogroup
+PA_chr12_G001002	Picea_abies	No orthogroup
+PA_chr12_G001081	Picea_abies	No orthogroup
+PA_chr12_G001084	Picea_abies	No orthogroup
+PA_chr12_G001139	Picea_abies	OG0000004
+PA_chr12_G001175	Picea_abies	No orthogroup
+PA_chr12_G001189	Picea_abies	No orthogroup
+PA_chr12_G001192	Picea_abies	No orthogroup
+PA_chr12_G001197	Picea_abies	OG0002077
+PA_chr12_G001253	Picea_abies	OG0002077
+PA_chr12_G001345	Picea_abies	No orthogroup
+PA_chr12_G001366	Picea_abies	OG0000028
+PA_chr12_G001416	Picea_abies	OG0000000
+PA_chr12_G001450	Picea_abies	No orthogroup
+PA_chr12_G001476	Picea_abies	No orthogroup
+PA_chr12_G001498	Picea_abies	OG0000084
+PA_chr12_G001505	Picea_abies	No orthogroup
+PA_chr12_G001544	Picea_abies	No orthogroup
+PA_chr12_G001625	Picea_abies	No orthogroup
+PA_chr12_G001723	Picea_abies	No orthogroup
+PA_chr12_G001791	Picea_abies	No orthogroup
+PA_chr12_G001850	Picea_abies	No orthogroup
+PA_chr12_G001870	Picea_abies	No orthogroup
+PA_chr12_G001897	Picea_abies	No orthogroup
+PA_chr12_G001925	Picea_abies	No orthogroup
+PA_chr12_G001996	Picea_abies	OG0000014
+PA_chr12_G002270	Picea_abies	No orthogroup
+PA_chr12_G002303	Picea_abies	No orthogroup
+PA_chr12_G002349	Picea_abies	No orthogroup
+PA_chr12_G002358	Picea_abies	No orthogroup
+PA_chr12_G002359	Picea_abies	No orthogroup
+PA_chr12_G002433	Picea_abies	OG0000065
+PA_chr12_G002465	Picea_abies	No orthogroup
+PA_chr12_G002473	Picea_abies	No orthogroup
+PA_chr12_G002490	Picea_abies	No orthogroup
+PA_chr12_G002494	Picea_abies	OG0000000
+PA_chr12_G002497	Picea_abies	No orthogroup
+PA_chr12_G002506	Picea_abies	No orthogroup
+PA_chr12_G002525	Picea_abies	No orthogroup
+PA_chr12_G002526	Picea_abies	OG0003867
+PA_chr12_G002556	Picea_abies	No orthogroup
+PA_chr12_G002568	Picea_abies	No orthogroup
+PA_chr12_G002614	Picea_abies	No orthogroup
+PA_chr12_G002651	Picea_abies	No orthogroup
+PA_chr12_G002698	Picea_abies	OG0000000
+PA_chr12_G002732	Picea_abies	No orthogroup
+PA_chr12_G002742	Picea_abies	No orthogroup
+PA_chr12_G002749	Picea_abies	No orthogroup
+PA_chr12_G002756	Picea_abies	OG0000365
+PA_chr12_G002771	Picea_abies	No orthogroup
+PA_chr12_G002777	Picea_abies	No orthogroup
+PA_chr12_G002902	Picea_abies	No orthogroup
+PA_chr12_G002951	Picea_abies	No orthogroup
+PA_chr12_G002954	Picea_abies	No orthogroup
+PA_chr12_G002965	Picea_abies	No orthogroup
+PA_chr12_G003030	Picea_abies	OG0000267
+PA_chr12_G003086	Picea_abies	No orthogroup
+PA_chr12_G003107	Picea_abies	No orthogroup
+PA_chr12_G003118	Picea_abies	No orthogroup
+PA_chr12_G003145	Picea_abies	No orthogroup
+PA_chr12_G003247	Picea_abies	No orthogroup
+PA_chr12_G003253	Picea_abies	No orthogroup
+PA_chr12_G003256	Picea_abies	No orthogroup
+PA_chr12_G003260	Picea_abies	No orthogroup
+PA_chr12_G003307	Picea_abies	OG0003067
+PA_chr12_G003316	Picea_abies	OG0000164
+PA_chr12_G003343	Picea_abies	No orthogroup
+PA_chr12_G003348	Picea_abies	No orthogroup
+PA_chr12_G003586	Picea_abies	OG0000071
+PA_chr12_G003637	Picea_abies	No orthogroup
+PA_chr12_G003645	Picea_abies	No orthogroup
+PA_chr12_G003671	Picea_abies	No orthogroup
+PA_chr12_G003760	Picea_abies	No orthogroup
+PA_chr12_G003804	Picea_abies	No orthogroup
+PA_chr12_G003839	Picea_abies	OG0000107
+PA_chr12_G003918	Picea_abies	No orthogroup
+PA_chr12_G003951	Picea_abies	No orthogroup
+PA_chr12_G003987	Picea_abies	OG0000000
+PA_chr12_G003991	Picea_abies	OG0000338
+PA_chr12_G004115	Picea_abies	OG0000112
+PA_chr12_G004192	Picea_abies	OG0000851
+PA_chr12_G004215	Picea_abies	No orthogroup
+PA_chr12_G004348	Picea_abies	OG0000122
+PA_chr12_G004360	Picea_abies	OG0000010
+PA_chr12_G004401	Picea_abies	No orthogroup
+PA_chr12_G004450	Picea_abies	No orthogroup
+PA_chr12_G004473	Picea_abies	No orthogroup
+PA_chr12_G004529	Picea_abies	OG0000014
+PA_chr12_G004530	Picea_abies	OG0000014
+PA_chr12_G004572	Picea_abies	OG0000000
+PA_chr12_G004598	Picea_abies	No orthogroup
+PA_chr12_G004628	Picea_abies	No orthogroup
+PA_chr12_G004650	Picea_abies	No orthogroup
+PA_chr12_G004742	Picea_abies	No orthogroup
+PA_chr12_G004833	Picea_abies	OG0000088
+PA_chr12_G004854	Picea_abies	No orthogroup
+PA_chr12_G004923	Picea_abies	No orthogroup
+PA_chr12_G004938	Picea_abies	OG0000004
+PA_chr12_cUL0047_G000017	Picea_abies	No orthogroup
+PA_chr12_cUL0047_G000028	Picea_abies	No orthogroup
+PA_chr12_cUL0047_G000039	Picea_abies	No orthogroup
+PA_chr12_cUL0049_G000054	Picea_abies	No orthogroup
+PA_chr12_cUL0049_G000056	Picea_abies	OG0000031
+PA_chr12_cUL0050_G000015	Picea_abies	OG0000078
+PA_chr12_cUL0050_G000023	Picea_abies	No orthogroup
+PA_chr12_cUL0052_G000005	Picea_abies	No orthogroup
+PA_chr12_cUL0052_G000006	Picea_abies	No orthogroup
+PA_chr12_cUL0052_G000032	Picea_abies	No orthogroup
+PA_chr12_cUL0055_G000001	Picea_abies	OG0000067
+PA_chr12_cUL0058_G000002	Picea_abies	No orthogroup
+PA_chr12_cUL0058_G000003	Picea_abies	No orthogroup
+PA_chr12_cUL0062_G000001	Picea_abies	OG0000008
+PA_chr12_sUL001_G000009	Picea_abies	No orthogroup
+PA_chr12_sUL001_G000047	Picea_abies	No orthogroup
+PA_chr12_sUL001_G000077	Picea_abies	No orthogroup
+PA_chr12_sUL001_G000087	Picea_abies	No orthogroup
+PA_chr12_sUL002_G000001	Picea_abies	No orthogroup
+PA_sUP002_G000011	Picea_abies	OG0002230
+PA_sUP002_G000030	Picea_abies	OG0000973
+PA_sUP002_G000108	Picea_abies	OG0000846
+PA_sUP002_G000124	Picea_abies	No orthogroup
+PA_sUP002_G000127	Picea_abies	No orthogroup
+PA_sUP004_G000010	Picea_abies	No orthogroup
+PA_sUP009_G000006	Picea_abies	No orthogroup
+PS_chr01_G000040	Pinus_sylvestris	No orthogroup
+PS_chr01_G000056	Pinus_sylvestris	No orthogroup
+PS_chr01_G000065	Pinus_sylvestris	No orthogroup
+PS_chr01_G000084	Pinus_sylvestris	OG0000000
+PS_chr01_G000232	Pinus_sylvestris	No orthogroup
+PS_chr01_G000258	Pinus_sylvestris	No orthogroup
+PS_chr01_G000353	Pinus_sylvestris	No orthogroup
+PS_chr01_G000388	Pinus_sylvestris	No orthogroup
+PS_chr01_G000467	Pinus_sylvestris	OG0000000
+PS_chr01_G000482	Pinus_sylvestris	No orthogroup
+PS_chr01_G000483	Pinus_sylvestris	No orthogroup
+PS_chr01_G000491	Pinus_sylvestris	No orthogroup
+PS_chr01_G000492	Pinus_sylvestris	No orthogroup
+PS_chr01_G000497	Pinus_sylvestris	No orthogroup
+PS_chr01_G000534	Pinus_sylvestris	No orthogroup
+PS_chr01_G000569	Pinus_sylvestris	No orthogroup
+PS_chr01_G000675	Pinus_sylvestris	No orthogroup
+PS_chr01_G000705	Pinus_sylvestris	OG0000021
+PS_chr01_G000749	Pinus_sylvestris	No orthogroup
+PS_chr01_G000751	Pinus_sylvestris	No orthogroup
+PS_chr01_G000761	Pinus_sylvestris	No orthogroup
+PS_chr01_G000804	Pinus_sylvestris	No orthogroup
+PS_chr01_G000824	Pinus_sylvestris	No orthogroup
+PS_chr01_G000831	Pinus_sylvestris	No orthogroup
+PS_chr01_G000832	Pinus_sylvestris	No orthogroup
+PS_chr01_G000886	Pinus_sylvestris	OG0000078
+PS_chr01_G000890	Pinus_sylvestris	OG0000078
+PS_chr01_G000995	Pinus_sylvestris	OG0002074
+PS_chr01_G001001	Pinus_sylvestris	No orthogroup
+PS_chr01_G001034	Pinus_sylvestris	No orthogroup
+PS_chr01_G001035	Pinus_sylvestris	No orthogroup
+PS_chr01_G001049	Pinus_sylvestris	OG0000006
+PS_chr01_G001060	Pinus_sylvestris	OG0000006
+PS_chr01_G001173	Pinus_sylvestris	No orthogroup
+PS_chr01_G001182	Pinus_sylvestris	No orthogroup
+PS_chr01_G001206	Pinus_sylvestris	No orthogroup
+PS_chr01_G001264	Pinus_sylvestris	No orthogroup
+PS_chr01_G001312	Pinus_sylvestris	No orthogroup
+PS_chr01_G001332	Pinus_sylvestris	No orthogroup
+PS_chr01_G001362	Pinus_sylvestris	No orthogroup
+PS_chr01_G001371	Pinus_sylvestris	No orthogroup
+PS_chr01_G001379	Pinus_sylvestris	No orthogroup
+PS_chr01_G001389	Pinus_sylvestris	No orthogroup
+PS_chr01_G001445	Pinus_sylvestris	No orthogroup
+PS_chr01_G001469	Pinus_sylvestris	No orthogroup
+PS_chr01_G001483	Pinus_sylvestris	No orthogroup
+PS_chr01_G001484	Pinus_sylvestris	No orthogroup
+PS_chr01_G001486	Pinus_sylvestris	No orthogroup
+PS_chr01_G001488	Pinus_sylvestris	No orthogroup
+PS_chr01_G001499	Pinus_sylvestris	No orthogroup
+PS_chr01_G001542	Pinus_sylvestris	OG0000729
+PS_chr01_G001547	Pinus_sylvestris	No orthogroup
+PS_chr01_G001578	Pinus_sylvestris	No orthogroup
+PS_chr01_G001591	Pinus_sylvestris	No orthogroup
+PS_chr01_G001622	Pinus_sylvestris	No orthogroup
+PS_chr01_G001634	Pinus_sylvestris	No orthogroup
+PS_chr01_G001639	Pinus_sylvestris	No orthogroup
+PS_chr01_G001644	Pinus_sylvestris	No orthogroup
+PS_chr01_G001664	Pinus_sylvestris	No orthogroup
+PS_chr01_G001678	Pinus_sylvestris	No orthogroup
+PS_chr01_G001731	Pinus_sylvestris	No orthogroup
+PS_chr01_G001739	Pinus_sylvestris	No orthogroup
+PS_chr01_G001773	Pinus_sylvestris	No orthogroup
+PS_chr01_G001795	Pinus_sylvestris	No orthogroup
+PS_chr01_G001856	Pinus_sylvestris	No orthogroup
+PS_chr01_G001893	Pinus_sylvestris	No orthogroup
+PS_chr01_G001936	Pinus_sylvestris	OG0000882
+PS_chr01_G001964	Pinus_sylvestris	No orthogroup
+PS_chr01_G001995	Pinus_sylvestris	No orthogroup
+PS_chr01_G002002	Pinus_sylvestris	No orthogroup
+PS_chr01_G002045	Pinus_sylvestris	No orthogroup
+PS_chr01_G002088	Pinus_sylvestris	No orthogroup
+PS_chr01_G002120	Pinus_sylvestris	OG0000079
+PS_chr01_G002147	Pinus_sylvestris	No orthogroup
+PS_chr01_G002226	Pinus_sylvestris	No orthogroup
+PS_chr01_G002238	Pinus_sylvestris	OG0000005
+PS_chr01_G002249	Pinus_sylvestris	No orthogroup
+PS_chr01_G002333	Pinus_sylvestris	No orthogroup
+PS_chr01_G002336	Pinus_sylvestris	No orthogroup
+PS_chr01_G002353	Pinus_sylvestris	No orthogroup
+PS_chr01_G002419	Pinus_sylvestris	No orthogroup
+PS_chr01_G002424	Pinus_sylvestris	No orthogroup
+PS_chr01_G002449	Pinus_sylvestris	No orthogroup
+PS_chr01_G002498	Pinus_sylvestris	No orthogroup
+PS_chr01_G002520	Pinus_sylvestris	No orthogroup
+PS_chr01_G002554	Pinus_sylvestris	No orthogroup
+PS_chr01_G002601	Pinus_sylvestris	No orthogroup
+PS_chr01_G002602	Pinus_sylvestris	No orthogroup
+PS_chr01_G002619	Pinus_sylvestris	No orthogroup
+PS_chr01_G002636	Pinus_sylvestris	No orthogroup
+PS_chr01_G002637	Pinus_sylvestris	No orthogroup
+PS_chr01_G002640	Pinus_sylvestris	No orthogroup
+PS_chr01_G002681	Pinus_sylvestris	OG0000000
+PS_chr01_G002717	Pinus_sylvestris	No orthogroup
+PS_chr01_G002818	Pinus_sylvestris	No orthogroup
+PS_chr01_G002936	Pinus_sylvestris	No orthogroup
+PS_chr01_G002962	Pinus_sylvestris	No orthogroup
+PS_chr01_G002999	Pinus_sylvestris	No orthogroup
+PS_chr01_G003000	Pinus_sylvestris	No orthogroup
+PS_chr01_G003079	Pinus_sylvestris	No orthogroup
+PS_chr01_G003081	Pinus_sylvestris	No orthogroup
+PS_chr01_G003152	Pinus_sylvestris	No orthogroup
+PS_chr01_G003182	Pinus_sylvestris	No orthogroup
+PS_chr01_G003256	Pinus_sylvestris	No orthogroup
+PS_chr01_G003259	Pinus_sylvestris	No orthogroup
+PS_chr01_G003373	Pinus_sylvestris	No orthogroup
+PS_chr01_G003401	Pinus_sylvestris	No orthogroup
+PS_chr01_G003403	Pinus_sylvestris	No orthogroup
+PS_chr01_G003469	Pinus_sylvestris	No orthogroup
+PS_chr01_G003470	Pinus_sylvestris	No orthogroup
+PS_chr01_G003538	Pinus_sylvestris	OG0000214
+PS_chr01_G003573	Pinus_sylvestris	No orthogroup
+PS_chr01_G003615	Pinus_sylvestris	OG0008847
+PS_chr01_G003628	Pinus_sylvestris	No orthogroup
+PS_chr01_G003656	Pinus_sylvestris	No orthogroup
+PS_chr01_G003689	Pinus_sylvestris	No orthogroup
+PS_chr01_G003706	Pinus_sylvestris	OG0000000
+PS_chr01_G003741	Pinus_sylvestris	No orthogroup
+PS_chr01_G003752	Pinus_sylvestris	No orthogroup
+PS_chr01_G003755	Pinus_sylvestris	No orthogroup
+PS_chr01_G003770	Pinus_sylvestris	No orthogroup
+PS_chr01_G003793	Pinus_sylvestris	No orthogroup
+PS_chr01_G003795	Pinus_sylvestris	No orthogroup
+PS_chr01_G003797	Pinus_sylvestris	No orthogroup
+PS_chr01_G003811	Pinus_sylvestris	No orthogroup
+PS_chr01_G003828	Pinus_sylvestris	No orthogroup
+PS_chr01_G003830	Pinus_sylvestris	OG0000686
+PS_chr01_G003844	Pinus_sylvestris	No orthogroup
+PS_chr01_G003906	Pinus_sylvestris	No orthogroup
+PS_chr01_G003923	Pinus_sylvestris	No orthogroup
+PS_chr01_G004002	Pinus_sylvestris	No orthogroup
+PS_chr01_G004059	Pinus_sylvestris	No orthogroup
+PS_chr01_G004060	Pinus_sylvestris	No orthogroup
+PS_chr01_G004077	Pinus_sylvestris	OG0000129
+PS_chr01_G004100	Pinus_sylvestris	No orthogroup
+PS_chr01_G004101	Pinus_sylvestris	No orthogroup
+PS_chr01_G004129	Pinus_sylvestris	No orthogroup
+PS_chr01_G004159	Pinus_sylvestris	No orthogroup
+PS_chr01_G004174	Pinus_sylvestris	No orthogroup
+PS_chr01_G004180	Pinus_sylvestris	No orthogroup
+PS_chr01_G004259	Pinus_sylvestris	No orthogroup
+PS_chr01_G004293	Pinus_sylvestris	No orthogroup
+PS_chr01_G004372	Pinus_sylvestris	No orthogroup
+PS_chr01_G004395	Pinus_sylvestris	No orthogroup
+PS_chr01_G004429	Pinus_sylvestris	No orthogroup
+PS_chr01_G004468	Pinus_sylvestris	OG0000033
+PS_chr01_G004524	Pinus_sylvestris	OG0005579
+PS_chr01_G004588	Pinus_sylvestris	No orthogroup
+PS_chr01_G004611	Pinus_sylvestris	No orthogroup
+PS_chr01_G004618	Pinus_sylvestris	No orthogroup
+PS_chr01_G004659	Pinus_sylvestris	No orthogroup
+PS_chr01_G004668	Pinus_sylvestris	No orthogroup
+PS_chr01_G004716	Pinus_sylvestris	No orthogroup
+PS_chr01_G004787	Pinus_sylvestris	No orthogroup
+PS_chr01_G004800	Pinus_sylvestris	OG0003121
+PS_chr01_G004819	Pinus_sylvestris	No orthogroup
+PS_chr01_G004830	Pinus_sylvestris	No orthogroup
+PS_chr01_G004899	Pinus_sylvestris	No orthogroup
+PS_chr01_G004902	Pinus_sylvestris	No orthogroup
+PS_chr01_G004972	Pinus_sylvestris	OG0000090
+PS_chr01_G004979	Pinus_sylvestris	No orthogroup
+PS_chr01_G004993	Pinus_sylvestris	No orthogroup
+PS_chr01_G005004	Pinus_sylvestris	No orthogroup
+PS_chr01_G005031	Pinus_sylvestris	No orthogroup
+PS_chr01_G005032	Pinus_sylvestris	No orthogroup
+PS_chr01_G005099	Pinus_sylvestris	No orthogroup
+PS_chr01_G005141	Pinus_sylvestris	No orthogroup
+PS_chr01_G005149	Pinus_sylvestris	No orthogroup
+PS_chr01_G005161	Pinus_sylvestris	OG0001545
+PS_chr01_G005179	Pinus_sylvestris	No orthogroup
+PS_chr01_G005196	Pinus_sylvestris	No orthogroup
+PS_chr01_G005206	Pinus_sylvestris	No orthogroup
+PS_chr01_G005252	Pinus_sylvestris	No orthogroup
+PS_chr02_G005306	Pinus_sylvestris	No orthogroup
+PS_chr02_G005327	Pinus_sylvestris	No orthogroup
+PS_chr02_G005360	Pinus_sylvestris	No orthogroup
+PS_chr02_G005393	Pinus_sylvestris	No orthogroup
+PS_chr02_G005471	Pinus_sylvestris	No orthogroup
+PS_chr02_G005503	Pinus_sylvestris	No orthogroup
+PS_chr02_G005569	Pinus_sylvestris	OG0001916
+PS_chr02_G005608	Pinus_sylvestris	No orthogroup
+PS_chr02_G005611	Pinus_sylvestris	No orthogroup
+PS_chr02_G005627	Pinus_sylvestris	No orthogroup
+PS_chr02_G005630	Pinus_sylvestris	No orthogroup
+PS_chr02_G005649	Pinus_sylvestris	No orthogroup
+PS_chr02_G005662	Pinus_sylvestris	No orthogroup
+PS_chr02_G005733	Pinus_sylvestris	No orthogroup
+PS_chr02_G005765	Pinus_sylvestris	No orthogroup
+PS_chr02_G005777	Pinus_sylvestris	No orthogroup
+PS_chr02_G005895	Pinus_sylvestris	No orthogroup
+PS_chr02_G005937	Pinus_sylvestris	No orthogroup
+PS_chr02_G005939	Pinus_sylvestris	No orthogroup
+PS_chr02_G005961	Pinus_sylvestris	No orthogroup
+PS_chr02_G005996	Pinus_sylvestris	OG0001025
+PS_chr02_G006006	Pinus_sylvestris	OG0001025
+PS_chr02_G006045	Pinus_sylvestris	OG0000000
+PS_chr02_G006066	Pinus_sylvestris	No orthogroup
+PS_chr02_G006140	Pinus_sylvestris	No orthogroup
+PS_chr02_G006150	Pinus_sylvestris	No orthogroup
+PS_chr02_G006202	Pinus_sylvestris	No orthogroup
+PS_chr02_G006225	Pinus_sylvestris	No orthogroup
+PS_chr02_G006240	Pinus_sylvestris	No orthogroup
+PS_chr02_G006247	Pinus_sylvestris	OG0000065
+PS_chr02_G006381	Pinus_sylvestris	No orthogroup
+PS_chr02_G006390	Pinus_sylvestris	No orthogroup
+PS_chr02_G006420	Pinus_sylvestris	No orthogroup
+PS_chr02_G006427	Pinus_sylvestris	No orthogroup
+PS_chr02_G006440	Pinus_sylvestris	No orthogroup
+PS_chr02_G006450	Pinus_sylvestris	No orthogroup
+PS_chr02_G006483	Pinus_sylvestris	No orthogroup
+PS_chr02_G006487	Pinus_sylvestris	No orthogroup
+PS_chr02_G006511	Pinus_sylvestris	No orthogroup
+PS_chr02_G006547	Pinus_sylvestris	No orthogroup
+PS_chr02_G006555	Pinus_sylvestris	No orthogroup
+PS_chr02_G006558	Pinus_sylvestris	No orthogroup
+PS_chr02_G006577	Pinus_sylvestris	No orthogroup
+PS_chr02_G006592	Pinus_sylvestris	OG0000242
+PS_chr02_G006676	Pinus_sylvestris	No orthogroup
+PS_chr02_G006679	Pinus_sylvestris	No orthogroup
+PS_chr02_G006746	Pinus_sylvestris	No orthogroup
+PS_chr02_G006751	Pinus_sylvestris	OG0000157
+PS_chr02_G006767	Pinus_sylvestris	No orthogroup
+PS_chr02_G006769	Pinus_sylvestris	No orthogroup
+PS_chr02_G006795	Pinus_sylvestris	No orthogroup
+PS_chr02_G006833	Pinus_sylvestris	No orthogroup
+PS_chr02_G006858	Pinus_sylvestris	No orthogroup
+PS_chr02_G006963	Pinus_sylvestris	No orthogroup
+PS_chr02_G007082	Pinus_sylvestris	No orthogroup
+PS_chr02_G007173	Pinus_sylvestris	No orthogroup
+PS_chr02_G007174	Pinus_sylvestris	No orthogroup
+PS_chr02_G007221	Pinus_sylvestris	No orthogroup
+PS_chr02_G007230	Pinus_sylvestris	No orthogroup
+PS_chr02_G007287	Pinus_sylvestris	No orthogroup
+PS_chr02_G007305	Pinus_sylvestris	No orthogroup
+PS_chr02_G007307	Pinus_sylvestris	No orthogroup
+PS_chr02_G007363	Pinus_sylvestris	No orthogroup
+PS_chr02_G007379	Pinus_sylvestris	No orthogroup
+PS_chr02_G007391	Pinus_sylvestris	No orthogroup
+PS_chr02_G007411	Pinus_sylvestris	No orthogroup
+PS_chr02_G007418	Pinus_sylvestris	No orthogroup
+PS_chr02_G007422	Pinus_sylvestris	No orthogroup
+PS_chr02_G007461	Pinus_sylvestris	OG0000000
+PS_chr02_G007471	Pinus_sylvestris	No orthogroup
+PS_chr02_G007506	Pinus_sylvestris	OG0000851
+PS_chr02_G007585	Pinus_sylvestris	OG0003786
+PS_chr02_G007598	Pinus_sylvestris	OG0000000
+PS_chr02_G007605	Pinus_sylvestris	No orthogroup
+PS_chr02_G007606	Pinus_sylvestris	No orthogroup
+PS_chr02_G007612	Pinus_sylvestris	No orthogroup
+PS_chr02_G007724	Pinus_sylvestris	No orthogroup
+PS_chr02_G007760	Pinus_sylvestris	OG0000344
+PS_chr02_G007827	Pinus_sylvestris	No orthogroup
+PS_chr02_G007863	Pinus_sylvestris	No orthogroup
+PS_chr02_G007880	Pinus_sylvestris	No orthogroup
+PS_chr02_G007899	Pinus_sylvestris	No orthogroup
+PS_chr02_G007931	Pinus_sylvestris	No orthogroup
+PS_chr02_G008035	Pinus_sylvestris	No orthogroup
+PS_chr02_G008079	Pinus_sylvestris	No orthogroup
+PS_chr02_G008114	Pinus_sylvestris	No orthogroup
+PS_chr02_G008116	Pinus_sylvestris	No orthogroup
+PS_chr02_G008117	Pinus_sylvestris	No orthogroup
+PS_chr02_G008138	Pinus_sylvestris	OG0000000
+PS_chr02_G008181	Pinus_sylvestris	No orthogroup
+PS_chr02_G008192	Pinus_sylvestris	No orthogroup
+PS_chr02_G008280	Pinus_sylvestris	No orthogroup
+PS_chr02_G008330	Pinus_sylvestris	No orthogroup
+PS_chr02_G008362	Pinus_sylvestris	OG0000028
+PS_chr02_G008410	Pinus_sylvestris	No orthogroup
+PS_chr02_G008412	Pinus_sylvestris	No orthogroup
+PS_chr02_G008420	Pinus_sylvestris	OG0002165
+PS_chr02_G008638	Pinus_sylvestris	No orthogroup
+PS_chr02_G008698	Pinus_sylvestris	No orthogroup
+PS_chr02_G008721	Pinus_sylvestris	No orthogroup
+PS_chr02_G008723	Pinus_sylvestris	No orthogroup
+PS_chr02_G008729	Pinus_sylvestris	OG0000000
+PS_chr02_G008732	Pinus_sylvestris	No orthogroup
+PS_chr02_G008747	Pinus_sylvestris	OG0000000
+PS_chr02_G008761	Pinus_sylvestris	No orthogroup
+PS_chr02_G008839	Pinus_sylvestris	No orthogroup
+PS_chr02_G008901	Pinus_sylvestris	OG0004342
+PS_chr02_G008905	Pinus_sylvestris	No orthogroup
+PS_chr02_G008907	Pinus_sylvestris	No orthogroup
+PS_chr02_G008934	Pinus_sylvestris	No orthogroup
+PS_chr02_G008954	Pinus_sylvestris	No orthogroup
+PS_chr02_G008957	Pinus_sylvestris	No orthogroup
+PS_chr02_G009023	Pinus_sylvestris	No orthogroup
+PS_chr02_G009057	Pinus_sylvestris	No orthogroup
+PS_chr02_G009077	Pinus_sylvestris	OG0000023
+PS_chr02_G009084	Pinus_sylvestris	OG0000023
+PS_chr02_G009086	Pinus_sylvestris	OG0000023
+PS_chr02_G009230	Pinus_sylvestris	OG0000029
+PS_chr02_G009253	Pinus_sylvestris	OG0004000
+PS_chr02_G009274	Pinus_sylvestris	OG0000067
+PS_chr02_G009332	Pinus_sylvestris	No orthogroup
+PS_chr02_G009358	Pinus_sylvestris	No orthogroup
+PS_chr02_G009360	Pinus_sylvestris	No orthogroup
+PS_chr02_G009381	Pinus_sylvestris	OG0000048
+PS_chr02_G009416	Pinus_sylvestris	No orthogroup
+PS_chr02_G009418	Pinus_sylvestris	No orthogroup
+PS_chr02_G009430	Pinus_sylvestris	OG0000048
+PS_chr02_G009510	Pinus_sylvestris	OG0000129
+PS_chr02_G009517	Pinus_sylvestris	No orthogroup
+PS_chr02_G009551	Pinus_sylvestris	No orthogroup
+PS_chr02_G009571	Pinus_sylvestris	No orthogroup
+PS_chr02_G009591	Pinus_sylvestris	No orthogroup
+PS_chr02_G009606	Pinus_sylvestris	No orthogroup
+PS_chr02_G009655	Pinus_sylvestris	No orthogroup
+PS_chr02_G009676	Pinus_sylvestris	No orthogroup
+PS_chr02_G009742	Pinus_sylvestris	No orthogroup
+PS_chr02_G009775	Pinus_sylvestris	OG0000220
+PS_chr02_G009876	Pinus_sylvestris	No orthogroup
+PS_chr02_G009902	Pinus_sylvestris	No orthogroup
+PS_chr02_G009925	Pinus_sylvestris	No orthogroup
+PS_chr03_G009957	Pinus_sylvestris	No orthogroup
+PS_chr03_G009958	Pinus_sylvestris	OG0000000
+PS_chr03_G009975	Pinus_sylvestris	No orthogroup
+PS_chr03_G010019	Pinus_sylvestris	No orthogroup
+PS_chr03_G010061	Pinus_sylvestris	No orthogroup
+PS_chr03_G010096	Pinus_sylvestris	No orthogroup
+PS_chr03_G010138	Pinus_sylvestris	No orthogroup
+PS_chr03_G010173	Pinus_sylvestris	No orthogroup
+PS_chr03_G010229	Pinus_sylvestris	No orthogroup
+PS_chr03_G010244	Pinus_sylvestris	No orthogroup
+PS_chr03_G010261	Pinus_sylvestris	OG0000647
+PS_chr03_G010264	Pinus_sylvestris	No orthogroup
+PS_chr03_G010303	Pinus_sylvestris	No orthogroup
+PS_chr03_G010305	Pinus_sylvestris	No orthogroup
+PS_chr03_G010334	Pinus_sylvestris	No orthogroup
+PS_chr03_G010383	Pinus_sylvestris	No orthogroup
+PS_chr03_G010447	Pinus_sylvestris	No orthogroup
+PS_chr03_G010466	Pinus_sylvestris	No orthogroup
+PS_chr03_G010475	Pinus_sylvestris	No orthogroup
+PS_chr03_G010478	Pinus_sylvestris	No orthogroup
+PS_chr03_G010484	Pinus_sylvestris	OG0000208
+PS_chr03_G010534	Pinus_sylvestris	No orthogroup
+PS_chr03_G010535	Pinus_sylvestris	No orthogroup
+PS_chr03_G010540	Pinus_sylvestris	OG0000052
+PS_chr03_G010594	Pinus_sylvestris	OG0000024
+PS_chr03_G010603	Pinus_sylvestris	No orthogroup
+PS_chr03_G010605	Pinus_sylvestris	OG0000024
+PS_chr03_G010690	Pinus_sylvestris	No orthogroup
+PS_chr03_G010742	Pinus_sylvestris	No orthogroup
+PS_chr03_G010796	Pinus_sylvestris	No orthogroup
+PS_chr03_G010802	Pinus_sylvestris	No orthogroup
+PS_chr03_G010815	Pinus_sylvestris	OG0000000
+PS_chr03_G010922	Pinus_sylvestris	No orthogroup
+PS_chr03_G010964	Pinus_sylvestris	OG0000024
+PS_chr03_G011082	Pinus_sylvestris	No orthogroup
+PS_chr03_G011151	Pinus_sylvestris	No orthogroup
+PS_chr03_G011178	Pinus_sylvestris	No orthogroup
+PS_chr03_G011189	Pinus_sylvestris	No orthogroup
+PS_chr03_G011201	Pinus_sylvestris	No orthogroup
+PS_chr03_G011241	Pinus_sylvestris	No orthogroup
+PS_chr03_G011295	Pinus_sylvestris	No orthogroup
+PS_chr03_G011306	Pinus_sylvestris	No orthogroup
+PS_chr03_G011324	Pinus_sylvestris	No orthogroup
+PS_chr03_G011349	Pinus_sylvestris	No orthogroup
+PS_chr03_G011363	Pinus_sylvestris	No orthogroup
+PS_chr03_G011369	Pinus_sylvestris	No orthogroup
+PS_chr03_G011376	Pinus_sylvestris	No orthogroup
+PS_chr03_G011387	Pinus_sylvestris	No orthogroup
+PS_chr03_G011440	Pinus_sylvestris	No orthogroup
+PS_chr03_G011482	Pinus_sylvestris	No orthogroup
+PS_chr03_G011511	Pinus_sylvestris	No orthogroup
+PS_chr03_G011535	Pinus_sylvestris	No orthogroup
+PS_chr03_G011537	Pinus_sylvestris	No orthogroup
+PS_chr03_G011643	Pinus_sylvestris	No orthogroup
+PS_chr03_G011653	Pinus_sylvestris	No orthogroup
+PS_chr03_G011656	Pinus_sylvestris	No orthogroup
+PS_chr03_G011664	Pinus_sylvestris	No orthogroup
+PS_chr03_G011733	Pinus_sylvestris	No orthogroup
+PS_chr03_G011740	Pinus_sylvestris	No orthogroup
+PS_chr03_G011774	Pinus_sylvestris	No orthogroup
+PS_chr03_G011775	Pinus_sylvestris	No orthogroup
+PS_chr03_G011835	Pinus_sylvestris	No orthogroup
+PS_chr03_G011843	Pinus_sylvestris	No orthogroup
+PS_chr03_G011858	Pinus_sylvestris	No orthogroup
+PS_chr03_G011859	Pinus_sylvestris	No orthogroup
+PS_chr03_G011876	Pinus_sylvestris	No orthogroup
+PS_chr03_G011947	Pinus_sylvestris	No orthogroup
+PS_chr03_G011978	Pinus_sylvestris	No orthogroup
+PS_chr03_G012031	Pinus_sylvestris	No orthogroup
+PS_chr03_G012045	Pinus_sylvestris	No orthogroup
+PS_chr03_G012046	Pinus_sylvestris	No orthogroup
+PS_chr03_G012179	Pinus_sylvestris	No orthogroup
+PS_chr03_G012285	Pinus_sylvestris	No orthogroup
+PS_chr03_G012308	Pinus_sylvestris	OG0000000
+PS_chr03_G012314	Pinus_sylvestris	No orthogroup
+PS_chr03_G012318	Pinus_sylvestris	No orthogroup
+PS_chr03_G012363	Pinus_sylvestris	No orthogroup
+PS_chr03_G012364	Pinus_sylvestris	OG0002230
+PS_chr03_G012374	Pinus_sylvestris	No orthogroup
+PS_chr03_G012382	Pinus_sylvestris	No orthogroup
+PS_chr03_G012397	Pinus_sylvestris	No orthogroup
+PS_chr03_G012453	Pinus_sylvestris	OG0000000
+PS_chr03_G012469	Pinus_sylvestris	No orthogroup
+PS_chr03_G012470	Pinus_sylvestris	No orthogroup
+PS_chr03_G012532	Pinus_sylvestris	No orthogroup
+PS_chr03_G012549	Pinus_sylvestris	No orthogroup
+PS_chr03_G012553	Pinus_sylvestris	No orthogroup
+PS_chr03_G012610	Pinus_sylvestris	No orthogroup
+PS_chr03_G012628	Pinus_sylvestris	No orthogroup
+PS_chr03_G012645	Pinus_sylvestris	No orthogroup
+PS_chr03_G012655	Pinus_sylvestris	No orthogroup
+PS_chr03_G012667	Pinus_sylvestris	No orthogroup
+PS_chr03_G012677	Pinus_sylvestris	No orthogroup
+PS_chr03_G012717	Pinus_sylvestris	No orthogroup
+PS_chr03_G012724	Pinus_sylvestris	No orthogroup
+PS_chr03_G012820	Pinus_sylvestris	OG0000825
+PS_chr03_G012856	Pinus_sylvestris	No orthogroup
+PS_chr03_G012893	Pinus_sylvestris	OG0000069
+PS_chr03_G012962	Pinus_sylvestris	No orthogroup
+PS_chr03_G012963	Pinus_sylvestris	No orthogroup
+PS_chr03_G012969	Pinus_sylvestris	No orthogroup
+PS_chr03_G012983	Pinus_sylvestris	No orthogroup
+PS_chr03_G012988	Pinus_sylvestris	No orthogroup
+PS_chr03_G012993	Pinus_sylvestris	No orthogroup
+PS_chr03_G012997	Pinus_sylvestris	OG0000000
+PS_chr03_G013007	Pinus_sylvestris	No orthogroup
+PS_chr03_G013036	Pinus_sylvestris	No orthogroup
+PS_chr03_G013051	Pinus_sylvestris	No orthogroup
+PS_chr03_G013124	Pinus_sylvestris	No orthogroup
+PS_chr03_G013136	Pinus_sylvestris	No orthogroup
+PS_chr03_G013138	Pinus_sylvestris	No orthogroup
+PS_chr03_G013144	Pinus_sylvestris	No orthogroup
+PS_chr03_G013196	Pinus_sylvestris	No orthogroup
+PS_chr03_G013208	Pinus_sylvestris	No orthogroup
+PS_chr03_G013219	Pinus_sylvestris	No orthogroup
+PS_chr03_G013220	Pinus_sylvestris	No orthogroup
+PS_chr03_G013232	Pinus_sylvestris	No orthogroup
+PS_chr03_G013269	Pinus_sylvestris	No orthogroup
+PS_chr03_G013298	Pinus_sylvestris	No orthogroup
+PS_chr03_G013318	Pinus_sylvestris	No orthogroup
+PS_chr03_G013352	Pinus_sylvestris	No orthogroup
+PS_chr03_G013387	Pinus_sylvestris	No orthogroup
+PS_chr03_G013388	Pinus_sylvestris	No orthogroup
+PS_chr03_G013389	Pinus_sylvestris	No orthogroup
+PS_chr03_G013390	Pinus_sylvestris	No orthogroup
+PS_chr03_G013403	Pinus_sylvestris	No orthogroup
+PS_chr03_G013426	Pinus_sylvestris	No orthogroup
+PS_chr03_G013442	Pinus_sylvestris	OG0000000
+PS_chr03_G013506	Pinus_sylvestris	No orthogroup
+PS_chr03_G013537	Pinus_sylvestris	No orthogroup
+PS_chr03_G013542	Pinus_sylvestris	OG0000017
+PS_chr03_G013547	Pinus_sylvestris	No orthogroup
+PS_chr03_G013611	Pinus_sylvestris	No orthogroup
+PS_chr03_G013692	Pinus_sylvestris	No orthogroup
+PS_chr03_G013706	Pinus_sylvestris	No orthogroup
+PS_chr03_G013719	Pinus_sylvestris	No orthogroup
+PS_chr03_G013896	Pinus_sylvestris	No orthogroup
+PS_chr03_G013966	Pinus_sylvestris	OG0000647
+PS_chr03_G014044	Pinus_sylvestris	No orthogroup
+PS_chr03_G014084	Pinus_sylvestris	No orthogroup
+PS_chr03_G014122	Pinus_sylvestris	No orthogroup
+PS_chr03_G014139	Pinus_sylvestris	No orthogroup
+PS_chr03_G014180	Pinus_sylvestris	OG0005324
+PS_chr03_G014223	Pinus_sylvestris	No orthogroup
+PS_chr04_G014350	Pinus_sylvestris	OG0000112
+PS_chr04_G014397	Pinus_sylvestris	No orthogroup
+PS_chr04_G014411	Pinus_sylvestris	No orthogroup
+PS_chr04_G014414	Pinus_sylvestris	No orthogroup
+PS_chr04_G014434	Pinus_sylvestris	No orthogroup
+PS_chr04_G014455	Pinus_sylvestris	No orthogroup
+PS_chr04_G014477	Pinus_sylvestris	No orthogroup
+PS_chr04_G014497	Pinus_sylvestris	OG0000084
+PS_chr04_G014516	Pinus_sylvestris	No orthogroup
+PS_chr04_G014520	Pinus_sylvestris	No orthogroup
+PS_chr04_G014627	Pinus_sylvestris	No orthogroup
+PS_chr04_G014732	Pinus_sylvestris	No orthogroup
+PS_chr04_G014733	Pinus_sylvestris	No orthogroup
+PS_chr04_G014745	Pinus_sylvestris	No orthogroup
+PS_chr04_G014777	Pinus_sylvestris	OG0000066
+PS_chr04_G014890	Pinus_sylvestris	No orthogroup
+PS_chr04_G014891	Pinus_sylvestris	No orthogroup
+PS_chr04_G014907	Pinus_sylvestris	No orthogroup
+PS_chr04_G014920	Pinus_sylvestris	No orthogroup
+PS_chr04_G014936	Pinus_sylvestris	No orthogroup
+PS_chr04_G014996	Pinus_sylvestris	No orthogroup
+PS_chr04_G015060	Pinus_sylvestris	No orthogroup
+PS_chr04_G015068	Pinus_sylvestris	No orthogroup
+PS_chr04_G015073	Pinus_sylvestris	No orthogroup
+PS_chr04_G015101	Pinus_sylvestris	No orthogroup
+PS_chr04_G015179	Pinus_sylvestris	No orthogroup
+PS_chr04_G015191	Pinus_sylvestris	No orthogroup
+PS_chr04_G015254	Pinus_sylvestris	No orthogroup
+PS_chr04_G015267	Pinus_sylvestris	No orthogroup
+PS_chr04_G015271	Pinus_sylvestris	No orthogroup
+PS_chr04_G015272	Pinus_sylvestris	OG0001375
+PS_chr04_G015307	Pinus_sylvestris	No orthogroup
+PS_chr04_G015309	Pinus_sylvestris	No orthogroup
+PS_chr04_G015314	Pinus_sylvestris	No orthogroup
+PS_chr04_G015367	Pinus_sylvestris	No orthogroup
+PS_chr04_G015384	Pinus_sylvestris	No orthogroup
+PS_chr04_G015387	Pinus_sylvestris	No orthogroup
+PS_chr04_G015426	Pinus_sylvestris	No orthogroup
+PS_chr04_G015438	Pinus_sylvestris	No orthogroup
+PS_chr04_G015454	Pinus_sylvestris	No orthogroup
+PS_chr04_G015455	Pinus_sylvestris	No orthogroup
+PS_chr04_G015481	Pinus_sylvestris	No orthogroup
+PS_chr04_G015493	Pinus_sylvestris	OG0000000
+PS_chr04_G015502	Pinus_sylvestris	OG0000063
+PS_chr04_G015536	Pinus_sylvestris	OG0000063
+PS_chr04_G015561	Pinus_sylvestris	No orthogroup
+PS_chr04_G015565	Pinus_sylvestris	OG0000625
+PS_chr04_G015566	Pinus_sylvestris	No orthogroup
+PS_chr04_G015580	Pinus_sylvestris	No orthogroup
+PS_chr04_G015641	Pinus_sylvestris	No orthogroup
+PS_chr04_G015680	Pinus_sylvestris	No orthogroup
+PS_chr04_G015696	Pinus_sylvestris	No orthogroup
+PS_chr04_G015738	Pinus_sylvestris	OG0000000
+PS_chr04_G015771	Pinus_sylvestris	No orthogroup
+PS_chr04_G015786	Pinus_sylvestris	No orthogroup
+PS_chr04_G015788	Pinus_sylvestris	No orthogroup
+PS_chr04_G015880	Pinus_sylvestris	No orthogroup
+PS_chr04_G015916	Pinus_sylvestris	No orthogroup
+PS_chr04_G015934	Pinus_sylvestris	No orthogroup
+PS_chr04_G015959	Pinus_sylvestris	No orthogroup
+PS_chr04_G016011	Pinus_sylvestris	No orthogroup
+PS_chr04_G016089	Pinus_sylvestris	No orthogroup
+PS_chr04_G016092	Pinus_sylvestris	No orthogroup
+PS_chr04_G016093	Pinus_sylvestris	No orthogroup
+PS_chr04_G016094	Pinus_sylvestris	No orthogroup
+PS_chr04_G016105	Pinus_sylvestris	No orthogroup
+PS_chr04_G016112	Pinus_sylvestris	No orthogroup
+PS_chr04_G016117	Pinus_sylvestris	No orthogroup
+PS_chr04_G016118	Pinus_sylvestris	No orthogroup
+PS_chr04_G016174	Pinus_sylvestris	OG0001299
+PS_chr04_G016211	Pinus_sylvestris	No orthogroup
+PS_chr04_G016221	Pinus_sylvestris	No orthogroup
+PS_chr04_G016235	Pinus_sylvestris	No orthogroup
+PS_chr04_G016254	Pinus_sylvestris	No orthogroup
+PS_chr04_G016275	Pinus_sylvestris	No orthogroup
+PS_chr04_G016305	Pinus_sylvestris	No orthogroup
+PS_chr04_G016307	Pinus_sylvestris	No orthogroup
+PS_chr04_G016353	Pinus_sylvestris	No orthogroup
+PS_chr04_G016435	Pinus_sylvestris	No orthogroup
+PS_chr04_G016466	Pinus_sylvestris	No orthogroup
+PS_chr04_G016479	Pinus_sylvestris	No orthogroup
+PS_chr04_G016493	Pinus_sylvestris	No orthogroup
+PS_chr04_G016495	Pinus_sylvestris	No orthogroup
+PS_chr04_G016516	Pinus_sylvestris	No orthogroup
+PS_chr04_G016576	Pinus_sylvestris	No orthogroup
+PS_chr04_G016582	Pinus_sylvestris	No orthogroup
+PS_chr04_G016614	Pinus_sylvestris	No orthogroup
+PS_chr04_G016634	Pinus_sylvestris	No orthogroup
+PS_chr04_G016676	Pinus_sylvestris	OG0000001
+PS_chr04_G016725	Pinus_sylvestris	OG0000102
+PS_chr04_G016732	Pinus_sylvestris	No orthogroup
+PS_chr04_G016736	Pinus_sylvestris	OG0000000
+PS_chr04_G016750	Pinus_sylvestris	OG0000000
+PS_chr04_G016760	Pinus_sylvestris	No orthogroup
+PS_chr04_G016790	Pinus_sylvestris	OG0000208
+PS_chr04_G016793	Pinus_sylvestris	OG0000520
+PS_chr04_G016816	Pinus_sylvestris	No orthogroup
+PS_chr04_G016844	Pinus_sylvestris	No orthogroup
+PS_chr04_G016941	Pinus_sylvestris	No orthogroup
+PS_chr04_G016960	Pinus_sylvestris	No orthogroup
+PS_chr04_G016989	Pinus_sylvestris	No orthogroup
+PS_chr04_G016995	Pinus_sylvestris	No orthogroup
+PS_chr04_G017068	Pinus_sylvestris	No orthogroup
+PS_chr04_G017139	Pinus_sylvestris	No orthogroup
+PS_chr04_G017144	Pinus_sylvestris	No orthogroup
+PS_chr04_G017146	Pinus_sylvestris	OG0002595
+PS_chr04_G017148	Pinus_sylvestris	No orthogroup
+PS_chr04_G017271	Pinus_sylvestris	No orthogroup
+PS_chr04_G017338	Pinus_sylvestris	No orthogroup
+PS_chr04_G017404	Pinus_sylvestris	No orthogroup
+PS_chr04_G017417	Pinus_sylvestris	No orthogroup
+PS_chr04_G017485	Pinus_sylvestris	No orthogroup
+PS_chr04_G017505	Pinus_sylvestris	No orthogroup
+PS_chr04_G017509	Pinus_sylvestris	OG0000041
+PS_chr04_G017511	Pinus_sylvestris	No orthogroup
+PS_chr04_G017553	Pinus_sylvestris	OG0000000
+PS_chr04_G017567	Pinus_sylvestris	No orthogroup
+PS_chr04_G017608	Pinus_sylvestris	No orthogroup
+PS_chr04_G017623	Pinus_sylvestris	No orthogroup
+PS_chr04_G017636	Pinus_sylvestris	No orthogroup
+PS_chr04_G017721	Pinus_sylvestris	No orthogroup
+PS_chr04_G017748	Pinus_sylvestris	OG0000329
+PS_chr04_G017761	Pinus_sylvestris	No orthogroup
+PS_chr04_G017803	Pinus_sylvestris	No orthogroup
+PS_chr04_G017806	Pinus_sylvestris	No orthogroup
+PS_chr04_G017837	Pinus_sylvestris	No orthogroup
+PS_chr04_G017874	Pinus_sylvestris	No orthogroup
+PS_chr04_G017901	Pinus_sylvestris	No orthogroup
+PS_chr04_G017902	Pinus_sylvestris	No orthogroup
+PS_chr04_G017905	Pinus_sylvestris	No orthogroup
+PS_chr04_G017911	Pinus_sylvestris	No orthogroup
+PS_chr04_G017919	Pinus_sylvestris	No orthogroup
+PS_chr04_G017964	Pinus_sylvestris	No orthogroup
+PS_chr04_G017989	Pinus_sylvestris	OG0000647
+PS_chr04_G018009	Pinus_sylvestris	No orthogroup
+PS_chr04_G018012	Pinus_sylvestris	No orthogroup
+PS_chr04_G018042	Pinus_sylvestris	OG0000119
+PS_chr04_G018106	Pinus_sylvestris	No orthogroup
+PS_chr04_G018188	Pinus_sylvestris	No orthogroup
+PS_chr04_G018221	Pinus_sylvestris	OG0000000
+PS_chr04_G018275	Pinus_sylvestris	No orthogroup
+PS_chr04_G018283	Pinus_sylvestris	No orthogroup
+PS_chr04_G018295	Pinus_sylvestris	No orthogroup
+PS_chr04_G018301	Pinus_sylvestris	No orthogroup
+PS_chr04_G018322	Pinus_sylvestris	No orthogroup
+PS_chr04_G018399	Pinus_sylvestris	No orthogroup
+PS_chr04_G018402	Pinus_sylvestris	No orthogroup
+PS_chr04_G018439	Pinus_sylvestris	No orthogroup
+PS_chr04_G018477	Pinus_sylvestris	No orthogroup
+PS_chr04_G018521	Pinus_sylvestris	No orthogroup
+PS_chr04_G018528	Pinus_sylvestris	OG0000048
+PS_chr04_G018669	Pinus_sylvestris	No orthogroup
+PS_chr04_G018685	Pinus_sylvestris	No orthogroup
+PS_chr04_G018749	Pinus_sylvestris	No orthogroup
+PS_chr05_G018790	Pinus_sylvestris	OG0000089
+PS_chr05_G018829	Pinus_sylvestris	No orthogroup
+PS_chr05_G018842	Pinus_sylvestris	No orthogroup
+PS_chr05_G018862	Pinus_sylvestris	No orthogroup
+PS_chr05_G018903	Pinus_sylvestris	OG0011700
+PS_chr05_G018905	Pinus_sylvestris	No orthogroup
+PS_chr05_G018985	Pinus_sylvestris	No orthogroup
+PS_chr05_G018993	Pinus_sylvestris	No orthogroup
+PS_chr05_G019019	Pinus_sylvestris	No orthogroup
+PS_chr05_G019044	Pinus_sylvestris	No orthogroup
+PS_chr05_G019057	Pinus_sylvestris	No orthogroup
+PS_chr05_G019152	Pinus_sylvestris	No orthogroup
+PS_chr05_G019153	Pinus_sylvestris	OG0000191
+PS_chr05_G019224	Pinus_sylvestris	OG0001375
+PS_chr05_G019228	Pinus_sylvestris	No orthogroup
+PS_chr05_G019229	Pinus_sylvestris	No orthogroup
+PS_chr05_G019233	Pinus_sylvestris	No orthogroup
+PS_chr05_G019271	Pinus_sylvestris	No orthogroup
+PS_chr05_G019332	Pinus_sylvestris	No orthogroup
+PS_chr05_G019436	Pinus_sylvestris	No orthogroup
+PS_chr05_G019446	Pinus_sylvestris	OG0000000
+PS_chr05_G019475	Pinus_sylvestris	OG0000133
+PS_chr05_G019489	Pinus_sylvestris	No orthogroup
+PS_chr05_G019525	Pinus_sylvestris	No orthogroup
+PS_chr05_G019546	Pinus_sylvestris	No orthogroup
+PS_chr05_G019547	Pinus_sylvestris	No orthogroup
+PS_chr05_G019553	Pinus_sylvestris	OG0000718
+PS_chr05_G019651	Pinus_sylvestris	No orthogroup
+PS_chr05_G019660	Pinus_sylvestris	No orthogroup
+PS_chr05_G019668	Pinus_sylvestris	No orthogroup
+PS_chr05_G019708	Pinus_sylvestris	OG0000208
+PS_chr05_G019713	Pinus_sylvestris	No orthogroup
+PS_chr05_G019772	Pinus_sylvestris	No orthogroup
+PS_chr05_G019779	Pinus_sylvestris	No orthogroup
+PS_chr05_G019839	Pinus_sylvestris	No orthogroup
+PS_chr05_G019857	Pinus_sylvestris	No orthogroup
+PS_chr05_G019868	Pinus_sylvestris	No orthogroup
+PS_chr05_G019870	Pinus_sylvestris	No orthogroup
+PS_chr05_G019884	Pinus_sylvestris	No orthogroup
+PS_chr05_G019903	Pinus_sylvestris	No orthogroup
+PS_chr05_G019907	Pinus_sylvestris	No orthogroup
+PS_chr05_G019924	Pinus_sylvestris	No orthogroup
+PS_chr05_G019931	Pinus_sylvestris	No orthogroup
+PS_chr05_G019944	Pinus_sylvestris	OG0001609
+PS_chr05_G020041	Pinus_sylvestris	No orthogroup
+PS_chr05_G020072	Pinus_sylvestris	No orthogroup
+PS_chr05_G020102	Pinus_sylvestris	No orthogroup
+PS_chr05_G020159	Pinus_sylvestris	No orthogroup
+PS_chr05_G020216	Pinus_sylvestris	OG0000208
+PS_chr05_G020225	Pinus_sylvestris	OG0000000
+PS_chr05_G020232	Pinus_sylvestris	No orthogroup
+PS_chr05_G020302	Pinus_sylvestris	OG0000515
+PS_chr05_G020305	Pinus_sylvestris	No orthogroup
+PS_chr05_G020343	Pinus_sylvestris	OG0004046
+PS_chr05_G020416	Pinus_sylvestris	OG0000398
+PS_chr05_G020435	Pinus_sylvestris	No orthogroup
+PS_chr05_G020437	Pinus_sylvestris	OG0001165
+PS_chr05_G020467	Pinus_sylvestris	No orthogroup
+PS_chr05_G020537	Pinus_sylvestris	No orthogroup
+PS_chr05_G020552	Pinus_sylvestris	OG0000208
+PS_chr05_G020559	Pinus_sylvestris	OG0000208
+PS_chr05_G020562	Pinus_sylvestris	OG0000208
+PS_chr05_G020597	Pinus_sylvestris	OG0000000
+PS_chr05_G020658	Pinus_sylvestris	No orthogroup
+PS_chr05_G020682	Pinus_sylvestris	No orthogroup
+PS_chr05_G020690	Pinus_sylvestris	OG0000004
+PS_chr05_G020697	Pinus_sylvestris	No orthogroup
+PS_chr05_G020706	Pinus_sylvestris	No orthogroup
+PS_chr05_G020715	Pinus_sylvestris	No orthogroup
+PS_chr05_G020722	Pinus_sylvestris	No orthogroup
+PS_chr05_G020739	Pinus_sylvestris	No orthogroup
+PS_chr05_G020746	Pinus_sylvestris	No orthogroup
+PS_chr05_G020831	Pinus_sylvestris	No orthogroup
+PS_chr05_G020839	Pinus_sylvestris	OG0000182
+PS_chr05_G020909	Pinus_sylvestris	No orthogroup
+PS_chr05_G020912	Pinus_sylvestris	No orthogroup
+PS_chr05_G020937	Pinus_sylvestris	OG0000333
+PS_chr05_G020968	Pinus_sylvestris	No orthogroup
+PS_chr05_G020984	Pinus_sylvestris	No orthogroup
+PS_chr05_G021089	Pinus_sylvestris	No orthogroup
+PS_chr05_G021092	Pinus_sylvestris	OG0000000
+PS_chr05_G021177	Pinus_sylvestris	No orthogroup
+PS_chr05_G021237	Pinus_sylvestris	No orthogroup
+PS_chr05_G021259	Pinus_sylvestris	No orthogroup
+PS_chr05_G021330	Pinus_sylvestris	OG0000902
+PS_chr05_G021356	Pinus_sylvestris	No orthogroup
+PS_chr05_G021408	Pinus_sylvestris	No orthogroup
+PS_chr05_G021426	Pinus_sylvestris	No orthogroup
+PS_chr05_G021430	Pinus_sylvestris	No orthogroup
+PS_chr05_G021440	Pinus_sylvestris	No orthogroup
+PS_chr05_G021454	Pinus_sylvestris	No orthogroup
+PS_chr05_G021470	Pinus_sylvestris	No orthogroup
+PS_chr05_G021486	Pinus_sylvestris	No orthogroup
+PS_chr05_G021589	Pinus_sylvestris	OG0000276
+PS_chr05_G021617	Pinus_sylvestris	OG0000000
+PS_chr05_G021628	Pinus_sylvestris	No orthogroup
+PS_chr05_G021687	Pinus_sylvestris	No orthogroup
+PS_chr05_G021705	Pinus_sylvestris	No orthogroup
+PS_chr05_G021783	Pinus_sylvestris	No orthogroup
+PS_chr05_G021819	Pinus_sylvestris	No orthogroup
+PS_chr05_G021866	Pinus_sylvestris	No orthogroup
+PS_chr05_G021868	Pinus_sylvestris	OG0000000
+PS_chr05_G021943	Pinus_sylvestris	No orthogroup
+PS_chr05_G021993	Pinus_sylvestris	OG0000000
+PS_chr05_G022044	Pinus_sylvestris	No orthogroup
+PS_chr05_G022103	Pinus_sylvestris	No orthogroup
+PS_chr05_G022141	Pinus_sylvestris	No orthogroup
+PS_chr05_G022156	Pinus_sylvestris	No orthogroup
+PS_chr05_G022232	Pinus_sylvestris	No orthogroup
+PS_chr05_G022248	Pinus_sylvestris	No orthogroup
+PS_chr05_G022372	Pinus_sylvestris	OG0000479
+PS_chr05_G022375	Pinus_sylvestris	No orthogroup
+PS_chr05_G022376	Pinus_sylvestris	No orthogroup
+PS_chr05_G022377	Pinus_sylvestris	No orthogroup
+PS_chr05_G022401	Pinus_sylvestris	No orthogroup
+PS_chr05_G022402	Pinus_sylvestris	No orthogroup
+PS_chr05_G022471	Pinus_sylvestris	No orthogroup
+PS_chr05_G022495	Pinus_sylvestris	No orthogroup
+PS_chr05_G022634	Pinus_sylvestris	OG0003838
+PS_chr05_G022642	Pinus_sylvestris	No orthogroup
+PS_chr05_G022738	Pinus_sylvestris	No orthogroup
+PS_chr05_G022746	Pinus_sylvestris	OG0000619
+PS_chr05_G022783	Pinus_sylvestris	No orthogroup
+PS_chr05_G022873	Pinus_sylvestris	No orthogroup
+PS_chr05_G022908	Pinus_sylvestris	No orthogroup
+PS_chr05_G022909	Pinus_sylvestris	No orthogroup
+PS_chr05_G022932	Pinus_sylvestris	No orthogroup
+PS_chr05_G023035	Pinus_sylvestris	No orthogroup
+PS_chr05_G023079	Pinus_sylvestris	OG0000944
+PS_chr05_G023085	Pinus_sylvestris	OG0000944
+PS_chr05_G023130	Pinus_sylvestris	No orthogroup
+PS_chr05_G023168	Pinus_sylvestris	OG0000055
+PS_chr05_G023224	Pinus_sylvestris	No orthogroup
+PS_chr05_G023342	Pinus_sylvestris	No orthogroup
+PS_chr05_G023353	Pinus_sylvestris	No orthogroup
+PS_chr05_G023389	Pinus_sylvestris	No orthogroup
+PS_chr05_G023468	Pinus_sylvestris	No orthogroup
+PS_chr05_G023472	Pinus_sylvestris	No orthogroup
+PS_chr05_G023506	Pinus_sylvestris	No orthogroup
+PS_chr05_G023512	Pinus_sylvestris	No orthogroup
+PS_chr05_G023530	Pinus_sylvestris	OG0000014
+PS_chr05_G023545	Pinus_sylvestris	OG0000014
+PS_chr05_G023563	Pinus_sylvestris	No orthogroup
+PS_chr05_G023638	Pinus_sylvestris	OG0000258
+PS_chr06_G023735	Pinus_sylvestris	OG0000479
+PS_chr06_G023782	Pinus_sylvestris	No orthogroup
+PS_chr06_G023812	Pinus_sylvestris	No orthogroup
+PS_chr06_G023825	Pinus_sylvestris	No orthogroup
+PS_chr06_G023845	Pinus_sylvestris	No orthogroup
+PS_chr06_G023846	Pinus_sylvestris	No orthogroup
+PS_chr06_G023849	Pinus_sylvestris	No orthogroup
+PS_chr06_G023864	Pinus_sylvestris	No orthogroup
+PS_chr06_G023998	Pinus_sylvestris	No orthogroup
+PS_chr06_G024130	Pinus_sylvestris	OG0000000
+PS_chr06_G024158	Pinus_sylvestris	No orthogroup
+PS_chr06_G024161	Pinus_sylvestris	No orthogroup
+PS_chr06_G024174	Pinus_sylvestris	No orthogroup
+PS_chr06_G024199	Pinus_sylvestris	OG0000277
+PS_chr06_G024210	Pinus_sylvestris	No orthogroup
+PS_chr06_G024221	Pinus_sylvestris	No orthogroup
+PS_chr06_G024256	Pinus_sylvestris	No orthogroup
+PS_chr06_G024333	Pinus_sylvestris	No orthogroup
+PS_chr06_G024355	Pinus_sylvestris	No orthogroup
+PS_chr06_G024388	Pinus_sylvestris	OG0000176
+PS_chr06_G024396	Pinus_sylvestris	No orthogroup
+PS_chr06_G024425	Pinus_sylvestris	OG0000176
+PS_chr06_G024527	Pinus_sylvestris	No orthogroup
+PS_chr06_G024562	Pinus_sylvestris	No orthogroup
+PS_chr06_G024584	Pinus_sylvestris	No orthogroup
+PS_chr06_G024619	Pinus_sylvestris	No orthogroup
+PS_chr06_G024674	Pinus_sylvestris	No orthogroup
+PS_chr06_G024762	Pinus_sylvestris	No orthogroup
+PS_chr06_G024781	Pinus_sylvestris	No orthogroup
+PS_chr06_G024784	Pinus_sylvestris	No orthogroup
+PS_chr06_G024786	Pinus_sylvestris	No orthogroup
+PS_chr06_G024812	Pinus_sylvestris	No orthogroup
+PS_chr06_G025007	Pinus_sylvestris	No orthogroup
+PS_chr06_G025016	Pinus_sylvestris	No orthogroup
+PS_chr06_G025035	Pinus_sylvestris	No orthogroup
+PS_chr06_G025087	Pinus_sylvestris	No orthogroup
+PS_chr06_G025161	Pinus_sylvestris	No orthogroup
+PS_chr06_G025188	Pinus_sylvestris	OG0000116
+PS_chr06_G025193	Pinus_sylvestris	No orthogroup
+PS_chr06_G025207	Pinus_sylvestris	No orthogroup
+PS_chr06_G025211	Pinus_sylvestris	No orthogroup
+PS_chr06_G025245	Pinus_sylvestris	No orthogroup
+PS_chr06_G025329	Pinus_sylvestris	No orthogroup
+PS_chr06_G025332	Pinus_sylvestris	No orthogroup
+PS_chr06_G025362	Pinus_sylvestris	No orthogroup
+PS_chr06_G025379	Pinus_sylvestris	No orthogroup
+PS_chr06_G025386	Pinus_sylvestris	OG0000097
+PS_chr06_G025427	Pinus_sylvestris	No orthogroup
+PS_chr06_G025437	Pinus_sylvestris	OG0000000
+PS_chr06_G025513	Pinus_sylvestris	No orthogroup
+PS_chr06_G025526	Pinus_sylvestris	No orthogroup
+PS_chr06_G025548	Pinus_sylvestris	No orthogroup
+PS_chr06_G025561	Pinus_sylvestris	No orthogroup
+PS_chr06_G025568	Pinus_sylvestris	No orthogroup
+PS_chr06_G025592	Pinus_sylvestris	No orthogroup
+PS_chr06_G025617	Pinus_sylvestris	No orthogroup
+PS_chr06_G025641	Pinus_sylvestris	OG0000064
+PS_chr06_G025665	Pinus_sylvestris	No orthogroup
+PS_chr06_G025674	Pinus_sylvestris	No orthogroup
+PS_chr06_G025680	Pinus_sylvestris	No orthogroup
+PS_chr06_G025705	Pinus_sylvestris	No orthogroup
+PS_chr06_G025708	Pinus_sylvestris	No orthogroup
+PS_chr06_G025796	Pinus_sylvestris	No orthogroup
+PS_chr06_G025851	Pinus_sylvestris	No orthogroup
+PS_chr06_G025861	Pinus_sylvestris	No orthogroup
+PS_chr06_G025869	Pinus_sylvestris	No orthogroup
+PS_chr06_G025876	Pinus_sylvestris	No orthogroup
+PS_chr06_G025941	Pinus_sylvestris	No orthogroup
+PS_chr06_G025974	Pinus_sylvestris	No orthogroup
+PS_chr06_G026029	Pinus_sylvestris	OG0001333
+PS_chr06_G026048	Pinus_sylvestris	No orthogroup
+PS_chr06_G026057	Pinus_sylvestris	No orthogroup
+PS_chr06_G026088	Pinus_sylvestris	No orthogroup
+PS_chr06_G026141	Pinus_sylvestris	No orthogroup
+PS_chr06_G026209	Pinus_sylvestris	No orthogroup
+PS_chr06_G026303	Pinus_sylvestris	No orthogroup
+PS_chr06_G026325	Pinus_sylvestris	No orthogroup
+PS_chr06_G026383	Pinus_sylvestris	OG0010169
+PS_chr06_G026486	Pinus_sylvestris	No orthogroup
+PS_chr06_G026510	Pinus_sylvestris	No orthogroup
+PS_chr06_G026520	Pinus_sylvestris	No orthogroup
+PS_chr06_G026543	Pinus_sylvestris	OG0000363
+PS_chr06_G026591	Pinus_sylvestris	No orthogroup
+PS_chr06_G026593	Pinus_sylvestris	No orthogroup
+PS_chr06_G026620	Pinus_sylvestris	No orthogroup
+PS_chr06_G026719	Pinus_sylvestris	No orthogroup
+PS_chr06_G026822	Pinus_sylvestris	No orthogroup
+PS_chr06_G026834	Pinus_sylvestris	No orthogroup
+PS_chr06_G026841	Pinus_sylvestris	No orthogroup
+PS_chr06_G026870	Pinus_sylvestris	No orthogroup
+PS_chr06_G026904	Pinus_sylvestris	OG0000036
+PS_chr06_G026913	Pinus_sylvestris	No orthogroup
+PS_chr06_G026918	Pinus_sylvestris	OG0000036
+PS_chr06_G027005	Pinus_sylvestris	No orthogroup
+PS_chr06_G027016	Pinus_sylvestris	OG0001299
+PS_chr06_G027026	Pinus_sylvestris	OG0003830
+PS_chr06_G027031	Pinus_sylvestris	No orthogroup
+PS_chr06_G027126	Pinus_sylvestris	OG0002852
+PS_chr06_G027185	Pinus_sylvestris	No orthogroup
+PS_chr06_G027195	Pinus_sylvestris	No orthogroup
+PS_chr06_G027255	Pinus_sylvestris	No orthogroup
+PS_chr06_G027284	Pinus_sylvestris	No orthogroup
+PS_chr06_G027320	Pinus_sylvestris	No orthogroup
+PS_chr06_G027341	Pinus_sylvestris	OG0000006
+PS_chr06_G027350	Pinus_sylvestris	No orthogroup
+PS_chr06_G027370	Pinus_sylvestris	No orthogroup
+PS_chr06_G027371	Pinus_sylvestris	No orthogroup
+PS_chr06_G027372	Pinus_sylvestris	No orthogroup
+PS_chr06_G027392	Pinus_sylvestris	OG0000013
+PS_chr06_G027400	Pinus_sylvestris	OG0000000
+PS_chr06_G027404	Pinus_sylvestris	OG0000000
+PS_chr06_G027422	Pinus_sylvestris	No orthogroup
+PS_chr06_G027444	Pinus_sylvestris	No orthogroup
+PS_chr06_G027447	Pinus_sylvestris	No orthogroup
+PS_chr06_G027464	Pinus_sylvestris	No orthogroup
+PS_chr06_G027468	Pinus_sylvestris	OG0000000
+PS_chr06_G027477	Pinus_sylvestris	OG0000053
+PS_chr06_G027551	Pinus_sylvestris	No orthogroup
+PS_chr06_G027556	Pinus_sylvestris	No orthogroup
+PS_chr06_G027560	Pinus_sylvestris	No orthogroup
+PS_chr06_G027575	Pinus_sylvestris	No orthogroup
+PS_chr06_G027577	Pinus_sylvestris	No orthogroup
+PS_chr06_G027583	Pinus_sylvestris	No orthogroup
+PS_chr06_G027642	Pinus_sylvestris	No orthogroup
+PS_chr07_G027691	Pinus_sylvestris	No orthogroup
+PS_chr07_G027732	Pinus_sylvestris	No orthogroup
+PS_chr07_G027829	Pinus_sylvestris	No orthogroup
+PS_chr07_G027862	Pinus_sylvestris	OG0001045
+PS_chr07_G027877	Pinus_sylvestris	No orthogroup
+PS_chr07_G027886	Pinus_sylvestris	No orthogroup
+PS_chr07_G027911	Pinus_sylvestris	No orthogroup
+PS_chr07_G027918	Pinus_sylvestris	No orthogroup
+PS_chr07_G027922	Pinus_sylvestris	No orthogroup
+PS_chr07_G027926	Pinus_sylvestris	No orthogroup
+PS_chr07_G027929	Pinus_sylvestris	OG0000067
+PS_chr07_G027948	Pinus_sylvestris	No orthogroup
+PS_chr07_G028003	Pinus_sylvestris	OG0000003
+PS_chr07_G028068	Pinus_sylvestris	OG0000000
+PS_chr07_G028134	Pinus_sylvestris	No orthogroup
+PS_chr07_G028191	Pinus_sylvestris	No orthogroup
+PS_chr07_G028214	Pinus_sylvestris	OG0000647
+PS_chr07_G028224	Pinus_sylvestris	No orthogroup
+PS_chr07_G028295	Pinus_sylvestris	No orthogroup
+PS_chr07_G028343	Pinus_sylvestris	No orthogroup
+PS_chr07_G028386	Pinus_sylvestris	No orthogroup
+PS_chr07_G028400	Pinus_sylvestris	No orthogroup
+PS_chr07_G028447	Pinus_sylvestris	No orthogroup
+PS_chr07_G028450	Pinus_sylvestris	No orthogroup
+PS_chr07_G028463	Pinus_sylvestris	No orthogroup
+PS_chr07_G028479	Pinus_sylvestris	OG0000214
+PS_chr07_G028522	Pinus_sylvestris	No orthogroup
+PS_chr07_G028526	Pinus_sylvestris	No orthogroup
+PS_chr07_G028571	Pinus_sylvestris	No orthogroup
+PS_chr07_G028590	Pinus_sylvestris	No orthogroup
+PS_chr07_G028593	Pinus_sylvestris	No orthogroup
+PS_chr07_G028595	Pinus_sylvestris	No orthogroup
+PS_chr07_G028611	Pinus_sylvestris	No orthogroup
+PS_chr07_G028673	Pinus_sylvestris	OG0000315
+PS_chr07_G028703	Pinus_sylvestris	No orthogroup
+PS_chr07_G028738	Pinus_sylvestris	No orthogroup
+PS_chr07_G028742	Pinus_sylvestris	No orthogroup
+PS_chr07_G028836	Pinus_sylvestris	No orthogroup
+PS_chr07_G028891	Pinus_sylvestris	No orthogroup
+PS_chr07_G028901	Pinus_sylvestris	No orthogroup
+PS_chr07_G028916	Pinus_sylvestris	No orthogroup
+PS_chr07_G028954	Pinus_sylvestris	OG0000000
+PS_chr07_G028973	Pinus_sylvestris	No orthogroup
+PS_chr07_G028974	Pinus_sylvestris	OG0000000
+PS_chr07_G028995	Pinus_sylvestris	No orthogroup
+PS_chr07_G029003	Pinus_sylvestris	No orthogroup
+PS_chr07_G029029	Pinus_sylvestris	No orthogroup
+PS_chr07_G029032	Pinus_sylvestris	No orthogroup
+PS_chr07_G029047	Pinus_sylvestris	No orthogroup
+PS_chr07_G029048	Pinus_sylvestris	No orthogroup
+PS_chr07_G029108	Pinus_sylvestris	No orthogroup
+PS_chr07_G029117	Pinus_sylvestris	No orthogroup
+PS_chr07_G029118	Pinus_sylvestris	No orthogroup
+PS_chr07_G029122	Pinus_sylvestris	No orthogroup
+PS_chr07_G029165	Pinus_sylvestris	No orthogroup
+PS_chr07_G029181	Pinus_sylvestris	OG0000164
+PS_chr07_G029198	Pinus_sylvestris	No orthogroup
+PS_chr07_G029253	Pinus_sylvestris	OG0013648
+PS_chr07_G029320	Pinus_sylvestris	No orthogroup
+PS_chr07_G029332	Pinus_sylvestris	No orthogroup
+PS_chr07_G029482	Pinus_sylvestris	OG0000000
+PS_chr07_G029484	Pinus_sylvestris	No orthogroup
+PS_chr07_G029499	Pinus_sylvestris	No orthogroup
+PS_chr07_G029557	Pinus_sylvestris	No orthogroup
+PS_chr07_G029588	Pinus_sylvestris	No orthogroup
+PS_chr07_G029596	Pinus_sylvestris	No orthogroup
+PS_chr07_G029600	Pinus_sylvestris	No orthogroup
+PS_chr07_G029738	Pinus_sylvestris	No orthogroup
+PS_chr07_G029745	Pinus_sylvestris	No orthogroup
+PS_chr07_G029804	Pinus_sylvestris	No orthogroup
+PS_chr07_G029871	Pinus_sylvestris	No orthogroup
+PS_chr07_G030071	Pinus_sylvestris	No orthogroup
+PS_chr07_G030110	Pinus_sylvestris	No orthogroup
+PS_chr07_G030138	Pinus_sylvestris	No orthogroup
+PS_chr07_G030172	Pinus_sylvestris	OG0000001
+PS_chr07_G030198	Pinus_sylvestris	No orthogroup
+PS_chr07_G030209	Pinus_sylvestris	No orthogroup
+PS_chr07_G030356	Pinus_sylvestris	No orthogroup
+PS_chr07_G030433	Pinus_sylvestris	No orthogroup
+PS_chr07_G030447	Pinus_sylvestris	No orthogroup
+PS_chr07_G030473	Pinus_sylvestris	No orthogroup
+PS_chr07_G030487	Pinus_sylvestris	No orthogroup
+PS_chr07_G030491	Pinus_sylvestris	No orthogroup
+PS_chr07_G030500	Pinus_sylvestris	No orthogroup
+PS_chr07_G030502	Pinus_sylvestris	No orthogroup
+PS_chr07_G030510	Pinus_sylvestris	No orthogroup
+PS_chr07_G030535	Pinus_sylvestris	No orthogroup
+PS_chr07_G030547	Pinus_sylvestris	OG0000000
+PS_chr07_G030553	Pinus_sylvestris	No orthogroup
+PS_chr07_G030694	Pinus_sylvestris	No orthogroup
+PS_chr07_G030701	Pinus_sylvestris	No orthogroup
+PS_chr07_G030753	Pinus_sylvestris	OG0003948
+PS_chr07_G030758	Pinus_sylvestris	OG0008606
+PS_chr07_G030773	Pinus_sylvestris	No orthogroup
+PS_chr07_G030789	Pinus_sylvestris	No orthogroup
+PS_chr07_G030796	Pinus_sylvestris	OG0000519
+PS_chr07_G030820	Pinus_sylvestris	OG0001157
+PS_chr07_G030927	Pinus_sylvestris	No orthogroup
+PS_chr07_G030939	Pinus_sylvestris	No orthogroup
+PS_chr07_G031009	Pinus_sylvestris	No orthogroup
+PS_chr07_G031011	Pinus_sylvestris	No orthogroup
+PS_chr07_G031033	Pinus_sylvestris	OG0000001
+PS_chr07_G031070	Pinus_sylvestris	No orthogroup
+PS_chr07_G031071	Pinus_sylvestris	No orthogroup
+PS_chr07_G031083	Pinus_sylvestris	No orthogroup
+PS_chr07_G031143	Pinus_sylvestris	No orthogroup
+PS_chr07_G031167	Pinus_sylvestris	No orthogroup
+PS_chr07_G031212	Pinus_sylvestris	No orthogroup
+PS_chr07_G031265	Pinus_sylvestris	OG0000490
+PS_chr07_G031281	Pinus_sylvestris	No orthogroup
+PS_chr07_G031286	Pinus_sylvestris	No orthogroup
+PS_chr07_G031298	Pinus_sylvestris	No orthogroup
+PS_chr07_G031365	Pinus_sylvestris	No orthogroup
+PS_chr07_G031461	Pinus_sylvestris	No orthogroup
+PS_chr07_G031482	Pinus_sylvestris	No orthogroup
+PS_chr07_G031487	Pinus_sylvestris	No orthogroup
+PS_chr07_G031570	Pinus_sylvestris	No orthogroup
+PS_chr07_G031632	Pinus_sylvestris	OG0000045
+PS_chr07_G031657	Pinus_sylvestris	No orthogroup
+PS_chr07_G031684	Pinus_sylvestris	No orthogroup
+PS_chr07_G031701	Pinus_sylvestris	No orthogroup
+PS_chr07_G031704	Pinus_sylvestris	OG0004546
+PS_chr07_G031721	Pinus_sylvestris	OG0004546
+PS_chr07_G031728	Pinus_sylvestris	No orthogroup
+PS_chr07_G031731	Pinus_sylvestris	No orthogroup
+PS_chr07_G031752	Pinus_sylvestris	OG0000141
+PS_chr07_G031770	Pinus_sylvestris	OG0002633
+PS_chr07_G031781	Pinus_sylvestris	No orthogroup
+PS_chr07_G031784	Pinus_sylvestris	No orthogroup
+PS_chr07_G031794	Pinus_sylvestris	No orthogroup
+PS_chr07_G031829	Pinus_sylvestris	OG0003739
+PS_chr07_G031908	Pinus_sylvestris	No orthogroup
+PS_chr07_G032004	Pinus_sylvestris	OG0007586
+PS_chr07_G032049	Pinus_sylvestris	No orthogroup
+PS_chr07_G032082	Pinus_sylvestris	No orthogroup
+PS_chr07_G032095	Pinus_sylvestris	No orthogroup
+PS_chr07_G032117	Pinus_sylvestris	OG0001157
+PS_chr07_G032119	Pinus_sylvestris	No orthogroup
+PS_chr07_G032145	Pinus_sylvestris	No orthogroup
+PS_chr07_G032175	Pinus_sylvestris	No orthogroup
+PS_chr08_G032199	Pinus_sylvestris	No orthogroup
+PS_chr08_G032251	Pinus_sylvestris	No orthogroup
+PS_chr08_G032304	Pinus_sylvestris	No orthogroup
+PS_chr08_G032312	Pinus_sylvestris	No orthogroup
+PS_chr08_G032350	Pinus_sylvestris	No orthogroup
+PS_chr08_G032357	Pinus_sylvestris	No orthogroup
+PS_chr08_G032372	Pinus_sylvestris	No orthogroup
+PS_chr08_G032421	Pinus_sylvestris	No orthogroup
+PS_chr08_G032431	Pinus_sylvestris	No orthogroup
+PS_chr08_G032440	Pinus_sylvestris	No orthogroup
+PS_chr08_G032443	Pinus_sylvestris	No orthogroup
+PS_chr08_G032587	Pinus_sylvestris	No orthogroup
+PS_chr08_G032592	Pinus_sylvestris	No orthogroup
+PS_chr08_G032604	Pinus_sylvestris	No orthogroup
+PS_chr08_G032695	Pinus_sylvestris	No orthogroup
+PS_chr08_G032696	Pinus_sylvestris	No orthogroup
+PS_chr08_G032711	Pinus_sylvestris	No orthogroup
+PS_chr08_G032720	Pinus_sylvestris	No orthogroup
+PS_chr08_G032816	Pinus_sylvestris	No orthogroup
+PS_chr08_G032875	Pinus_sylvestris	No orthogroup
+PS_chr08_G032918	Pinus_sylvestris	No orthogroup
+PS_chr08_G032937	Pinus_sylvestris	No orthogroup
+PS_chr08_G032986	Pinus_sylvestris	No orthogroup
+PS_chr08_G033054	Pinus_sylvestris	No orthogroup
+PS_chr08_G033064	Pinus_sylvestris	OG0000000
+PS_chr08_G033090	Pinus_sylvestris	No orthogroup
+PS_chr08_G033119	Pinus_sylvestris	No orthogroup
+PS_chr08_G033120	Pinus_sylvestris	No orthogroup
+PS_chr08_G033130	Pinus_sylvestris	No orthogroup
+PS_chr08_G033139	Pinus_sylvestris	No orthogroup
+PS_chr08_G033145	Pinus_sylvestris	No orthogroup
+PS_chr08_G033171	Pinus_sylvestris	No orthogroup
+PS_chr08_G033206	Pinus_sylvestris	OG0003480
+PS_chr08_G033239	Pinus_sylvestris	No orthogroup
+PS_chr08_G033243	Pinus_sylvestris	No orthogroup
+PS_chr08_G033244	Pinus_sylvestris	No orthogroup
+PS_chr08_G033374	Pinus_sylvestris	No orthogroup
+PS_chr08_G033385	Pinus_sylvestris	No orthogroup
+PS_chr08_G033436	Pinus_sylvestris	No orthogroup
+PS_chr08_G033503	Pinus_sylvestris	No orthogroup
+PS_chr08_G033603	Pinus_sylvestris	No orthogroup
+PS_chr08_G033690	Pinus_sylvestris	No orthogroup
+PS_chr08_G033698	Pinus_sylvestris	No orthogroup
+PS_chr08_G033702	Pinus_sylvestris	No orthogroup
+PS_chr08_G033821	Pinus_sylvestris	No orthogroup
+PS_chr08_G033822	Pinus_sylvestris	No orthogroup
+PS_chr08_G033829	Pinus_sylvestris	No orthogroup
+PS_chr08_G033844	Pinus_sylvestris	No orthogroup
+PS_chr08_G033850	Pinus_sylvestris	OG0013374
+PS_chr08_G033855	Pinus_sylvestris	No orthogroup
+PS_chr08_G033862	Pinus_sylvestris	No orthogroup
+PS_chr08_G033863	Pinus_sylvestris	OG0000238
+PS_chr08_G033877	Pinus_sylvestris	No orthogroup
+PS_chr08_G033885	Pinus_sylvestris	No orthogroup
+PS_chr08_G033898	Pinus_sylvestris	No orthogroup
+PS_chr08_G033921	Pinus_sylvestris	OG0000027
+PS_chr08_G034002	Pinus_sylvestris	No orthogroup
+PS_chr08_G034034	Pinus_sylvestris	No orthogroup
+PS_chr08_G034139	Pinus_sylvestris	No orthogroup
+PS_chr08_G034141	Pinus_sylvestris	No orthogroup
+PS_chr08_G034197	Pinus_sylvestris	No orthogroup
+PS_chr08_G034262	Pinus_sylvestris	No orthogroup
+PS_chr08_G034284	Pinus_sylvestris	No orthogroup
+PS_chr08_G034314	Pinus_sylvestris	No orthogroup
+PS_chr08_G034337	Pinus_sylvestris	No orthogroup
+PS_chr08_G034383	Pinus_sylvestris	No orthogroup
+PS_chr08_G034433	Pinus_sylvestris	No orthogroup
+PS_chr08_G034449	Pinus_sylvestris	No orthogroup
+PS_chr08_G034462	Pinus_sylvestris	No orthogroup
+PS_chr08_G034474	Pinus_sylvestris	No orthogroup
+PS_chr08_G034477	Pinus_sylvestris	No orthogroup
+PS_chr08_G034480	Pinus_sylvestris	No orthogroup
+PS_chr08_G034483	Pinus_sylvestris	No orthogroup
+PS_chr08_G034507	Pinus_sylvestris	No orthogroup
+PS_chr08_G034542	Pinus_sylvestris	No orthogroup
+PS_chr08_G034553	Pinus_sylvestris	No orthogroup
+PS_chr08_G034558	Pinus_sylvestris	No orthogroup
+PS_chr08_G034582	Pinus_sylvestris	No orthogroup
+PS_chr08_G034587	Pinus_sylvestris	OG0000000
+PS_chr08_G034614	Pinus_sylvestris	No orthogroup
+PS_chr08_G034647	Pinus_sylvestris	No orthogroup
+PS_chr08_G034672	Pinus_sylvestris	No orthogroup
+PS_chr08_G034679	Pinus_sylvestris	No orthogroup
+PS_chr08_G034732	Pinus_sylvestris	No orthogroup
+PS_chr08_G034790	Pinus_sylvestris	No orthogroup
+PS_chr08_G034811	Pinus_sylvestris	No orthogroup
+PS_chr08_G034829	Pinus_sylvestris	No orthogroup
+PS_chr08_G034832	Pinus_sylvestris	No orthogroup
+PS_chr08_G034877	Pinus_sylvestris	No orthogroup
+PS_chr08_G034929	Pinus_sylvestris	OG0000168
+PS_chr08_G034996	Pinus_sylvestris	No orthogroup
+PS_chr08_G035007	Pinus_sylvestris	No orthogroup
+PS_chr08_G035016	Pinus_sylvestris	No orthogroup
+PS_chr08_G035048	Pinus_sylvestris	No orthogroup
+PS_chr08_G035101	Pinus_sylvestris	OG0000006
+PS_chr08_G035123	Pinus_sylvestris	No orthogroup
+PS_chr08_G035134	Pinus_sylvestris	No orthogroup
+PS_chr08_G035142	Pinus_sylvestris	OG0000006
+PS_chr08_G035184	Pinus_sylvestris	No orthogroup
+PS_chr08_G035269	Pinus_sylvestris	OG0000000
+PS_chr08_G035270	Pinus_sylvestris	No orthogroup
+PS_chr08_G035304	Pinus_sylvestris	No orthogroup
+PS_chr08_G035410	Pinus_sylvestris	No orthogroup
+PS_chr08_G035450	Pinus_sylvestris	No orthogroup
+PS_chr08_G035521	Pinus_sylvestris	No orthogroup
+PS_chr08_G035558	Pinus_sylvestris	No orthogroup
+PS_chr08_G035565	Pinus_sylvestris	OG0000129
+PS_chr08_G035612	Pinus_sylvestris	No orthogroup
+PS_chr08_G035632	Pinus_sylvestris	No orthogroup
+PS_chr08_G035749	Pinus_sylvestris	No orthogroup
+PS_chr08_G035774	Pinus_sylvestris	No orthogroup
+PS_chr08_G035777	Pinus_sylvestris	No orthogroup
+PS_chr08_G035808	Pinus_sylvestris	No orthogroup
+PS_chr08_G035814	Pinus_sylvestris	No orthogroup
+PS_chr08_G035857	Pinus_sylvestris	No orthogroup
+PS_chr08_G035911	Pinus_sylvestris	No orthogroup
+PS_chr08_G035924	Pinus_sylvestris	OG0000941
+PS_chr08_G035946	Pinus_sylvestris	No orthogroup
+PS_chr08_G035973	Pinus_sylvestris	No orthogroup
+PS_chr08_G035986	Pinus_sylvestris	No orthogroup
+PS_chr08_G036000	Pinus_sylvestris	No orthogroup
+PS_chr08_G036006	Pinus_sylvestris	No orthogroup
+PS_chr08_G036024	Pinus_sylvestris	No orthogroup
+PS_chr08_G036052	Pinus_sylvestris	No orthogroup
+PS_chr08_G036116	Pinus_sylvestris	No orthogroup
+PS_chr08_G036194	Pinus_sylvestris	OG0000812
+PS_chr08_G036249	Pinus_sylvestris	No orthogroup
+PS_chr08_G036294	Pinus_sylvestris	No orthogroup
+PS_chr08_G036299	Pinus_sylvestris	No orthogroup
+PS_chr08_G036420	Pinus_sylvestris	No orthogroup
+PS_chr08_G036517	Pinus_sylvestris	No orthogroup
+PS_chr08_G036528	Pinus_sylvestris	No orthogroup
+PS_chr08_G036562	Pinus_sylvestris	No orthogroup
+PS_chr08_G036573	Pinus_sylvestris	No orthogroup
+PS_chr08_G036741	Pinus_sylvestris	No orthogroup
+PS_chr08_G036742	Pinus_sylvestris	No orthogroup
+PS_chr08_G036762	Pinus_sylvestris	No orthogroup
+PS_chr08_G036770	Pinus_sylvestris	No orthogroup
+PS_chr09_G036876	Pinus_sylvestris	No orthogroup
+PS_chr09_G036885	Pinus_sylvestris	No orthogroup
+PS_chr09_G036950	Pinus_sylvestris	OG0000163
+PS_chr09_G036952	Pinus_sylvestris	No orthogroup
+PS_chr09_G036954	Pinus_sylvestris	OG0007996
+PS_chr09_G036976	Pinus_sylvestris	No orthogroup
+PS_chr09_G037020	Pinus_sylvestris	No orthogroup
+PS_chr09_G037042	Pinus_sylvestris	No orthogroup
+PS_chr09_G037073	Pinus_sylvestris	OG0000180
+PS_chr09_G037101	Pinus_sylvestris	No orthogroup
+PS_chr09_G037133	Pinus_sylvestris	OG0000386
+PS_chr09_G037146	Pinus_sylvestris	No orthogroup
+PS_chr09_G037186	Pinus_sylvestris	No orthogroup
+PS_chr09_G037217	Pinus_sylvestris	No orthogroup
+PS_chr09_G037238	Pinus_sylvestris	No orthogroup
+PS_chr09_G037267	Pinus_sylvestris	No orthogroup
+PS_chr09_G037273	Pinus_sylvestris	No orthogroup
+PS_chr09_G037277	Pinus_sylvestris	No orthogroup
+PS_chr09_G037308	Pinus_sylvestris	OG0003386
+PS_chr09_G037320	Pinus_sylvestris	No orthogroup
+PS_chr09_G037323	Pinus_sylvestris	No orthogroup
+PS_chr09_G037359	Pinus_sylvestris	OG0001157
+PS_chr09_G037380	Pinus_sylvestris	No orthogroup
+PS_chr09_G037384	Pinus_sylvestris	No orthogroup
+PS_chr09_G037469	Pinus_sylvestris	No orthogroup
+PS_chr09_G037480	Pinus_sylvestris	No orthogroup
+PS_chr09_G037567	Pinus_sylvestris	No orthogroup
+PS_chr09_G037618	Pinus_sylvestris	No orthogroup
+PS_chr09_G037638	Pinus_sylvestris	No orthogroup
+PS_chr09_G037641	Pinus_sylvestris	No orthogroup
+PS_chr09_G037719	Pinus_sylvestris	No orthogroup
+PS_chr09_G037765	Pinus_sylvestris	No orthogroup
+PS_chr09_G037766	Pinus_sylvestris	No orthogroup
+PS_chr09_G037790	Pinus_sylvestris	OG0001148
+PS_chr09_G037793	Pinus_sylvestris	No orthogroup
+PS_chr09_G037813	Pinus_sylvestris	No orthogroup
+PS_chr09_G037819	Pinus_sylvestris	No orthogroup
+PS_chr09_G037890	Pinus_sylvestris	No orthogroup
+PS_chr09_G037917	Pinus_sylvestris	No orthogroup
+PS_chr09_G037969	Pinus_sylvestris	OG0000052
+PS_chr09_G037985	Pinus_sylvestris	No orthogroup
+PS_chr09_G038002	Pinus_sylvestris	OG0000000
+PS_chr09_G038034	Pinus_sylvestris	No orthogroup
+PS_chr09_G038079	Pinus_sylvestris	No orthogroup
+PS_chr09_G038092	Pinus_sylvestris	No orthogroup
+PS_chr09_G038110	Pinus_sylvestris	No orthogroup
+PS_chr09_G038194	Pinus_sylvestris	OG0000088
+PS_chr09_G038226	Pinus_sylvestris	OG0000000
+PS_chr09_G038268	Pinus_sylvestris	No orthogroup
+PS_chr09_G038299	Pinus_sylvestris	OG0000000
+PS_chr09_G038303	Pinus_sylvestris	OG0000323
+PS_chr09_G038308	Pinus_sylvestris	No orthogroup
+PS_chr09_G038309	Pinus_sylvestris	OG0000208
+PS_chr09_G038338	Pinus_sylvestris	No orthogroup
+PS_chr09_G038343	Pinus_sylvestris	No orthogroup
+PS_chr09_G038424	Pinus_sylvestris	No orthogroup
+PS_chr09_G038427	Pinus_sylvestris	OG0000052
+PS_chr09_G038480	Pinus_sylvestris	No orthogroup
+PS_chr09_G038517	Pinus_sylvestris	No orthogroup
+PS_chr09_G038538	Pinus_sylvestris	OG0000000
+PS_chr09_G038554	Pinus_sylvestris	No orthogroup
+PS_chr09_G038568	Pinus_sylvestris	No orthogroup
+PS_chr09_G038570	Pinus_sylvestris	No orthogroup
+PS_chr09_G038578	Pinus_sylvestris	No orthogroup
+PS_chr09_G038664	Pinus_sylvestris	No orthogroup
+PS_chr09_G038705	Pinus_sylvestris	OG0000000
+PS_chr09_G038706	Pinus_sylvestris	OG0000000
+PS_chr09_G038740	Pinus_sylvestris	No orthogroup
+PS_chr09_G038805	Pinus_sylvestris	OG0000092
+PS_chr09_G038976	Pinus_sylvestris	No orthogroup
+PS_chr09_G039009	Pinus_sylvestris	No orthogroup
+PS_chr09_G039017	Pinus_sylvestris	No orthogroup
+PS_chr09_G039081	Pinus_sylvestris	No orthogroup
+PS_chr09_G039082	Pinus_sylvestris	No orthogroup
+PS_chr09_G039149	Pinus_sylvestris	No orthogroup
+PS_chr09_G039162	Pinus_sylvestris	No orthogroup
+PS_chr09_G039198	Pinus_sylvestris	No orthogroup
+PS_chr09_G039241	Pinus_sylvestris	No orthogroup
+PS_chr09_G039275	Pinus_sylvestris	No orthogroup
+PS_chr09_G039282	Pinus_sylvestris	No orthogroup
+PS_chr09_G039325	Pinus_sylvestris	No orthogroup
+PS_chr09_G039329	Pinus_sylvestris	OG0000000
+PS_chr09_G039388	Pinus_sylvestris	OG0000182
+PS_chr09_G039433	Pinus_sylvestris	No orthogroup
+PS_chr09_G039522	Pinus_sylvestris	No orthogroup
+PS_chr09_G039561	Pinus_sylvestris	OG0000000
+PS_chr09_G039606	Pinus_sylvestris	No orthogroup
+PS_chr09_G039666	Pinus_sylvestris	No orthogroup
+PS_chr09_G039749	Pinus_sylvestris	OG0000014
+PS_chr09_G039764	Pinus_sylvestris	No orthogroup
+PS_chr09_G039768	Pinus_sylvestris	No orthogroup
+PS_chr09_G039843	Pinus_sylvestris	No orthogroup
+PS_chr09_G039855	Pinus_sylvestris	No orthogroup
+PS_chr09_G039862	Pinus_sylvestris	No orthogroup
+PS_chr09_G039905	Pinus_sylvestris	No orthogroup
+PS_chr09_G039970	Pinus_sylvestris	No orthogroup
+PS_chr09_G039987	Pinus_sylvestris	No orthogroup
+PS_chr09_G039998	Pinus_sylvestris	No orthogroup
+PS_chr09_G040028	Pinus_sylvestris	No orthogroup
+PS_chr09_G040031	Pinus_sylvestris	No orthogroup
+PS_chr09_G040062	Pinus_sylvestris	OG0003044
+PS_chr09_G040083	Pinus_sylvestris	No orthogroup
+PS_chr09_G040102	Pinus_sylvestris	No orthogroup
+PS_chr09_G040148	Pinus_sylvestris	No orthogroup
+PS_chr09_G040153	Pinus_sylvestris	No orthogroup
+PS_chr09_G040214	Pinus_sylvestris	No orthogroup
+PS_chr09_G040259	Pinus_sylvestris	No orthogroup
+PS_chr09_G040281	Pinus_sylvestris	No orthogroup
+PS_chr09_G040358	Pinus_sylvestris	No orthogroup
+PS_chr09_G040386	Pinus_sylvestris	No orthogroup
+PS_chr09_G040398	Pinus_sylvestris	No orthogroup
+PS_chr09_G040435	Pinus_sylvestris	No orthogroup
+PS_chr09_G040437	Pinus_sylvestris	No orthogroup
+PS_chr09_G040455	Pinus_sylvestris	No orthogroup
+PS_chr09_G040491	Pinus_sylvestris	No orthogroup
+PS_chr09_G040619	Pinus_sylvestris	No orthogroup
+PS_chr09_G040681	Pinus_sylvestris	No orthogroup
+PS_chr09_G040715	Pinus_sylvestris	No orthogroup
+PS_chr09_G040727	Pinus_sylvestris	No orthogroup
+PS_chr09_G040752	Pinus_sylvestris	No orthogroup
+PS_chr09_G040779	Pinus_sylvestris	No orthogroup
+PS_chr09_G040790	Pinus_sylvestris	No orthogroup
+PS_chr09_G040804	Pinus_sylvestris	No orthogroup
+PS_chr09_G040824	Pinus_sylvestris	No orthogroup
+PS_chr09_G040856	Pinus_sylvestris	No orthogroup
+PS_chr10_G040864	Pinus_sylvestris	No orthogroup
+PS_chr10_G040941	Pinus_sylvestris	No orthogroup
+PS_chr10_G040956	Pinus_sylvestris	OG0000090
+PS_chr10_G041002	Pinus_sylvestris	No orthogroup
+PS_chr10_G041007	Pinus_sylvestris	No orthogroup
+PS_chr10_G041008	Pinus_sylvestris	No orthogroup
+PS_chr10_G041022	Pinus_sylvestris	No orthogroup
+PS_chr10_G041041	Pinus_sylvestris	OG0000000
+PS_chr10_G041100	Pinus_sylvestris	No orthogroup
+PS_chr10_G041215	Pinus_sylvestris	No orthogroup
+PS_chr10_G041299	Pinus_sylvestris	No orthogroup
+PS_chr10_G041300	Pinus_sylvestris	No orthogroup
+PS_chr10_G041301	Pinus_sylvestris	No orthogroup
+PS_chr10_G041316	Pinus_sylvestris	OG0000000
+PS_chr10_G041319	Pinus_sylvestris	OG0000000
+PS_chr10_G041357	Pinus_sylvestris	No orthogroup
+PS_chr10_G041383	Pinus_sylvestris	No orthogroup
+PS_chr10_G041390	Pinus_sylvestris	No orthogroup
+PS_chr10_G041520	Pinus_sylvestris	No orthogroup
+PS_chr10_G041795	Pinus_sylvestris	No orthogroup
+PS_chr10_G041796	Pinus_sylvestris	No orthogroup
+PS_chr10_G041809	Pinus_sylvestris	No orthogroup
+PS_chr10_G041839	Pinus_sylvestris	No orthogroup
+PS_chr10_G041890	Pinus_sylvestris	No orthogroup
+PS_chr10_G041895	Pinus_sylvestris	No orthogroup
+PS_chr10_G041898	Pinus_sylvestris	No orthogroup
+PS_chr10_G041899	Pinus_sylvestris	No orthogroup
+PS_chr10_G041921	Pinus_sylvestris	No orthogroup
+PS_chr10_G041980	Pinus_sylvestris	No orthogroup
+PS_chr10_G041981	Pinus_sylvestris	No orthogroup
+PS_chr10_G041986	Pinus_sylvestris	OG0000000
+PS_chr10_G041989	Pinus_sylvestris	No orthogroup
+PS_chr10_G041997	Pinus_sylvestris	OG0000042
+PS_chr10_G042013	Pinus_sylvestris	No orthogroup
+PS_chr10_G042059	Pinus_sylvestris	OG0000014
+PS_chr10_G042185	Pinus_sylvestris	OG0000000
+PS_chr10_G042228	Pinus_sylvestris	OG0000000
+PS_chr10_G042362	Pinus_sylvestris	No orthogroup
+PS_chr10_G042372	Pinus_sylvestris	No orthogroup
+PS_chr10_G042394	Pinus_sylvestris	No orthogroup
+PS_chr10_G042445	Pinus_sylvestris	No orthogroup
+PS_chr10_G042489	Pinus_sylvestris	No orthogroup
+PS_chr10_G042518	Pinus_sylvestris	No orthogroup
+PS_chr10_G042524	Pinus_sylvestris	No orthogroup
+PS_chr10_G042530	Pinus_sylvestris	OG0000000
+PS_chr10_G042532	Pinus_sylvestris	No orthogroup
+PS_chr10_G042533	Pinus_sylvestris	OG0000000
+PS_chr10_G042615	Pinus_sylvestris	No orthogroup
+PS_chr10_G042680	Pinus_sylvestris	No orthogroup
+PS_chr10_G042710	Pinus_sylvestris	No orthogroup
+PS_chr10_G042795	Pinus_sylvestris	No orthogroup
+PS_chr10_G042810	Pinus_sylvestris	OG0014792
+PS_chr10_G042843	Pinus_sylvestris	No orthogroup
+PS_chr10_G042865	Pinus_sylvestris	No orthogroup
+PS_chr10_G042884	Pinus_sylvestris	No orthogroup
+PS_chr10_G042993	Pinus_sylvestris	No orthogroup
+PS_chr10_G043004	Pinus_sylvestris	No orthogroup
+PS_chr10_G043065	Pinus_sylvestris	OG0000338
+PS_chr10_G043110	Pinus_sylvestris	No orthogroup
+PS_chr10_G043116	Pinus_sylvestris	No orthogroup
+PS_chr10_G043149	Pinus_sylvestris	No orthogroup
+PS_chr10_G043159	Pinus_sylvestris	No orthogroup
+PS_chr10_G043192	Pinus_sylvestris	No orthogroup
+PS_chr10_G043215	Pinus_sylvestris	No orthogroup
+PS_chr10_G043294	Pinus_sylvestris	No orthogroup
+PS_chr10_G043351	Pinus_sylvestris	No orthogroup
+PS_chr10_G043362	Pinus_sylvestris	No orthogroup
+PS_chr10_G043415	Pinus_sylvestris	No orthogroup
+PS_chr10_G043524	Pinus_sylvestris	No orthogroup
+PS_chr10_G043573	Pinus_sylvestris	No orthogroup
+PS_chr10_G043597	Pinus_sylvestris	No orthogroup
+PS_chr10_G043676	Pinus_sylvestris	No orthogroup
+PS_chr10_G043726	Pinus_sylvestris	No orthogroup
+PS_chr10_G043756	Pinus_sylvestris	No orthogroup
+PS_chr10_G043763	Pinus_sylvestris	No orthogroup
+PS_chr10_G043776	Pinus_sylvestris	No orthogroup
+PS_chr10_G043894	Pinus_sylvestris	OG0000083
+PS_chr10_G043984	Pinus_sylvestris	No orthogroup
+PS_chr10_G044047	Pinus_sylvestris	No orthogroup
+PS_chr10_G044129	Pinus_sylvestris	No orthogroup
+PS_chr10_G044136	Pinus_sylvestris	OG0004413
+PS_chr10_G044177	Pinus_sylvestris	No orthogroup
+PS_chr10_G044197	Pinus_sylvestris	OG0000000
+PS_chr10_G044217	Pinus_sylvestris	No orthogroup
+PS_chr10_G044237	Pinus_sylvestris	OG0000562
+PS_chr10_G044261	Pinus_sylvestris	No orthogroup
+PS_chr10_G044270	Pinus_sylvestris	OG0000000
+PS_chr10_G044388	Pinus_sylvestris	No orthogroup
+PS_chr10_G044422	Pinus_sylvestris	No orthogroup
+PS_chr10_G044442	Pinus_sylvestris	No orthogroup
+PS_chr10_G044450	Pinus_sylvestris	No orthogroup
+PS_chr10_G044546	Pinus_sylvestris	OG0000141
+PS_chr10_G044551	Pinus_sylvestris	OG0000006
+PS_chr10_G044581	Pinus_sylvestris	No orthogroup
+PS_chr10_G044598	Pinus_sylvestris	No orthogroup
+PS_chr10_G044600	Pinus_sylvestris	OG0000135
+PS_chr10_G044653	Pinus_sylvestris	No orthogroup
+PS_chr10_G044657	Pinus_sylvestris	OG0000000
+PS_chr10_G044659	Pinus_sylvestris	OG0000000
+PS_chr10_G044663	Pinus_sylvestris	No orthogroup
+PS_chr10_G044667	Pinus_sylvestris	No orthogroup
+PS_chr10_G044771	Pinus_sylvestris	No orthogroup
+PS_chr10_G044794	Pinus_sylvestris	OG0000846
+PS_chr10_G044815	Pinus_sylvestris	OG0000109
+PS_chr10_G044862	Pinus_sylvestris	No orthogroup
+PS_chr11_G044909	Pinus_sylvestris	No orthogroup
+PS_chr11_G044912	Pinus_sylvestris	No orthogroup
+PS_chr11_G044949	Pinus_sylvestris	No orthogroup
+PS_chr11_G044999	Pinus_sylvestris	OG0000000
+PS_chr11_G045006	Pinus_sylvestris	OG0000000
+PS_chr11_G045011	Pinus_sylvestris	No orthogroup
+PS_chr11_G045124	Pinus_sylvestris	OG0000067
+PS_chr11_G045157	Pinus_sylvestris	OG0000267
+PS_chr11_G045202	Pinus_sylvestris	No orthogroup
+PS_chr11_G045260	Pinus_sylvestris	No orthogroup
+PS_chr11_G045282	Pinus_sylvestris	No orthogroup
+PS_chr11_G045289	Pinus_sylvestris	No orthogroup
+PS_chr11_G045295	Pinus_sylvestris	No orthogroup
+PS_chr11_G045392	Pinus_sylvestris	No orthogroup
+PS_chr11_G045458	Pinus_sylvestris	No orthogroup
+PS_chr11_G045477	Pinus_sylvestris	No orthogroup
+PS_chr11_G045521	Pinus_sylvestris	OG0000146
+PS_chr11_G045592	Pinus_sylvestris	No orthogroup
+PS_chr11_G045650	Pinus_sylvestris	No orthogroup
+PS_chr11_G045657	Pinus_sylvestris	No orthogroup
+PS_chr11_G045662	Pinus_sylvestris	No orthogroup
+PS_chr11_G045721	Pinus_sylvestris	No orthogroup
+PS_chr11_G045783	Pinus_sylvestris	No orthogroup
+PS_chr11_G045785	Pinus_sylvestris	No orthogroup
+PS_chr11_G045856	Pinus_sylvestris	No orthogroup
+PS_chr11_G045916	Pinus_sylvestris	No orthogroup
+PS_chr11_G045959	Pinus_sylvestris	OG0000014
+PS_chr11_G045965	Pinus_sylvestris	No orthogroup
+PS_chr11_G046110	Pinus_sylvestris	No orthogroup
+PS_chr11_G046123	Pinus_sylvestris	No orthogroup
+PS_chr11_G046156	Pinus_sylvestris	No orthogroup
+PS_chr11_G046177	Pinus_sylvestris	No orthogroup
+PS_chr11_G046213	Pinus_sylvestris	No orthogroup
+PS_chr11_G046278	Pinus_sylvestris	No orthogroup
+PS_chr11_G046322	Pinus_sylvestris	OG0000000
+PS_chr11_G046333	Pinus_sylvestris	No orthogroup
+PS_chr11_G046358	Pinus_sylvestris	No orthogroup
+PS_chr11_G046365	Pinus_sylvestris	No orthogroup
+PS_chr11_G046530	Pinus_sylvestris	No orthogroup
+PS_chr11_G046572	Pinus_sylvestris	No orthogroup
+PS_chr11_G046633	Pinus_sylvestris	No orthogroup
+PS_chr11_G046676	Pinus_sylvestris	No orthogroup
+PS_chr11_G046751	Pinus_sylvestris	No orthogroup
+PS_chr11_G046766	Pinus_sylvestris	No orthogroup
+PS_chr11_G046854	Pinus_sylvestris	OG0000253
+PS_chr11_G046888	Pinus_sylvestris	No orthogroup
+PS_chr11_G046977	Pinus_sylvestris	No orthogroup
+PS_chr11_G046991	Pinus_sylvestris	No orthogroup
+PS_chr11_G047025	Pinus_sylvestris	No orthogroup
+PS_chr11_G047076	Pinus_sylvestris	No orthogroup
+PS_chr11_G047088	Pinus_sylvestris	No orthogroup
+PS_chr11_G047092	Pinus_sylvestris	No orthogroup
+PS_chr11_G047100	Pinus_sylvestris	No orthogroup
+PS_chr11_G047133	Pinus_sylvestris	No orthogroup
+PS_chr11_G047140	Pinus_sylvestris	OG0000172
+PS_chr11_G047377	Pinus_sylvestris	No orthogroup
+PS_chr11_G047388	Pinus_sylvestris	No orthogroup
+PS_chr11_G047402	Pinus_sylvestris	OG0000000
+PS_chr11_G047532	Pinus_sylvestris	No orthogroup
+PS_chr11_G047552	Pinus_sylvestris	No orthogroup
+PS_chr11_G047571	Pinus_sylvestris	No orthogroup
+PS_chr11_G047613	Pinus_sylvestris	No orthogroup
+PS_chr11_G047706	Pinus_sylvestris	No orthogroup
+PS_chr11_G047755	Pinus_sylvestris	No orthogroup
+PS_chr11_G047765	Pinus_sylvestris	No orthogroup
+PS_chr11_G047820	Pinus_sylvestris	No orthogroup
+PS_chr11_G047843	Pinus_sylvestris	No orthogroup
+PS_chr11_G047852	Pinus_sylvestris	No orthogroup
+PS_chr11_G047893	Pinus_sylvestris	No orthogroup
+PS_chr11_G047914	Pinus_sylvestris	No orthogroup
+PS_chr11_G047934	Pinus_sylvestris	No orthogroup
+PS_chr11_G047941	Pinus_sylvestris	No orthogroup
+PS_chr11_G047950	Pinus_sylvestris	No orthogroup
+PS_chr11_G047957	Pinus_sylvestris	OG0000032
+PS_chr11_G048108	Pinus_sylvestris	OG0000206
+PS_chr11_G048144	Pinus_sylvestris	No orthogroup
+PS_chr11_G048172	Pinus_sylvestris	OG0000000
+PS_chr11_G048203	Pinus_sylvestris	No orthogroup
+PS_chr11_G048336	Pinus_sylvestris	No orthogroup
+PS_chr11_G048351	Pinus_sylvestris	OG0000396
+PS_chr11_G048354	Pinus_sylvestris	No orthogroup
+PS_chr11_G048360	Pinus_sylvestris	No orthogroup
+PS_chr11_G048365	Pinus_sylvestris	No orthogroup
+PS_chr11_G048373	Pinus_sylvestris	No orthogroup
+PS_chr11_G048420	Pinus_sylvestris	No orthogroup
+PS_chr11_G048435	Pinus_sylvestris	No orthogroup
+PS_chr11_G048473	Pinus_sylvestris	OG0000004
+PS_chr12_G048483	Pinus_sylvestris	No orthogroup
+PS_chr12_G048493	Pinus_sylvestris	No orthogroup
+PS_chr12_G048504	Pinus_sylvestris	No orthogroup
+PS_chr12_G048548	Pinus_sylvestris	No orthogroup
+PS_chr12_G048650	Pinus_sylvestris	No orthogroup
+PS_chr12_G048729	Pinus_sylvestris	No orthogroup
+PS_chr12_G048735	Pinus_sylvestris	OG0000031
+PS_chr12_G048738	Pinus_sylvestris	No orthogroup
+PS_chr12_G048755	Pinus_sylvestris	OG0000000
+PS_chr12_G048761	Pinus_sylvestris	No orthogroup
+PS_chr12_G048809	Pinus_sylvestris	OG0002721
+PS_chr12_G048847	Pinus_sylvestris	No orthogroup
+PS_chr12_G048899	Pinus_sylvestris	No orthogroup
+PS_chr12_G048900	Pinus_sylvestris	OG0000270
+PS_chr12_G048903	Pinus_sylvestris	OG0000270
+PS_chr12_G048905	Pinus_sylvestris	No orthogroup
+PS_chr12_G049047	Pinus_sylvestris	No orthogroup
+PS_chr12_G049048	Pinus_sylvestris	No orthogroup
+PS_chr12_G049113	Pinus_sylvestris	No orthogroup
+PS_chr12_G049136	Pinus_sylvestris	No orthogroup
+PS_chr12_G049191	Pinus_sylvestris	No orthogroup
+PS_chr12_G049235	Pinus_sylvestris	No orthogroup
+PS_chr12_G049236	Pinus_sylvestris	No orthogroup
+PS_chr12_G049244	Pinus_sylvestris	No orthogroup
+PS_chr12_G049270	Pinus_sylvestris	No orthogroup
+PS_chr12_G049381	Pinus_sylvestris	No orthogroup
+PS_chr12_G049408	Pinus_sylvestris	No orthogroup
+PS_chr12_G049411	Pinus_sylvestris	No orthogroup
+PS_chr12_G049451	Pinus_sylvestris	No orthogroup
+PS_chr12_G049471	Pinus_sylvestris	No orthogroup
+PS_chr12_G049484	Pinus_sylvestris	No orthogroup
+PS_chr12_G049497	Pinus_sylvestris	OG0002077
+PS_chr12_G049522	Pinus_sylvestris	No orthogroup
+PS_chr12_G049549	Pinus_sylvestris	OG0003489
+PS_chr12_G049582	Pinus_sylvestris	No orthogroup
+PS_chr12_G049609	Pinus_sylvestris	No orthogroup
+PS_chr12_G049615	Pinus_sylvestris	No orthogroup
+PS_chr12_G049626	Pinus_sylvestris	No orthogroup
+PS_chr12_G049656	Pinus_sylvestris	OG0000000
+PS_chr12_G049670	Pinus_sylvestris	No orthogroup
+PS_chr12_G049682	Pinus_sylvestris	No orthogroup
+PS_chr12_G049689	Pinus_sylvestris	OG0000084
+PS_chr12_G049691	Pinus_sylvestris	No orthogroup
+PS_chr12_G049754	Pinus_sylvestris	No orthogroup
+PS_chr12_G049769	Pinus_sylvestris	No orthogroup
+PS_chr12_G049809	Pinus_sylvestris	No orthogroup
+PS_chr12_G049811	Pinus_sylvestris	No orthogroup
+PS_chr12_G049872	Pinus_sylvestris	No orthogroup
+PS_chr12_G049875	Pinus_sylvestris	No orthogroup
+PS_chr12_G049903	Pinus_sylvestris	No orthogroup
+PS_chr12_G049972	Pinus_sylvestris	No orthogroup
+PS_chr12_G049993	Pinus_sylvestris	No orthogroup
+PS_chr12_G050004	Pinus_sylvestris	No orthogroup
+PS_chr12_G050013	Pinus_sylvestris	No orthogroup
+PS_chr12_G050014	Pinus_sylvestris	No orthogroup
+PS_chr12_G050039	Pinus_sylvestris	No orthogroup
+PS_chr12_G050047	Pinus_sylvestris	No orthogroup
+PS_chr12_G050134	Pinus_sylvestris	No orthogroup
+PS_chr12_G050156	Pinus_sylvestris	No orthogroup
+PS_chr12_G050158	Pinus_sylvestris	No orthogroup
+PS_chr12_G050168	Pinus_sylvestris	No orthogroup
+PS_chr12_G050199	Pinus_sylvestris	No orthogroup
+PS_chr12_G050293	Pinus_sylvestris	OG0000000
+PS_chr12_G050323	Pinus_sylvestris	OG0000014
+PS_chr12_G050324	Pinus_sylvestris	OG0000014
+PS_chr12_G050365	Pinus_sylvestris	OG0000000
+PS_chr12_G050410	Pinus_sylvestris	No orthogroup
+PS_chr12_G050426	Pinus_sylvestris	OG0000000
+PS_chr12_G050484	Pinus_sylvestris	No orthogroup
+PS_chr12_G050505	Pinus_sylvestris	No orthogroup
+PS_chr12_G050518	Pinus_sylvestris	No orthogroup
+PS_chr12_G050520	Pinus_sylvestris	No orthogroup
+PS_chr12_G050526	Pinus_sylvestris	No orthogroup
+PS_chr12_G050544	Pinus_sylvestris	No orthogroup
+PS_chr12_G050576	Pinus_sylvestris	No orthogroup
+PS_chr12_G050607	Pinus_sylvestris	No orthogroup
+PS_chr12_G050633	Pinus_sylvestris	No orthogroup
+PS_chr12_G050686	Pinus_sylvestris	No orthogroup
+PS_chr12_G050706	Pinus_sylvestris	No orthogroup
+PS_chr12_G050715	Pinus_sylvestris	OG0003867
+PS_chr12_G050721	Pinus_sylvestris	No orthogroup
+PS_chr12_G050812	Pinus_sylvestris	No orthogroup
+PS_chr12_G050823	Pinus_sylvestris	No orthogroup
+PS_chr12_G050856	Pinus_sylvestris	No orthogroup
+PS_chr12_G050885	Pinus_sylvestris	No orthogroup
+PS_chr12_G050908	Pinus_sylvestris	OG0000000
+PS_chr12_G050914	Pinus_sylvestris	No orthogroup
+PS_chr12_G050917	Pinus_sylvestris	No orthogroup
+PS_chr12_G050957	Pinus_sylvestris	No orthogroup
+PS_chr12_G051000	Pinus_sylvestris	No orthogroup
+PS_chr12_G051038	Pinus_sylvestris	No orthogroup
+PS_chr12_G051098	Pinus_sylvestris	No orthogroup
+PS_chr12_G051099	Pinus_sylvestris	No orthogroup
+PS_chr12_G051148	Pinus_sylvestris	No orthogroup
+PS_chr12_G051185	Pinus_sylvestris	No orthogroup
+PS_chr12_G051200	Pinus_sylvestris	No orthogroup
+PS_chr12_G051228	Pinus_sylvestris	OG0000365
+PS_chr12_G051276	Pinus_sylvestris	No orthogroup
+PS_chr12_G051369	Pinus_sylvestris	No orthogroup
+PS_chr12_G051376	Pinus_sylvestris	No orthogroup
+PS_chr12_G051402	Pinus_sylvestris	OG0000316
+PS_chr12_G051412	Pinus_sylvestris	No orthogroup
+PS_chr12_G051424	Pinus_sylvestris	No orthogroup
+PS_chr12_G051425	Pinus_sylvestris	No orthogroup
+PS_chr12_G051426	Pinus_sylvestris	No orthogroup
+PS_chr12_G051444	Pinus_sylvestris	No orthogroup
+PS_chr12_G051478	Pinus_sylvestris	OG0003067
+PS_chr12_G051506	Pinus_sylvestris	OG0000000
+PS_chr12_G051568	Pinus_sylvestris	No orthogroup
+PS_chr12_G051640	Pinus_sylvestris	No orthogroup
+PS_chr12_G051643	Pinus_sylvestris	No orthogroup
+PS_chr12_G051701	Pinus_sylvestris	No orthogroup
+PS_chr12_G051988	Pinus_sylvestris	No orthogroup
+PS_chr12_G052016	Pinus_sylvestris	OG0000107
+PS_chr12_G052018	Pinus_sylvestris	No orthogroup
+PS_chr12_G052052	Pinus_sylvestris	No orthogroup
+PS_chr12_G052060	Pinus_sylvestris	No orthogroup
+PS_chr12_G052072	Pinus_sylvestris	No orthogroup
+PS_chr12_G052078	Pinus_sylvestris	No orthogroup
+PS_chr12_G052128	Pinus_sylvestris	No orthogroup
+PS_chr12_G052131	Pinus_sylvestris	No orthogroup
+PS_chr12_G052133	Pinus_sylvestris	No orthogroup
+PS_chr12_G052200	Pinus_sylvestris	OG0000112
+PS_chr12_G052376	Pinus_sylvestris	No orthogroup
+PS_chr12_G052414	Pinus_sylvestris	No orthogroup
+PS_chr12_G052466	Pinus_sylvestris	No orthogroup
+PS_chr12_G052467	Pinus_sylvestris	No orthogroup
+PS_chr12_G052518	Pinus_sylvestris	OG0000010
+PS_chr12_G052523	Pinus_sylvestris	No orthogroup
+PS_chr12_G052560	Pinus_sylvestris	No orthogroup
+PS_chr12_G052658	Pinus_sylvestris	OG0000010
+PS_chr12_G052667	Pinus_sylvestris	OG0000169
+PS_chr12_G052737	Pinus_sylvestris	OG0000000
+PS_chr12_G052738	Pinus_sylvestris	OG0000000
+PS_chr12_G052765	Pinus_sylvestris	No orthogroup
+PS_chr12_G052776	Pinus_sylvestris	No orthogroup
+PS_chr12_G052805	Pinus_sylvestris	No orthogroup
+PS_chr12_G052806	Pinus_sylvestris	OG0000008
+PS_chr12_G052825	Pinus_sylvestris	OG0000008
+PS_chr12_G052853	Pinus_sylvestris	No orthogroup
+PS_chr12_G052868	Pinus_sylvestris	No orthogroup
+PS_chr12_G052912	Pinus_sylvestris	No orthogroup
+PS_chr12_G052929	Pinus_sylvestris	OG0000004
+PS_chr12_G052933	Pinus_sylvestris	OG0000004
+PS_chr12_G052942	Pinus_sylvestris	OG0000004
+PS_chr12_G053005	Pinus_sylvestris	No orthogroup
+PS_chr12_G053009	Pinus_sylvestris	No orthogroup
+PS_chr12_G053037	Pinus_sylvestris	No orthogroup
+PS_chr12_G053067	Pinus_sylvestris	OG0000000
+PS_chr12_G053080	Pinus_sylvestris	No orthogroup
+PS_chr12_G053089	Pinus_sylvestris	No orthogroup
+PS_chr12_G053102	Pinus_sylvestris	No orthogroup
+PS_sUP0013_G053178	Pinus_sylvestris	No orthogroup
+PS_sUP0013_G053180	Pinus_sylvestris	OG0000000
+PS_sUP0013_G053209	Pinus_sylvestris	No orthogroup
+PS_sUP0013_G053214	Pinus_sylvestris	No orthogroup
+PS_sUP0013_G053216	Pinus_sylvestris	No orthogroup
+PS_sUP0013_G053232	Pinus_sylvestris	No orthogroup
+PS_sUP0013_G053282	Pinus_sylvestris	OG0000113
+PS_sUP0013_G053297	Pinus_sylvestris	No orthogroup
+PS_sUP0013_G053319	Pinus_sylvestris	No orthogroup
+PS_sUP0014_G053351	Pinus_sylvestris	No orthogroup
+PS_sUP0014_G053402	Pinus_sylvestris	OG0000198
+PS_sUP0014_G053418	Pinus_sylvestris	No orthogroup
+PS_sUP0014_G053452	Pinus_sylvestris	No orthogroup
+PS_sUP0014_G053462	Pinus_sylvestris	No orthogroup
+PS_sUP0015_G053489	Pinus_sylvestris	OG0001025
+PS_sUP0015_G053492	Pinus_sylvestris	No orthogroup
+PS_sUP0015_G053499	Pinus_sylvestris	No orthogroup
+PS_sUP0015_G053506	Pinus_sylvestris	OG0000208
+PS_sUP0015_G053508	Pinus_sylvestris	No orthogroup
+PS_sUP0015_G053527	Pinus_sylvestris	OG0000208
+PS_sUP0015_G053542	Pinus_sylvestris	No orthogroup
+PS_sUP0016_G053555	Pinus_sylvestris	No orthogroup
+PS_sUP0016_G053661	Pinus_sylvestris	No orthogroup
+PS_sUP0017_G053669	Pinus_sylvestris	No orthogroup
+PS_sUP0017_G053672	Pinus_sylvestris	No orthogroup
+PS_sUP0017_G053707	Pinus_sylvestris	No orthogroup
+PS_sUP0017_G053726	Pinus_sylvestris	OG0001154
+PS_sUP0017_G053745	Pinus_sylvestris	No orthogroup
+PS_sUP0018_G053825	Pinus_sylvestris	No orthogroup
+PS_sUP0019_G053919	Pinus_sylvestris	No orthogroup
+PS_sUP0020_G053945	Pinus_sylvestris	No orthogroup
+PS_sUP0020_G053990	Pinus_sylvestris	No orthogroup
+PS_sUP0022_G054034	Pinus_sylvestris	OG0005523
+PS_sUP0023_G054064	Pinus_sylvestris	No orthogroup
+PS_sUP0023_G054075	Pinus_sylvestris	No orthogroup
+PS_sUP0026_G054144	Pinus_sylvestris	No orthogroup
+PS_sUP0027_G054156	Pinus_sylvestris	No orthogroup
+PS_sUP0028_G054194	Pinus_sylvestris	No orthogroup
+PS_sUP0029_G054219	Pinus_sylvestris	OG0000140
+PS_sUP0030_G054240	Pinus_sylvestris	No orthogroup
+PS_sUP0030_G054245	Pinus_sylvestris	No orthogroup
+PS_sUP0032_G054332	Pinus_sylvestris	No orthogroup
+PS_sUP0032_G054341	Pinus_sylvestris	No orthogroup
+PS_sUP0046_G054494	Pinus_sylvestris	No orthogroup
+PS_sUP0046_G054495	Pinus_sylvestris	No orthogroup
+PS_sUP0046_G054496	Pinus_sylvestris	No orthogroup
+PS_sUP0048_G054554	Pinus_sylvestris	OG0000078
+PS_sUP0057_G054589	Pinus_sylvestris	No orthogroup
+PS_sUP0057_G054594	Pinus_sylvestris	No orthogroup
+PS_sUP0058_G054610	Pinus_sylvestris	OG0000190
+PS_sUP0060_G054617	Pinus_sylvestris	OG0000048
+PS_sUP0067_G054712	Pinus_sylvestris	OG0000063
+PS_sUP0070_G054727	Pinus_sylvestris	No orthogroup
+PS_sUP0074_G054742	Pinus_sylvestris	No orthogroup
+PS_sUP0080_G054874	Pinus_sylvestris	No orthogroup
+PS_sUP0085_G054904	Pinus_sylvestris	No orthogroup
+PS_sUP0098_G054968	Pinus_sylvestris	No orthogroup
+PS_sUP0099_G054985	Pinus_sylvestris	No orthogroup
+PS_sUP0125_G055138	Pinus_sylvestris	No orthogroup
+PS_sUP0125_G055140	Pinus_sylvestris	No orthogroup
+PS_sUP0131_G055175	Pinus_sylvestris	OG0002648
+PS_sUP0136_G055193	Pinus_sylvestris	No orthogroup
+PS_sUP0137_G055200	Pinus_sylvestris	No orthogroup
+PS_sUP0137_G055206	Pinus_sylvestris	No orthogroup
+PS_sUP0165_G055373	Pinus_sylvestris	No orthogroup
+PS_sUP0177_G055443	Pinus_sylvestris	OG0000601
+PS_sUP0184_G055470	Pinus_sylvestris	OG0000129
+PS_sUP0184_G055472	Pinus_sylvestris	OG0000129
+PS_sUP0214_G055563	Pinus_sylvestris	No orthogroup
+PS_sUP0236_G055639	Pinus_sylvestris	No orthogroup
+PS_sUP0284_G055776	Pinus_sylvestris	OG0001461
+PS_sUP0290_G055804	Pinus_sylvestris	OG0000297
+PS_sUP0311_G055855	Pinus_sylvestris	No orthogroup
+PS_sUP0334_G055918	Pinus_sylvestris	OG0000005
+PS_sUP0366_G055988	Pinus_sylvestris	No orthogroup
+PS_sUP0378_G056005	Pinus_sylvestris	No orthogroup
+PS_sUP0416_G056081	Pinus_sylvestris	No orthogroup
+PS_sUP0420_G056085	Pinus_sylvestris	OG0000071
+PS_sUP0426_G056095	Pinus_sylvestris	No orthogroup
+PS_sUP0430_G056111	Pinus_sylvestris	No orthogroup
+PS_sUP0446_G056140	Pinus_sylvestris	OG0000129
+PS_sUP0446_G056141	Pinus_sylvestris	OG0000129
+PS_sUP0450_G056146	Pinus_sylvestris	No orthogroup
+PS_sUP0486_G056213	Pinus_sylvestris	No orthogroup
+PS_sUP0545_G056335	Pinus_sylvestris	No orthogroup
+PS_sUP0770_G056653	Pinus_sylvestris	OG0000012
+PS_sUP0806_G056694	Pinus_sylvestris	No orthogroup
+PS_sUP0823_G056710	Pinus_sylvestris	OG0000230
+PS_sUP0883_G056777	Pinus_sylvestris	No orthogroup
+PS_sUP0984_G056879	Pinus_sylvestris	OG0000000
+PS_sUP1030_G056932	Pinus_sylvestris	No orthogroup
+PS_sUP1032_G056934	Pinus_sylvestris	No orthogroup
+PS_sUP1161_G057058	Pinus_sylvestris	No orthogroup
+PS_sUP1188_G057086	Pinus_sylvestris	OG0000258
+PS_sUP1247_G057144	Pinus_sylvestris	OG0000729
+PS_sUP1247_G057145	Pinus_sylvestris	No orthogroup
+PS_sUP1354_G057212	Pinus_sylvestris	No orthogroup
+PS_sUP1510_G057319	Pinus_sylvestris	No orthogroup
+PS_sUP1558_G057348	Pinus_sylvestris	OG0001149
+PS_sUP1581_G057360	Pinus_sylvestris	No orthogroup
+PS_sUP1596_G057375	Pinus_sylvestris	No orthogroup
+PS_sUP1658_G057423	Pinus_sylvestris	No orthogroup
+PS_sUP1683_G057442	Pinus_sylvestris	No orthogroup
+PS_sUP1754_G057482	Pinus_sylvestris	OG0000973
+PS_sUP1755_G057483	Pinus_sylvestris	No orthogroup
+PS_sUP1786_G057502	Pinus_sylvestris	No orthogroup
+PS_sUP1811_G057517	Pinus_sylvestris	No orthogroup
+PS_sUP1839_G057542	Pinus_sylvestris	No orthogroup
+PS_sUP1907_G057580	Pinus_sylvestris	OG0000014
+PS_sUP2005_G057630	Pinus_sylvestris	OG0001157
+PS_sUP2010_G057634	Pinus_sylvestris	OG0012919
+PS_sUP2033_G057647	Pinus_sylvestris	OG0000122
+PS_sUP2211_G057734	Pinus_sylvestris	No orthogroup
+PS_sUP2235_G057754	Pinus_sylvestris	No orthogroup
+PS_sUP2463_G057865	Pinus_sylvestris	No orthogroup
+PS_sUP2488_G057882	Pinus_sylvestris	No orthogroup
+PS_sUP2558_G057905	Pinus_sylvestris	No orthogroup
+PS_sUP2653_G057954	Pinus_sylvestris	No orthogroup
+PS_sUP2668_G057965	Pinus_sylvestris	OG0000765
+PS_sUP2684_G057978	Pinus_sylvestris	OG0000000
+PS_sUP2717_G058001	Pinus_sylvestris	No orthogroup
+PS_sUP2876_G058063	Pinus_sylvestris	No orthogroup
+PS_sUP2910_G058080	Pinus_sylvestris	No orthogroup
+PS_sUP2980_G058096	Pinus_sylvestris	OG0000096
+PS_sUP2994_G058102	Pinus_sylvestris	No orthogroup
+PS_sUP3043_G058121	Pinus_sylvestris	No orthogroup
+PS_sUP3101_G058140	Pinus_sylvestris	OG0000000
+PS_sUP3349_G058220	Pinus_sylvestris	No orthogroup
+PS_sUP3382_G058228	Pinus_sylvestris	OG0000013
+PS_sUP3483_G058257	Pinus_sylvestris	No orthogroup
+PS_sUP3559_G058283	Pinus_sylvestris	No orthogroup
+PS_sUP3572_G058289	Pinus_sylvestris	No orthogroup
+PS_sUP3594_G058292	Pinus_sylvestris	OG0000031
+PS_sUP3653_G058311	Pinus_sylvestris	No orthogroup
+PS_sUP3655_G058312	Pinus_sylvestris	No orthogroup
+PS_sUP3676_G058316	Pinus_sylvestris	OG0000813
+PS_sUP3960_G058412	Pinus_sylvestris	OG0000063
+PS_sUP4232_G058488	Pinus_sylvestris	OG0000052
+PS_sUP4441_G058541	Pinus_sylvestris	No orthogroup
+PS_sUP4732_G058622	Pinus_sylvestris	No orthogroup
+PS_sUP5007_G058670	Pinus_sylvestris	No orthogroup
+PS_sUP5205_G058704	Pinus_sylvestris	No orthogroup
+PS_sUP5612_G058762	Pinus_sylvestris	OG0005523
+PS_sUP5695_G058771	Pinus_sylvestris	No orthogroup
+PS_sUP5804_G058794	Pinus_sylvestris	No orthogroup
+PS_sUP6440_G058883	Pinus_sylvestris	OG0000208
+PS_sUP7233_G058939	Pinus_sylvestris	No orthogroup
+PS_sUP8013_G058999	Pinus_sylvestris	OG0000031
+PS_sUP8536_G059013	Pinus_sylvestris	No orthogroup
