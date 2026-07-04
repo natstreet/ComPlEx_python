@@ -210,11 +210,13 @@ for start in range(0, n_pairs, 5000):
     k2   = n1m[i1c].astype(bool).sum(axis=1).astype(np.int32)
     m1c  = m1_arr[i1c]
     m2c  = m2_arr[i2c]
-    # Optimisation-mode pre-BH filter (x>1 in either direction), applied identically by
-    # the reference (loop) Python path so the opt-vs-reference comparison is like-for-like.
-    # The R leg (validate_complex.R) uses R ComPlEx's native x>0-in-both filter, so the
-    # Python-vs-R FDR pools differ (documented in ComPlEx_python/README.md).
-    keep = (x1 > 1) | (x2 > 1)
+    # R-faithful pre-BH filter (overlap > 0 in BOTH directions), matching R ComPlEx's
+    # native pool (validate_complex.R) so the Python-vs-R comparison is like-for-like and
+    # reproduces the published behaviour. This is complex_py.py's default mode
+    # (--min-overlap 1 --overlap-mode and), the mode used for the manuscript network.
+    # The optional x>1 sensitivity pool is available via complex_py.py
+    # --min-overlap 2 --overlap-mode or (see README).
+    keep = (x1 > 0) & (x2 > 0)
     for li in np.where(keep)[0]:
         gi  = start + li
         xi1 = int(x1[li]); xi2 = int(x2[li])
@@ -280,7 +282,7 @@ for _, row in ortho.iterrows():
     m2r = len(N2_of_g2)
     p2r = hypergeom.sf(x2r - 1, N2, m2r, k2r) if x2r > 1 else 1.0
 
-    if x1r > 1 or x2r > 1:
+    if x1r > 0 and x2r > 0:
         res_ref.append({
             "OrthoGroup": row["Ortholog_Group"],
             "Species1": g1, "Species2": g2,
