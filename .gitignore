@@ -4,6 +4,7 @@ __pycache__/
 
 # Regenerable analysis run outputs
 out_*/
+/complex_validation_output/
 
 # Editor/assistant local settings
 .claude/

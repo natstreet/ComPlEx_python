@@ -127,22 +127,23 @@ All rows in the output have `Max.p.val < 0.05`.
 
 ### Validation against R
 
-1. Edit the data paths at the top of `validate_complex.py` (S1_EXPR_FILE,
-   S2_EXPR_FILE, ORTHO_FILE, S1_SPECIES, S2_SPECIES, OUT_DIR).
-2. Run the Python validation:
-   ```bash
-   python3 validate_complex.py
-   ```
-   This saves subset TSVs to OUT_DIR.
+The full validation — including a three-way cross-check against the canonical
+published `rcomplex` — lives in [`validation/`](validation/); see
+[`validation/VALIDATION_NOTE.md`](validation/VALIDATION_NOTE.md) for the write-up
+and `validation/README.md` for how to reproduce it.
 
-3. Set OUT_DIR in `validate_complex.R` to the same directory, then run:
-   ```bash
-   Rscript validate_complex.R
-   ```
+On a 5,000-gene-per-species cold-needle subset (seed 42; 92,537 ortholog pairs with
+non-zero two-directional overlap), three implementations — this Python port
+(`complex_py.py`, default `--min-overlap 1 --overlap-mode and`), an in-house R
+transcription (`validation/validate_complex.R`), and the canonical published
+`rcomplex` run verbatim (`validation/validate_against_canonical_rcomplex.R`) —
+called an identical set of 11,254 co-expressologs (Jaccard = 1.000). Raw
+hypergeometric p-values agreed to machine precision against the R transcription
+(maximum absolute difference 2.1 × 10⁻¹⁵), and per-gene degree centrality was
+identical (Spearman ρ = 1.000 in both species). Independent 1,500-gene cold-needle
+and drought-root subsets (seed 123) gave the same agreement.
 
-4. Re-run `validate_complex.py` to include the R comparison output.
-
-**Expected result on a 1,500-gene subset**: optimised Python = loop-based
-reference exactly (x1, x2, m1, m2, and raw p-values identical in all pairs;
-same FDR<0.05 set). Float32 neighbourhood assignment matches float64 exactly
-at 3% density. See the "Differences" section above for the R comparison.
+A lighter top-level quick-check (`validate_complex.py` + `validate_complex.R`,
+recorded in `VALIDATION_RESULT.md`) reproduces the same conclusion on a 1,500-gene
+subset, and separately confirms the float32-vectorised path matches the float64
+loop reference exactly at 3% density.
