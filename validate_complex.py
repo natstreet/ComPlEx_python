@@ -41,12 +41,17 @@ TSV files written to OUT_DIR:
    reports the Spearman correlation between the two degree definitions)
 """
 
-# ── DATA PATHS — set these before running ─────────────────────────────────────
+# ── DATA PATHS — env-configurable, default to the deposit files ───────────────
+import os
+# Default assumes AbioticStressConifers is checked out beside this repo; override
+# with SPRUCE_PINE_DEPOSIT (or the per-file S1_EXPR/S2_EXPR/ORTHO_FILE variables).
+_DEP = os.environ.get("SPRUCE_PINE_DEPOSIT",
+                      os.path.join(os.path.dirname(os.path.abspath(__file__)),
+                                   os.pardir, "AbioticStressConifers"))
+S1_EXPR_FILE = os.environ.get("S1_EXPR", f"{_DEP}/data/expression/SC_expression.txt")  # spruce (VST)
+S2_EXPR_FILE = os.environ.get("S2_EXPR", f"{_DEP}/data/expression/PC_expression.txt")  # pine  (VST)
 
-S1_EXPR_FILE = "path/to/species1_expression.txt"   # VST matrix, genes × samples
-S2_EXPR_FILE = "path/to/species2_expression.txt"   # VST matrix, genes × samples
-
-ORTHO_FILE   = "path/to/genes_ortholog_categories.tsv"
+ORTHO_FILE   = os.environ.get("ORTHO_FILE", f"{_DEP}/doc/genes_ortholog_categories.tsv")
 # Required columns: gene, species, Ortholog_Group
 
 S1_SPECIES   = "Picea_abies"     # value in the 'species' column for species 1
