@@ -58,10 +58,21 @@ versus dropped at the 3% density cutoff (a deterministic float32/float64 tie-bre
 during network construction). No pair's significance call is affected.
 
 As an additional, fully independent check, a from-scratch re-implementation of the
-algorithm written without reference to `complex_py.py` (`independent_complex.py`,
-run on a 1:1-orthogroup 5,000-gene subset where the two test directions are
-provably identical) reproduced the port's co-expressolog calls exactly
-(2,588 of 2,588, Jaccard = 1.000).
+algorithm written without reference to `complex_py.py` (`independent_complex.py`)
+was run on a 1:1-orthogroup subset, where the two hypergeometric test directions
+are provably identical, so a single-direction implementation is exact. On that
+subset it reproduced the port's co-expressolog calls exactly (2,588 of 2,588,
+Jaccard = 1.000). Reproduce with:
+
+    python3 validation/make_subset.py \
+      --s1-expr <deposit>/data/expression/SCN_expression.txt \
+      --s2-expr <deposit>/data/expression/PCN_expression.txt \
+      --orthologs <deposit>/doc/genes_ortholog_categories.tsv \
+      --n-pairs 5000 --seed 42 --out-dir repro_out
+    python3 validation/independent_complex.py repro_out
+    # -> 5,000 1:1 pairs, 4,434 candidates, 2,588 co-expressologs (== the port on
+    #    the same subset). independent_complex.py assumes 1:1 alignment and is only
+    #    valid on this make_subset output, not on the many-to-many headline set.
 
 The Python implementation therefore reproduces the published R ComPlEx exactly at
 the level of the reported result.
