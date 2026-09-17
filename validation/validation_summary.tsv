@@ -1,0 +1,6 @@
+implementation	candidate_pairs	co_expressologs	identical_to_others
+python_port_float32	92537	11254	yes
+python_reference_float64	92537	11254	yes
+canonical_rcomplex	92537	11254	yes
+in_house_R	92537	11254	yes
+independent_from_scratch(1:1 subset)	4434	2588	yes (2588/2588 on matched 1:1 subset)

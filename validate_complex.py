@@ -48,8 +48,8 @@ import os
 _DEP = os.environ.get("SPRUCE_PINE_DEPOSIT",
                       os.path.join(os.path.dirname(os.path.abspath(__file__)),
                                    os.pardir, "AbioticStressConifers"))
-S1_EXPR_FILE = os.environ.get("S1_EXPR", f"{_DEP}/data/expression/SC_expression.txt")  # spruce (VST)
-S2_EXPR_FILE = os.environ.get("S2_EXPR", f"{_DEP}/data/expression/PC_expression.txt")  # pine  (VST)
+S1_EXPR_FILE = os.environ.get("S1_EXPR", f"{_DEP}/data/expression/SCN_expression.txt")  # spruce (VST)
+S2_EXPR_FILE = os.environ.get("S2_EXPR", f"{_DEP}/data/expression/PCN_expression.txt")  # pine  (VST)
 
 ORTHO_FILE   = os.environ.get("ORTHO_FILE", f"{_DEP}/doc/genes_ortholog_categories.tsv")
 # Required columns: gene, species, Ortholog_Group
@@ -61,8 +61,8 @@ OUT_DIR      = "complex_validation_output"  # directory for all output files
 
 # ── PARAMETERS ────────────────────────────────────────────────────────────────
 
-N_GENES  = 1500    # number of genes to sample from each species (for speed)
-SEED     = 42      # random seed for reproducibility
+N_GENES  = int(os.environ.get("N_GENES", 5000))   # genes sampled per species
+SEED     = int(os.environ.get("SEED", 42))           # random seed
 DENSITY  = 0.03    # fraction of top MR edges to retain as neighbours
 MIN_EXPR = 1.0     # featureSelect threshold: minimum VST value considered expressed
 MIN_SAMP = 2       # featureSelect: gene must be >= MIN_EXPR in this many samples
