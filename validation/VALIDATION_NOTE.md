@@ -34,9 +34,15 @@ spruce-pine deposit checked out beside this repo):
     VALIDATION_DIR=complex_validation_output \
       Rscript validation/canonical_run.R                  # canonical published rcomplex
 
+`PCN_expression.txt` is not included in the deposit archive: it is written, with the
+other per-tissue expression matrices, by `src/ComPlEx/ComPlExDataPrep.R` in the
+spruce-pine repository (natstreet/conifer-stress-comparative-genomics) from the
+deposited DESeq2 objects, so run that script (or `reproduce_paper.sh`) first.
+
 Output tables (subset, per-pair calls and raw p-values for each implementation)
-are written to `complex_validation_output/` and committed here so the result is
-checkable without re-running.
+are written to `complex_validation_output/`, which is not committed; the shared
+co-expressolog calls and per-implementation counts are committed as
+`validation/coexpressolog_calls.tsv` and `validation/validation_summary.tsv`.
 
 ## Result
 
